@@ -1,0 +1,735 @@
+{
+  "updated": "2026-08-11 16:18:38",
+  "users": [
+    {
+      "name": "◆RRRRRRRRQQ",
+      "trip": "◆RRRRRRRRQQ",
+      "money": 2510,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 2510
+    },
+    {
+      "name": "ケツ圧|◆sTJExBD.qaQa",
+      "trip": "ケツ圧|◆sTJExBD.qaQa",
+      "money": 300,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 300
+    },
+    {
+      "name": "Netflix|◆RRRRRRRRQQ",
+      "trip": "Netflix|◆RRRRRRRRQQ",
+      "money": 50,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 50
+    },
+    {
+      "name": "はき|◆//y//1SFyA",
+      "trip": "はき|◆//y//1SFyA",
+      "money": 20,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 20
+    },
+    {
+      "name": "カスピアン|◆JNeQdmAPvo",
+      "trip": "カスピアン|◆JNeQdmAPvo",
+      "money": 130,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 130
+    },
+    {
+      "name": "16944025",
+      "trip": "16944025",
+      "money": 499,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 499
+    },
+    {
+      "name": "◆JNeQdmAPvo",
+      "trip": "◆JNeQdmAPvo",
+      "money": 620,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 620
+    },
+    {
+      "name": "FXAjQUR5lq",
+      "trip": "FXAjQUR5lq",
+      "money": 30,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 30
+    },
+    {
+      "name": "◆...z...z..",
+      "trip": "◆...z...z..",
+      "money": 5300,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 5300
+    },
+    {
+      "name": "◆5yxRP6vopI",
+      "trip": "◆5yxRP6vopI",
+      "money": 1863,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 1863
+    },
+    {
+      "name": "◆UuuuuUUUb6",
+      "trip": "◆UuuuuUUUb6",
+      "money": 155,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 155
+    },
+    {
+      "name": "◆.mochida/.",
+      "trip": "◆.mochida/.",
+      "money": 3161,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 3161
+    },
+    {
+      "name": "ねこねこGyi|◆IIvMW7Yugg",
+      "trip": "ねこねこGyi|◆IIvMW7Yugg",
+      "money": 2575,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 2575
+    },
+    {
+      "name": "花葬|◆flower.nXrpA",
+      "trip": "花葬|◆flower.nXrpA",
+      "money": 20381,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 20381
+    },
+    {
+      "name": "ウザいんボルト|◆UuuuuUUUb6",
+      "trip": "ウザいんボルト|◆UuuuuUUUb6",
+      "money": 2705,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 2705
+    },
+    {
+      "name": "16965317",
+      "trip": "16965317",
+      "money": 94431,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 94431
+    },
+    {
+      "name": "まよねず|◆UXzFKq.d5o",
+      "trip": "まよねず|◆UXzFKq.d5o",
+      "money": 29450,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 29450
+    },
+    {
+      "name": "ムキロゼ|pFS6NhgEGS",
+      "trip": "ムキロゼ|pFS6NhgEGS",
+      "money": 100,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 100
+    }
+  ],
+  "rankings": {
+    "money": [
+      {
+        "name": "16965317",
+        "trip": "16965317",
+        "money": 94431,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 94431
+      },
+      {
+        "name": "まよねず|◆UXzFKq.d5o",
+        "trip": "まよねず|◆UXzFKq.d5o",
+        "money": 29450,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 29450
+      },
+      {
+        "name": "花葬|◆flower.nXrpA",
+        "trip": "花葬|◆flower.nXrpA",
+        "money": 20381,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 20381
+      },
+      {
+        "name": "◆...z...z..",
+        "trip": "◆...z...z..",
+        "money": 5300,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 5300
+      },
+      {
+        "name": "◆.mochida/.",
+        "trip": "◆.mochida/.",
+        "money": 3161,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 3161
+      },
+      {
+        "name": "ウザいんボルト|◆UuuuuUUUb6",
+        "trip": "ウザいんボルト|◆UuuuuUUUb6",
+        "money": 2705,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2705
+      },
+      {
+        "name": "ねこねこGyi|◆IIvMW7Yugg",
+        "trip": "ねこねこGyi|◆IIvMW7Yugg",
+        "money": 2575,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2575
+      },
+      {
+        "name": "◆RRRRRRRRQQ",
+        "trip": "◆RRRRRRRRQQ",
+        "money": 2510,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2510
+      },
+      {
+        "name": "◆5yxRP6vopI",
+        "trip": "◆5yxRP6vopI",
+        "money": 1863,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 1863
+      },
+      {
+        "name": "◆JNeQdmAPvo",
+        "trip": "◆JNeQdmAPvo",
+        "money": 620,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 620
+      },
+      {
+        "name": "16944025",
+        "trip": "16944025",
+        "money": 499,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 499
+      },
+      {
+        "name": "ケツ圧|◆sTJExBD.qaQa",
+        "trip": "ケツ圧|◆sTJExBD.qaQa",
+        "money": 300,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 300
+      },
+      {
+        "name": "◆UuuuuUUUb6",
+        "trip": "◆UuuuuUUUb6",
+        "money": 155,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 155
+      },
+      {
+        "name": "カスピアン|◆JNeQdmAPvo",
+        "trip": "カスピアン|◆JNeQdmAPvo",
+        "money": 130,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 130
+      },
+      {
+        "name": "ムキロゼ|pFS6NhgEGS",
+        "trip": "ムキロゼ|pFS6NhgEGS",
+        "money": 100,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 100
+      },
+      {
+        "name": "Netflix|◆RRRRRRRRQQ",
+        "trip": "Netflix|◆RRRRRRRRQQ",
+        "money": 50,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 50
+      },
+      {
+        "name": "FXAjQUR5lq",
+        "trip": "FXAjQUR5lq",
+        "money": 30,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 30
+      },
+      {
+        "name": "はき|◆//y//1SFyA",
+        "trip": "はき|◆//y//1SFyA",
+        "money": 20,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 20
+      }
+    ],
+    "bank": [
+      {
+        "name": "◆RRRRRRRRQQ",
+        "trip": "◆RRRRRRRRQQ",
+        "money": 2510,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2510
+      },
+      {
+        "name": "ケツ圧|◆sTJExBD.qaQa",
+        "trip": "ケツ圧|◆sTJExBD.qaQa",
+        "money": 300,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 300
+      },
+      {
+        "name": "Netflix|◆RRRRRRRRQQ",
+        "trip": "Netflix|◆RRRRRRRRQQ",
+        "money": 50,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 50
+      },
+      {
+        "name": "はき|◆//y//1SFyA",
+        "trip": "はき|◆//y//1SFyA",
+        "money": 20,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 20
+      },
+      {
+        "name": "カスピアン|◆JNeQdmAPvo",
+        "trip": "カスピアン|◆JNeQdmAPvo",
+        "money": 130,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 130
+      },
+      {
+        "name": "16944025",
+        "trip": "16944025",
+        "money": 499,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 499
+      },
+      {
+        "name": "◆JNeQdmAPvo",
+        "trip": "◆JNeQdmAPvo",
+        "money": 620,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 620
+      },
+      {
+        "name": "FXAjQUR5lq",
+        "trip": "FXAjQUR5lq",
+        "money": 30,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 30
+      },
+      {
+        "name": "◆...z...z..",
+        "trip": "◆...z...z..",
+        "money": 5300,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 5300
+      },
+      {
+        "name": "◆5yxRP6vopI",
+        "trip": "◆5yxRP6vopI",
+        "money": 1863,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 1863
+      },
+      {
+        "name": "◆UuuuuUUUb6",
+        "trip": "◆UuuuuUUUb6",
+        "money": 155,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 155
+      },
+      {
+        "name": "◆.mochida/.",
+        "trip": "◆.mochida/.",
+        "money": 3161,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 3161
+      },
+      {
+        "name": "ねこねこGyi|◆IIvMW7Yugg",
+        "trip": "ねこねこGyi|◆IIvMW7Yugg",
+        "money": 2575,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2575
+      },
+      {
+        "name": "花葬|◆flower.nXrpA",
+        "trip": "花葬|◆flower.nXrpA",
+        "money": 20381,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 20381
+      },
+      {
+        "name": "ウザいんボルト|◆UuuuuUUUb6",
+        "trip": "ウザいんボルト|◆UuuuuUUUb6",
+        "money": 2705,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2705
+      },
+      {
+        "name": "16965317",
+        "trip": "16965317",
+        "money": 94431,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 94431
+      },
+      {
+        "name": "まよねず|◆UXzFKq.d5o",
+        "trip": "まよねず|◆UXzFKq.d5o",
+        "money": 29450,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 29450
+      },
+      {
+        "name": "ムキロゼ|pFS6NhgEGS",
+        "trip": "ムキロゼ|pFS6NhgEGS",
+        "money": 100,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 100
+      }
+    ],
+    "stockAssets": [
+      {
+        "name": "◆RRRRRRRRQQ",
+        "trip": "◆RRRRRRRRQQ",
+        "money": 2510,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2510
+      },
+      {
+        "name": "ケツ圧|◆sTJExBD.qaQa",
+        "trip": "ケツ圧|◆sTJExBD.qaQa",
+        "money": 300,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 300
+      },
+      {
+        "name": "Netflix|◆RRRRRRRRQQ",
+        "trip": "Netflix|◆RRRRRRRRQQ",
+        "money": 50,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 50
+      },
+      {
+        "name": "はき|◆//y//1SFyA",
+        "trip": "はき|◆//y//1SFyA",
+        "money": 20,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 20
+      },
+      {
+        "name": "カスピアン|◆JNeQdmAPvo",
+        "trip": "カスピアン|◆JNeQdmAPvo",
+        "money": 130,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 130
+      },
+      {
+        "name": "16944025",
+        "trip": "16944025",
+        "money": 499,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 499
+      },
+      {
+        "name": "◆JNeQdmAPvo",
+        "trip": "◆JNeQdmAPvo",
+        "money": 620,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 620
+      },
+      {
+        "name": "FXAjQUR5lq",
+        "trip": "FXAjQUR5lq",
+        "money": 30,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 30
+      },
+      {
+        "name": "◆...z...z..",
+        "trip": "◆...z...z..",
+        "money": 5300,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 5300
+      },
+      {
+        "name": "◆5yxRP6vopI",
+        "trip": "◆5yxRP6vopI",
+        "money": 1863,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 1863
+      },
+      {
+        "name": "◆UuuuuUUUb6",
+        "trip": "◆UuuuuUUUb6",
+        "money": 155,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 155
+      },
+      {
+        "name": "◆.mochida/.",
+        "trip": "◆.mochida/.",
+        "money": 3161,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 3161
+      },
+      {
+        "name": "ねこねこGyi|◆IIvMW7Yugg",
+        "trip": "ねこねこGyi|◆IIvMW7Yugg",
+        "money": 2575,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2575
+      },
+      {
+        "name": "花葬|◆flower.nXrpA",
+        "trip": "花葬|◆flower.nXrpA",
+        "money": 20381,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 20381
+      },
+      {
+        "name": "ウザいんボルト|◆UuuuuUUUb6",
+        "trip": "ウザいんボルト|◆UuuuuUUUb6",
+        "money": 2705,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2705
+      },
+      {
+        "name": "16965317",
+        "trip": "16965317",
+        "money": 94431,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 94431
+      },
+      {
+        "name": "まよねず|◆UXzFKq.d5o",
+        "trip": "まよねず|◆UXzFKq.d5o",
+        "money": 29450,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 29450
+      },
+      {
+        "name": "ムキロゼ|pFS6NhgEGS",
+        "trip": "ムキロゼ|pFS6NhgEGS",
+        "money": 100,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 100
+      }
+    ],
+    "totalAssets": [
+      {
+        "name": "16965317",
+        "trip": "16965317",
+        "money": 94431,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 94431
+      },
+      {
+        "name": "まよねず|◆UXzFKq.d5o",
+        "trip": "まよねず|◆UXzFKq.d5o",
+        "money": 29450,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 29450
+      },
+      {
+        "name": "花葬|◆flower.nXrpA",
+        "trip": "花葬|◆flower.nXrpA",
+        "money": 20381,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 20381
+      },
+      {
+        "name": "◆...z...z..",
+        "trip": "◆...z...z..",
+        "money": 5300,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 5300
+      },
+      {
+        "name": "◆.mochida/.",
+        "trip": "◆.mochida/.",
+        "money": 3161,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 3161
+      },
+      {
+        "name": "ウザいんボルト|◆UuuuuUUUb6",
+        "trip": "ウザいんボルト|◆UuuuuUUUb6",
+        "money": 2705,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2705
+      },
+      {
+        "name": "ねこねこGyi|◆IIvMW7Yugg",
+        "trip": "ねこねこGyi|◆IIvMW7Yugg",
+        "money": 2575,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2575
+      },
+      {
+        "name": "◆RRRRRRRRQQ",
+        "trip": "◆RRRRRRRRQQ",
+        "money": 2510,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 2510
+      },
+      {
+        "name": "◆5yxRP6vopI",
+        "trip": "◆5yxRP6vopI",
+        "money": 1863,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 1863
+      },
+      {
+        "name": "◆JNeQdmAPvo",
+        "trip": "◆JNeQdmAPvo",
+        "money": 620,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 620
+      },
+      {
+        "name": "16944025",
+        "trip": "16944025",
+        "money": 499,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 499
+      },
+      {
+        "name": "ケツ圧|◆sTJExBD.qaQa",
+        "trip": "ケツ圧|◆sTJExBD.qaQa",
+        "money": 300,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 300
+      },
+      {
+        "name": "◆UuuuuUUUb6",
+        "trip": "◆UuuuuUUUb6",
+        "money": 155,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 155
+      },
+      {
+        "name": "カスピアン|◆JNeQdmAPvo",
+        "trip": "カスピアン|◆JNeQdmAPvo",
+        "money": 130,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 130
+      },
+      {
+        "name": "ムキロゼ|pFS6NhgEGS",
+        "trip": "ムキロゼ|pFS6NhgEGS",
+        "money": 100,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 100
+      },
+      {
+        "name": "Netflix|◆RRRRRRRRQQ",
+        "trip": "Netflix|◆RRRRRRRRQQ",
+        "money": 50,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 50
+      },
+      {
+        "name": "FXAjQUR5lq",
+        "trip": "FXAjQUR5lq",
+        "money": 30,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 30
+      },
+      {
+        "name": "はき|◆//y//1SFyA",
+        "trip": "はき|◆//y//1SFyA",
+        "money": 20,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 20
+      }
+    ]
+  }
+}
