@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:54:37",
+  "updated": "2026-08-15 16:54:44",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -476,10 +476,10 @@
     {
       "name": "◆6.........",
       "trip": "◆6.........",
-      "money": 20000,
+      "money": 0,
       "bank": 890000,
       "stockAssets": 0,
-      "totalAssets": 910000
+      "totalAssets": 890000
     },
     {
       "name": "◆fumeiyo.t3cg",
@@ -587,14 +587,6 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 20381
-      },
-      {
-        "name": "◆6.........",
-        "trip": "◆6.........",
-        "money": 20000,
-        "bank": 890000,
-        "stockAssets": 0,
-        "totalAssets": 910000
       },
       {
         "name": "16982572",
@@ -979,6 +971,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 0
+      },
+      {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 0,
+        "bank": 890000,
+        "stockAssets": 0,
+        "totalAssets": 890000
       }
     ],
     "bank": [
@@ -1009,10 +1009,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 20000,
+        "money": 0,
         "bank": 890000,
         "stockAssets": 0,
-        "totalAssets": 910000
+        "totalAssets": 890000
       },
       {
         "name": "◆.mochida/.",
@@ -1947,10 +1947,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 20000,
+        "money": 0,
         "bank": 890000,
         "stockAssets": 0,
-        "totalAssets": 910000
+        "totalAssets": 890000
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -2029,10 +2029,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 20000,
+        "money": 0,
         "bank": 890000,
         "stockAssets": 0,
-        "totalAssets": 910000
+        "totalAssets": 890000
       },
       {
         "name": "◆JXdMWRWPis",
