@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:47:11",
+  "updated": "2026-08-15 16:47:15",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -84,10 +84,10 @@
     {
       "name": "◆UuuuuUUUb6",
       "trip": "◆UuuuuUUUb6",
-      "money": 28000,
+      "money": 56000,
       "bank": 23872503,
       "stockAssets": 0,
-      "totalAssets": 23900503
+      "totalAssets": 23928503
     },
     {
       "name": "◆.mochida/.",
@@ -557,6 +557,14 @@
         "totalAssets": 94431
       },
       {
+        "name": "◆UuuuuUUUb6",
+        "trip": "◆UuuuuUUUb6",
+        "money": 56000,
+        "bank": 23872503,
+        "stockAssets": 0,
+        "totalAssets": 23928503
+      },
+      {
         "name": "c4PcTtxnqi",
         "trip": "c4PcTtxnqi",
         "money": 50000,
@@ -579,14 +587,6 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 29450
-      },
-      {
-        "name": "◆UuuuuUUUb6",
-        "trip": "◆UuuuuUUUb6",
-        "money": 28000,
-        "bank": 23872503,
-        "stockAssets": 0,
-        "totalAssets": 23900503
       },
       {
         "name": "花葬|◆flower.nXrpA",
@@ -977,10 +977,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 28000,
+        "money": 56000,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 23900503
+        "totalAssets": 23928503
       },
       {
         "name": "◆Haru//CGUg",
@@ -1531,10 +1531,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 28000,
+        "money": 56000,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 23900503
+        "totalAssets": 23928503
       },
       {
         "name": "◆.mochida/.",
@@ -1965,10 +1965,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 28000,
+        "money": 56000,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 23900503
+        "totalAssets": 23928503
       },
       {
         "name": "◆.mochida/.",
