@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:46:47",
+  "updated": "2026-08-15 16:46:52",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -476,8 +476,8 @@
     {
       "name": "◆6.........",
       "trip": "◆6.........",
-      "money": 1002375,
-      "bank": 0,
+      "money": 102375,
+      "bank": 900000,
       "stockAssets": 0,
       "totalAssets": 1002375
     }
@@ -527,8 +527,8 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 1002375,
-        "bank": 0,
+        "money": 102375,
+        "bank": 900000,
         "stockAssets": 0,
         "totalAssets": 1002375
       },
@@ -991,6 +991,14 @@
         "totalAssets": 1094247
       },
       {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 102375,
+        "bank": 900000,
+        "stockAssets": 0,
+        "totalAssets": 1002375
+      },
+      {
         "name": "◆.mochida/.",
         "trip": "◆.mochida/.",
         "money": 2142911,
@@ -1437,14 +1445,6 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 1050
-      },
-      {
-        "name": "◆6.........",
-        "trip": "◆6.........",
-        "money": 1002375,
-        "bank": 0,
-        "stockAssets": 0,
-        "totalAssets": 1002375
       }
     ],
     "stockAssets": [
@@ -1923,8 +1923,8 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 1002375,
-        "bank": 0,
+        "money": 102375,
+        "bank": 900000,
         "stockAssets": 0,
         "totalAssets": 1002375
       }
@@ -1997,8 +1997,8 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 1002375,
-        "bank": 0,
+        "money": 102375,
+        "bank": 900000,
         "stockAssets": 0,
         "totalAssets": 1002375
       },
