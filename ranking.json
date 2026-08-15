@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 22:18:24",
+  "updated": "2026-08-15 22:19:00",
   "users": [
     {
       "name": "Netflix",
@@ -628,7 +628,7 @@
     {
       "name": "◆Peach7G..k6f",
       "trip": "◆Peach7G..k6f",
-      "money": 9559,
+      "money": 15059,
       "bank": 0,
       "loan": 0,
       "prestige": 1,
@@ -639,7 +639,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 9559
+      "totalAssets": 15059
     },
     {
       "name": "◆YJrpsBVNhY",
@@ -901,6 +901,22 @@
         "totalAssets": 20381
       },
       {
+        "name": "◆Peach7G..k6f",
+        "trip": "◆Peach7G..k6f",
+        "money": 15059,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 1,
+        "fish": 8,
+        "mine": 3,
+        "hunt": 3,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 15059
+      },
+      {
         "name": "◆merolyviyQ",
         "trip": "◆merolyviyQ",
         "money": 11950,
@@ -915,22 +931,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11950
-      },
-      {
-        "name": "◆Peach7G..k6f",
-        "trip": "◆Peach7G..k6f",
-        "money": 9559,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 1,
-        "fish": 8,
-        "mine": 3,
-        "hunt": 3,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 9559
       },
       {
         "name": "◆...z...z..",
@@ -2169,7 +2169,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 9559,
+        "money": 15059,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -2180,7 +2180,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 9559
+        "totalAssets": 15059
       },
       {
         "name": "◆YJrpsBVNhY",
@@ -2939,7 +2939,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 9559,
+        "money": 15059,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -2950,7 +2950,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 9559
+        "totalAssets": 15059
       },
       {
         "name": "◆YJrpsBVNhY",
@@ -3291,6 +3291,22 @@
         "totalAssets": 20381
       },
       {
+        "name": "◆Peach7G..k6f",
+        "trip": "◆Peach7G..k6f",
+        "money": 15059,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 1,
+        "fish": 8,
+        "mine": 3,
+        "hunt": 3,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 15059
+      },
+      {
         "name": "◆merolyviyQ",
         "trip": "◆merolyviyQ",
         "money": 11950,
@@ -3305,22 +3321,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11950
-      },
-      {
-        "name": "◆Peach7G..k6f",
-        "trip": "◆Peach7G..k6f",
-        "money": 9559,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 1,
-        "fish": 8,
-        "mine": 3,
-        "hunt": 3,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 9559
       },
       {
         "name": "◆...z...z..",
@@ -3967,7 +3967,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 9559,
+        "money": 15059,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -3978,7 +3978,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 9559
+        "totalAssets": 15059
       },
       {
         "name": "◆meqkRCpZsU",
@@ -4753,7 +4753,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 9559,
+        "money": 15059,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -4764,7 +4764,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 9559
+        "totalAssets": 15059
       },
       {
         "name": "Netflix",
@@ -5539,7 +5539,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 9559,
+        "money": 15059,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -5550,7 +5550,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 9559
+        "totalAssets": 15059
       },
       {
         "name": "Netflix",
@@ -6277,7 +6277,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 9559,
+        "money": 15059,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -6288,7 +6288,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 9559
+        "totalAssets": 15059
       },
       {
         "name": "Netflix",
@@ -7559,7 +7559,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 9559,
+        "money": 15059,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -7570,7 +7570,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 9559
+        "totalAssets": 15059
       },
       {
         "name": "◆YJrpsBVNhY",
@@ -7913,7 +7913,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 9559,
+        "money": 15059,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -7924,7 +7924,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 9559
+        "totalAssets": 15059
       },
       {
         "name": "◆5yxRP6vopI",
