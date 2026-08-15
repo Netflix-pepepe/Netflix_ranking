@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:55:56",
+  "updated": "2026-08-15 16:56:01",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -84,10 +84,10 @@
     {
       "name": "◆UuuuuUUUb6",
       "trip": "◆UuuuuUUUb6",
-      "money": 15675,
+      "money": 0,
       "bank": 23872503,
       "stockAssets": 0,
-      "totalAssets": 23888178
+      "totalAssets": 23872503
     },
     {
       "name": "◆.mochida/.",
@@ -589,14 +589,6 @@
         "totalAssets": 20381
       },
       {
-        "name": "◆UuuuuUUUb6",
-        "trip": "◆UuuuuUUUb6",
-        "money": 15675,
-        "bank": 23872503,
-        "stockAssets": 0,
-        "totalAssets": 23888178
-      },
-      {
         "name": "16982572",
         "trip": "16982572",
         "money": 12157,
@@ -933,6 +925,14 @@
         "totalAssets": 1
       },
       {
+        "name": "◆UuuuuUUUb6",
+        "trip": "◆UuuuuUUUb6",
+        "money": 0,
+        "bank": 23872503,
+        "stockAssets": 0,
+        "totalAssets": 23872503
+      },
+      {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
         "money": 0,
@@ -993,10 +993,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 15675,
+        "money": 0,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 23888178
+        "totalAssets": 23872503
       },
       {
         "name": "◆Haru//CGUg",
@@ -1555,10 +1555,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 15675,
+        "money": 0,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 23888178
+        "totalAssets": 23872503
       },
       {
         "name": "◆.mochida/.",
@@ -1997,10 +1997,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 15675,
+        "money": 0,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 23888178
+        "totalAssets": 23872503
       },
       {
         "name": "◆.mochida/.",
