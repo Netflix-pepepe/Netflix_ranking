@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:49:06",
+  "updated": "2026-08-15 16:49:29",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -476,8 +476,8 @@
     {
       "name": "◆6.........",
       "trip": "◆6.........",
-      "money": 0,
-      "bank": 900000,
+      "money": 10000,
+      "bank": 890000,
       "stockAssets": 0,
       "totalAssets": 900000
     }
@@ -595,6 +595,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 11950
+      },
+      {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 10000,
+        "bank": 890000,
+        "stockAssets": 0,
+        "totalAssets": 900000
       },
       {
         "name": "◆...z...z..",
@@ -955,14 +963,6 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 0
-      },
-      {
-        "name": "◆6.........",
-        "trip": "◆6.........",
-        "money": 0,
-        "bank": 900000,
-        "stockAssets": 0,
-        "totalAssets": 900000
       }
     ],
     "bank": [
@@ -993,8 +993,8 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 0,
-        "bank": 900000,
+        "money": 10000,
+        "bank": 890000,
         "stockAssets": 0,
         "totalAssets": 900000
       },
@@ -1923,8 +1923,8 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 0,
-        "bank": 900000,
+        "money": 10000,
+        "bank": 890000,
         "stockAssets": 0,
         "totalAssets": 900000
       }
@@ -1997,8 +1997,8 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 0,
-        "bank": 900000,
+        "money": 10000,
+        "bank": 890000,
         "stockAssets": 0,
         "totalAssets": 900000
       },
