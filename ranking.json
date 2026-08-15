@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 22:19:00",
+  "updated": "2026-08-15 22:19:34",
   "users": [
     {
       "name": "Netflix",
@@ -478,7 +478,7 @@
       "title": "",
       "stockAssets": 0,
       "level": 0,
-      "jobLevel": 0,
+      "jobLevel": 1,
       "totalAssets": 4547
     },
     {
@@ -1009,7 +1009,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -1651,7 +1651,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -2789,7 +2789,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -3383,7 +3383,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -4393,7 +4393,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -4715,7 +4715,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -6013,7 +6013,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -6719,7 +6719,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -7409,7 +7409,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 4547
       },
       {
@@ -7847,6 +7847,22 @@
         "totalAssets": 0
       },
       {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 3547,
+        "bank": 1000,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 12,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 4547
+      },
+      {
         "name": "◆.wwwwwwww.",
         "trip": "◆.wwwwwwww.",
         "money": 70,
@@ -8261,22 +8277,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 1000
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 3547,
-        "bank": 1000,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 12,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 4547
       },
       {
         "name": "◆Deus/6vRqo",
