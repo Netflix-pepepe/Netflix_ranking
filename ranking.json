@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:40:24",
+  "updated": "2026-08-15 16:40:34",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -84,10 +84,10 @@
     {
       "name": "◆UuuuuUUUb6",
       "trip": "◆UuuuuUUUb6",
-      "money": 1000000,
+      "money": 0,
       "bank": 23872503,
       "stockAssets": 0,
-      "totalAssets": 24872503
+      "totalAssets": 23872503
     },
     {
       "name": "◆.mochida/.",
@@ -476,10 +476,10 @@
     {
       "name": "◆6.........",
       "trip": "◆6.........",
-      "money": 875,
+      "money": 1000875,
       "bank": 0,
       "stockAssets": 0,
-      "totalAssets": 875
+      "totalAssets": 1000875
     }
   ],
   "rankings": {
@@ -525,12 +525,12 @@
         "totalAssets": 1350050
       },
       {
-        "name": "◆UuuuuUUUb6",
-        "trip": "◆UuuuuUUUb6",
-        "money": 1000000,
-        "bank": 23872503,
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 1000875,
+        "bank": 0,
         "stockAssets": 0,
-        "totalAssets": 24872503
+        "totalAssets": 1000875
       },
       {
         "name": "◆JXdMWRWPis",
@@ -733,14 +733,6 @@
         "totalAssets": 1000
       },
       {
-        "name": "◆6.........",
-        "trip": "◆6.........",
-        "money": 875,
-        "bank": 0,
-        "stockAssets": 0,
-        "totalAssets": 875
-      },
-      {
         "name": "◆Deus/6vRqo",
         "trip": "◆Deus/6vRqo",
         "money": 830,
@@ -915,6 +907,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 1
+      },
+      {
+        "name": "◆UuuuuUUUb6",
+        "trip": "◆UuuuuUUUb6",
+        "money": 0,
+        "bank": 23872503,
+        "stockAssets": 0,
+        "totalAssets": 23872503
       },
       {
         "name": "◆Haru//CGUg",
@@ -977,10 +977,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 1000000,
+        "money": 0,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 24872503
+        "totalAssets": 23872503
       },
       {
         "name": "◆Haru//CGUg",
@@ -1441,10 +1441,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 875,
+        "money": 1000875,
         "bank": 0,
         "stockAssets": 0,
-        "totalAssets": 875
+        "totalAssets": 1000875
       }
     ],
     "stockAssets": [
@@ -1531,10 +1531,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 1000000,
+        "money": 0,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 24872503
+        "totalAssets": 23872503
       },
       {
         "name": "◆.mochida/.",
@@ -1923,10 +1923,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 875,
+        "money": 1000875,
         "bank": 0,
         "stockAssets": 0,
-        "totalAssets": 875
+        "totalAssets": 1000875
       }
     ],
     "totalAssets": [
@@ -1965,10 +1965,10 @@
       {
         "name": "◆UuuuuUUUb6",
         "trip": "◆UuuuuUUUb6",
-        "money": 1000000,
+        "money": 0,
         "bank": 23872503,
         "stockAssets": 0,
-        "totalAssets": 24872503
+        "totalAssets": 23872503
       },
       {
         "name": "◆.mochida/.",
@@ -1993,6 +1993,14 @@
         "bank": 1094247,
         "stockAssets": 0,
         "totalAssets": 1094247
+      },
+      {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 1000875,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 1000875
       },
       {
         "name": "◆JXdMWRWPis",
@@ -2201,14 +2209,6 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 1000
-      },
-      {
-        "name": "◆6.........",
-        "trip": "◆6.........",
-        "money": 875,
-        "bank": 0,
-        "stockAssets": 0,
-        "totalAssets": 875
       },
       {
         "name": "◆Deus/6vRqo",
