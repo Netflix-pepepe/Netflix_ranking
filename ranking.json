@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 22:27:12",
+  "updated": "2026-08-15 22:27:46",
   "users": [
     {
       "name": "Netflix",
@@ -596,7 +596,7 @@
     {
       "name": "ウザいんボルト",
       "trip": "◆UuuuuUUUb6",
-      "money": 5788,
+      "money": 6212,
       "bank": 23872503,
       "loan": 0,
       "prestige": 278,
@@ -606,8 +606,8 @@
       "title": "伝説のハンター",
       "stockAssets": 0,
       "level": 0,
-      "jobLevel": 1,
-      "totalAssets": 23878291
+      "jobLevel": 2,
+      "totalAssets": 23878715
     },
     {
       "name": "◆People/Pbk",
@@ -933,6 +933,22 @@
         "totalAssets": 11950
       },
       {
+        "name": "ウザいんボルト",
+        "trip": "◆UuuuuUUUb6",
+        "money": 6212,
+        "bank": 23872503,
+        "loan": 0,
+        "prestige": 278,
+        "fish": 89,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 23878715
+      },
+      {
         "name": "◆...z...z..",
         "trip": "◆...z...z..",
         "money": 5940,
@@ -963,22 +979,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5867
-      },
-      {
-        "name": "ウザいんボルト",
-        "trip": "◆UuuuuUUUb6",
-        "money": 5788,
-        "bank": 23872503,
-        "loan": 0,
-        "prestige": 278,
-        "fish": 89,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -1561,7 +1561,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 5788,
+        "money": 6212,
         "bank": 23872503,
         "loan": 0,
         "prestige": 278,
@@ -1571,8 +1571,8 @@
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
+        "jobLevel": 2,
+        "totalAssets": 23878715
       },
       {
         "name": "◆Haru//CGUg",
@@ -2907,7 +2907,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 5788,
+        "money": 6212,
         "bank": 23872503,
         "loan": 0,
         "prestige": 278,
@@ -2917,8 +2917,8 @@
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
+        "jobLevel": 2,
+        "totalAssets": 23878715
       },
       {
         "name": "◆People/Pbk",
@@ -3101,7 +3101,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 5788,
+        "money": 6212,
         "bank": 23872503,
         "loan": 0,
         "prestige": 278,
@@ -3111,8 +3111,8 @@
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
+        "jobLevel": 2,
+        "totalAssets": 23878715
       },
       {
         "name": "◆.mochida/.",
@@ -3855,7 +3855,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 5788,
+        "money": 6212,
         "bank": 23872503,
         "loan": 0,
         "prestige": 278,
@@ -3865,8 +3865,8 @@
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
+        "jobLevel": 2,
+        "totalAssets": 23878715
       },
       {
         "name": "◆Haru//CGUg",
@@ -4625,7 +4625,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 5788,
+        "money": 6212,
         "bank": 23872503,
         "loan": 0,
         "prestige": 278,
@@ -4635,8 +4635,8 @@
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
+        "jobLevel": 2,
+        "totalAssets": 23878715
       },
       {
         "name": "◆.mochida/.",
@@ -5459,7 +5459,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 5788,
+        "money": 6212,
         "bank": 23872503,
         "loan": 0,
         "prestige": 278,
@@ -5469,8 +5469,8 @@
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
+        "jobLevel": 2,
+        "totalAssets": 23878715
       },
       {
         "name": "◆meqkRCpZsU",
@@ -6213,7 +6213,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 5788,
+        "money": 6212,
         "bank": 23872503,
         "loan": 0,
         "prestige": 278,
@@ -6223,8 +6223,8 @@
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
+        "jobLevel": 2,
+        "totalAssets": 23878715
       },
       {
         "name": "◆meqkRCpZsU",
@@ -7527,7 +7527,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 5788,
+        "money": 6212,
         "bank": 23872503,
         "loan": 0,
         "prestige": 278,
@@ -7537,8 +7537,8 @@
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
+        "jobLevel": 2,
+        "totalAssets": 23878715
       },
       {
         "name": "◆People/Pbk",
@@ -7719,6 +7719,22 @@
         "totalAssets": 1094247
       },
       {
+        "name": "ウザいんボルト",
+        "trip": "◆UuuuuUUUb6",
+        "money": 6212,
+        "bank": 23872503,
+        "loan": 0,
+        "prestige": 278,
+        "fish": 89,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 23878715
+      },
+      {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
         "money": 43478,
@@ -7893,22 +7909,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 2027
-      },
-      {
-        "name": "ウザいんボルト",
-        "trip": "◆UuuuuUUUb6",
-        "money": 5788,
-        "bank": 23872503,
-        "loan": 0,
-        "prestige": 278,
-        "fish": 89,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 23878291
       },
       {
         "name": "◆People/Pbk",
