@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 20:44:39",
+  "updated": "2026-08-15 20:45:13",
   "users": [
     {
       "name": "Netflix",
@@ -180,9 +180,9 @@
     {
       "name": "◆L6i5qOOvGM",
       "trip": "◆L6i5qOOvGM",
-      "money": 0,
+      "money": 1000,
       "bank": 0,
-      "loan": 0,
+      "loan": 1000,
       "prestige": 0,
       "fish": 0,
       "mine": 0,
@@ -191,7 +191,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 0
+      "totalAssets": 1000
     },
     {
       "name": "ねこねこGyi",
@@ -1157,6 +1157,22 @@
         "totalAssets": 1050
       },
       {
+        "name": "◆L6i5qOOvGM",
+        "trip": "◆L6i5qOOvGM",
+        "money": 1000,
+        "bank": 0,
+        "loan": 1000,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 1000
+      },
+      {
         "name": "RS6ADCZiTj",
         "trip": "RS6ADCZiTj",
         "money": 1000,
@@ -1434,22 +1450,6 @@
         "money": 0,
         "bank": 0,
         "loan": 100000,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 0
-      },
-      {
-        "name": "◆L6i5qOOvGM",
-        "trip": "◆L6i5qOOvGM",
-        "money": 0,
-        "bank": 0,
-        "loan": 0,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -1801,9 +1801,9 @@
       {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
-        "money": 0,
+        "money": 1000,
         "bank": 0,
-        "loan": 0,
+        "loan": 1000,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -1812,7 +1812,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 0
+        "totalAssets": 1000
       },
       {
         "name": "ねこねこGyi",
@@ -2491,9 +2491,9 @@
       {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
-        "money": 0,
+        "money": 1000,
         "bank": 0,
-        "loan": 0,
+        "loan": 1000,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -2502,7 +2502,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 0
+        "totalAssets": 1000
       },
       {
         "name": "ねこねこGyi",
@@ -3531,6 +3531,22 @@
         "totalAssets": 1050
       },
       {
+        "name": "◆L6i5qOOvGM",
+        "trip": "◆L6i5qOOvGM",
+        "money": 1000,
+        "bank": 0,
+        "loan": 1000,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 1000
+      },
+      {
         "name": "RS6ADCZiTj",
         "trip": "RS6ADCZiTj",
         "money": 1000,
@@ -3760,22 +3776,6 @@
         "money": 0,
         "bank": 0,
         "loan": 100000,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 0
-      },
-      {
-        "name": "◆L6i5qOOvGM",
-        "trip": "◆L6i5qOOvGM",
-        "money": 0,
-        "bank": 0,
-        "loan": 0,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -4143,9 +4143,9 @@
       {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
-        "money": 0,
+        "money": 1000,
         "bank": 0,
-        "loan": 0,
+        "loan": 1000,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -4154,7 +4154,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 0
+        "totalAssets": 1000
       },
       {
         "name": "ねこねこGyi",
@@ -5137,9 +5137,9 @@
       {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
-        "money": 0,
+        "money": 1000,
         "bank": 0,
-        "loan": 0,
+        "loan": 1000,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -5148,7 +5148,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 0
+        "totalAssets": 1000
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -5859,9 +5859,9 @@
       {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
-        "money": 0,
+        "money": 1000,
         "bank": 0,
-        "loan": 0,
+        "loan": 1000,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -5870,7 +5870,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 0
+        "totalAssets": 1000
       },
       {
         "name": "◆oZY3evqigQ",
@@ -6453,9 +6453,9 @@
       {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
-        "money": 0,
+        "money": 1000,
         "bank": 0,
-        "loan": 0,
+        "loan": 1000,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -6464,7 +6464,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 0
+        "totalAssets": 1000
       },
       {
         "name": "ねこねこGyi",
@@ -7111,9 +7111,9 @@
       {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
-        "money": 0,
+        "money": 1000,
         "bank": 0,
-        "loan": 0,
+        "loan": 1000,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -7122,7 +7122,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 0
+        "totalAssets": 1000
       },
       {
         "name": "ねこねこGyi",
@@ -8057,9 +8057,9 @@
       {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
-        "money": 0,
+        "money": 1000,
         "bank": 0,
-        "loan": 0,
+        "loan": 1000,
         "prestige": 0,
         "fish": 0,
         "mine": 0,
@@ -8068,7 +8068,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 0
+        "totalAssets": 1000
       },
       {
         "name": "ねこねこGyi",
