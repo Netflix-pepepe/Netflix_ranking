@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:47:24",
+  "updated": "2026-08-15 16:47:35",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -476,10 +476,10 @@
     {
       "name": "◆6.........",
       "trip": "◆6.........",
-      "money": 102375,
+      "money": 0,
       "bank": 900000,
       "stockAssets": 0,
-      "totalAssets": 1002375
+      "totalAssets": 900000
     }
   ],
   "rankings": {
@@ -523,14 +523,6 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 1350050
-      },
-      {
-        "name": "◆6.........",
-        "trip": "◆6.........",
-        "money": 102375,
-        "bank": 900000,
-        "stockAssets": 0,
-        "totalAssets": 1002375
       },
       {
         "name": "◆JXdMWRWPis",
@@ -963,6 +955,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 0
+      },
+      {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 0,
+        "bank": 900000,
+        "stockAssets": 0,
+        "totalAssets": 900000
       }
     ],
     "bank": [
@@ -993,10 +993,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 102375,
+        "money": 0,
         "bank": 900000,
         "stockAssets": 0,
-        "totalAssets": 1002375
+        "totalAssets": 900000
       },
       {
         "name": "◆.mochida/.",
@@ -1923,10 +1923,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 102375,
+        "money": 0,
         "bank": 900000,
         "stockAssets": 0,
-        "totalAssets": 1002375
+        "totalAssets": 900000
       }
     ],
     "totalAssets": [
@@ -1997,10 +1997,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 102375,
+        "money": 0,
         "bank": 900000,
         "stockAssets": 0,
-        "totalAssets": 1002375
+        "totalAssets": 900000
       },
       {
         "name": "◆JXdMWRWPis",
