@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:52:02",
+  "updated": "2026-08-15 16:52:18",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -480,6 +480,14 @@
       "bank": 890000,
       "stockAssets": 0,
       "totalAssets": 910000
+    },
+    {
+      "name": "◆fumeiyo.t3cg",
+      "trip": "◆fumeiyo.t3cg",
+      "money": 5000,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 5000
     }
   ],
   "rankings": {
@@ -619,6 +627,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 5867
+      },
+      {
+        "name": "◆fumeiyo.t3cg",
+        "trip": "◆fumeiyo.t3cg",
+        "money": 5000,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 5000
       },
       {
         "name": "◆//y//1SFyA",
@@ -1445,6 +1461,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 1050
+      },
+      {
+        "name": "◆fumeiyo.t3cg",
+        "trip": "◆fumeiyo.t3cg",
+        "money": 5000,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 5000
       }
     ],
     "stockAssets": [
@@ -1927,6 +1951,14 @@
         "bank": 890000,
         "stockAssets": 0,
         "totalAssets": 910000
+      },
+      {
+        "name": "◆fumeiyo.t3cg",
+        "trip": "◆fumeiyo.t3cg",
+        "money": 5000,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 5000
       }
     ],
     "totalAssets": [
@@ -2097,6 +2129,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 5867
+      },
+      {
+        "name": "◆fumeiyo.t3cg",
+        "trip": "◆fumeiyo.t3cg",
+        "money": 5000,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 5000
       },
       {
         "name": "◆//y//1SFyA",
