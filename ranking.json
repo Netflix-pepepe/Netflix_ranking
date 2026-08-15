@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:38:06",
+  "updated": "2026-08-15 16:38:35",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -476,10 +476,10 @@
     {
       "name": "◆6.........",
       "trip": "◆6.........",
-      "money": 375,
+      "money": 475,
       "bank": 0,
       "stockAssets": 0,
-      "totalAssets": 375
+      "totalAssets": 475
     }
   ],
   "rankings": {
@@ -749,20 +749,20 @@
         "totalAssets": 499
       },
       {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 475,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 475
+      },
+      {
         "name": "◆.RngS8LZGk",
         "trip": "◆.RngS8LZGk",
         "money": 452,
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 452
-      },
-      {
-        "name": "◆6.........",
-        "trip": "◆6.........",
-        "money": 375,
-        "bank": 0,
-        "stockAssets": 0,
-        "totalAssets": 375
       },
       {
         "name": "◆IIvMW7Yugg",
@@ -1441,10 +1441,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 375,
+        "money": 475,
         "bank": 0,
         "stockAssets": 0,
-        "totalAssets": 375
+        "totalAssets": 475
       }
     ],
     "stockAssets": [
@@ -1923,10 +1923,10 @@
       {
         "name": "◆6.........",
         "trip": "◆6.........",
-        "money": 375,
+        "money": 475,
         "bank": 0,
         "stockAssets": 0,
-        "totalAssets": 375
+        "totalAssets": 475
       }
     ],
     "totalAssets": [
@@ -2227,20 +2227,20 @@
         "totalAssets": 499
       },
       {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 475,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 475
+      },
+      {
         "name": "◆.RngS8LZGk",
         "trip": "◆.RngS8LZGk",
         "money": 452,
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 452
-      },
-      {
-        "name": "◆6.........",
-        "trip": "◆6.........",
-        "money": 375,
-        "bank": 0,
-        "stockAssets": 0,
-        "totalAssets": 375
       },
       {
         "name": "◆IIvMW7Yugg",
