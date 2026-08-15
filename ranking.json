@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:36:23",
+  "updated": "2026-08-15 16:36:53",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -472,6 +472,14 @@
       "bank": 0,
       "stockAssets": 0,
       "totalAssets": 1050
+    },
+    {
+      "name": "◆6.........",
+      "trip": "◆6.........",
+      "money": 375,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 375
     }
   ],
   "rankings": {
@@ -747,6 +755,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 452
+      },
+      {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 375,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 375
       },
       {
         "name": "◆IIvMW7Yugg",
@@ -1421,6 +1437,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 1050
+      },
+      {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 375,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 375
       }
     ],
     "stockAssets": [
@@ -1895,6 +1919,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 1050
+      },
+      {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 375,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 375
       }
     ],
     "totalAssets": [
@@ -2201,6 +2233,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 452
+      },
+      {
+        "name": "◆6.........",
+        "trip": "◆6.........",
+        "money": 375,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 375
       },
       {
         "name": "◆IIvMW7Yugg",
