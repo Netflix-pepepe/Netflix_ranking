@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 17:32:53",
+  "updated": "2026-08-15 17:33:11",
   "users": [
     {
       "name": "◆RRRRRRRRQQ",
@@ -488,6 +488,14 @@
       "bank": 0,
       "stockAssets": 0,
       "totalAssets": 5000
+    },
+    {
+      "name": "◆Sak5.3ljP.",
+      "trip": "◆Sak5.3ljP.",
+      "money": 250,
+      "bank": 0,
+      "stockAssets": 0,
+      "totalAssets": 250
     }
   ],
   "rankings": {
@@ -795,6 +803,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 265
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 250,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 250
       },
       {
         "name": "◆cbygD1MO9s",
@@ -1469,6 +1485,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 5000
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 250,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 250
       }
     ],
     "stockAssets": [
@@ -1959,6 +1983,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 5000
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 250,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 250
       }
     ],
     "totalAssets": [
@@ -2305,6 +2337,14 @@
         "bank": 0,
         "stockAssets": 0,
         "totalAssets": 265
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 250,
+        "bank": 0,
+        "stockAssets": 0,
+        "totalAssets": 250
       },
       {
         "name": "◆cbygD1MO9s",
