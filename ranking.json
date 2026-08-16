@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 19:15:22",
+  "updated": "2026-08-16 19:15:55",
   "users": [
     {
       "name": "◆cbygD1MO9s",
@@ -100,8 +100,8 @@
     {
       "name": "ウザいんボルト",
       "trip": "◆UuuuuUUUb6",
-      "money": 47205,
-      "bank": 27883024,
+      "money": 10047205,
+      "bank": 17883024,
       "loan": 0,
       "prestige": 279,
       "fish": 89,
@@ -837,6 +837,22 @@
   "rankings": {
     "money": [
       {
+        "name": "ウザいんボルト",
+        "trip": "◆UuuuuUUUb6",
+        "money": 10047205,
+        "bank": 17883024,
+        "loan": 0,
+        "prestige": 279,
+        "fish": 89,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 27930229
+      },
+      {
         "name": "◆.mochida/.",
         "trip": "◆.mochida/.",
         "money": 2149708,
@@ -915,22 +931,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 50000
-      },
-      {
-        "name": "ウザいんボルト",
-        "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
-        "loan": 0,
-        "prestige": 279,
-        "fish": 89,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 27930229
       },
       {
         "name": "Netflix",
@@ -1689,8 +1689,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
@@ -2603,8 +2603,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
@@ -3357,8 +3357,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
@@ -4175,8 +4175,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
@@ -5009,8 +5009,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
@@ -5859,8 +5859,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
@@ -6693,8 +6693,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
@@ -7607,8 +7607,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
@@ -8361,8 +8361,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 47205,
-        "bank": 27883024,
+        "money": 10047205,
+        "bank": 17883024,
         "loan": 0,
         "prestige": 279,
         "fish": 89,
