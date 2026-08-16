@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 18:15:56",
+  "updated": "2026-08-16 18:16:30",
   "users": [
     {
       "name": "◆cbygD1MO9s",
@@ -724,10 +724,10 @@
     {
       "name": "◆Sak5.3ljP.",
       "trip": "◆Sak5.3ljP.",
-      "money": 1004274,
+      "money": 0,
       "bank": 1000,
       "loan": 100000,
-      "prestige": 0,
+      "prestige": 1,
       "fish": 12,
       "mine": 0,
       "hunt": 0,
@@ -735,7 +735,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 1005274
+      "totalAssets": 1000
     },
     {
       "name": "◆L6i5qOOvGM",
@@ -835,22 +835,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 1350050
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 0,
-        "fish": 12,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 1005274
       },
       {
         "name": "◆People/Pbk",
@@ -1603,6 +1587,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 0
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 0,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 1000
       }
     ],
     "bank": [
@@ -1705,10 +1705,10 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
+        "money": 0,
         "bank": 1000,
         "loan": 100000,
-        "prestige": 0,
+        "prestige": 1,
         "fish": 12,
         "mine": 0,
         "hunt": 0,
@@ -1716,7 +1716,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1005274
+        "totalAssets": 1000
       },
       {
         "name": "◆cbygD1MO9s",
@@ -3131,10 +3131,10 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
+        "money": 0,
         "bank": 1000,
         "loan": 100000,
-        "prestige": 0,
+        "prestige": 1,
         "fish": 12,
         "mine": 0,
         "hunt": 0,
@@ -3142,7 +3142,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1005274
+        "totalAssets": 1000
       },
       {
         "name": "◆L6i5qOOvGM",
@@ -3273,22 +3273,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 1350050
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 0,
-        "fish": 12,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 1005274
       },
       {
         "name": "◆6.........",
@@ -3704,6 +3688,22 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
+        "totalAssets": 1000
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 0,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
         "totalAssets": 1000
       },
       {
@@ -4157,6 +4157,22 @@
         "totalAssets": 2243091
       },
       {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 0,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 1000
+      },
+      {
         "name": "◆cbygD1MO9s",
         "trip": "◆cbygD1MO9s",
         "money": 230,
@@ -4749,22 +4765,6 @@
         "totalAssets": 2054
       },
       {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 0,
-        "fish": 12,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 1005274
-      },
-      {
         "name": "◆L6i5qOOvGM",
         "trip": "◆L6i5qOOvGM",
         "money": 923,
@@ -4897,10 +4897,10 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
+        "money": 0,
         "bank": 1000,
         "loan": 100000,
-        "prestige": 0,
+        "prestige": 1,
         "fish": 12,
         "mine": 0,
         "hunt": 0,
@@ -4908,7 +4908,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1005274
+        "totalAssets": 1000
       },
       {
         "name": "WxM6vIpCbJ",
@@ -6355,10 +6355,10 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
+        "money": 0,
         "bank": 1000,
         "loan": 100000,
-        "prestige": 0,
+        "prestige": 1,
         "fish": 12,
         "mine": 0,
         "hunt": 0,
@@ -6366,7 +6366,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1005274
+        "totalAssets": 1000
       },
       {
         "name": "◆L6i5qOOvGM",
@@ -7141,10 +7141,10 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
+        "money": 0,
         "bank": 1000,
         "loan": 100000,
-        "prestige": 0,
+        "prestige": 1,
         "fish": 12,
         "mine": 0,
         "hunt": 0,
@@ -7152,7 +7152,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1005274
+        "totalAssets": 1000
       },
       {
         "name": "◆L6i5qOOvGM",
@@ -7943,10 +7943,10 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
+        "money": 0,
         "bank": 1000,
         "loan": 100000,
-        "prestige": 0,
+        "prestige": 1,
         "fish": 12,
         "mine": 0,
         "hunt": 0,
@@ -7954,7 +7954,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1005274
+        "totalAssets": 1000
       },
       {
         "name": "◆L6i5qOOvGM",
@@ -8265,10 +8265,10 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 1004274,
+        "money": 0,
         "bank": 1000,
         "loan": 100000,
-        "prestige": 0,
+        "prestige": 1,
         "fish": 12,
         "mine": 0,
         "hunt": 0,
@@ -8276,7 +8276,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1005274
+        "totalAssets": 1000
       },
       {
         "name": "◆5yxRP6vopI",
