@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 17:17:30",
+  "updated": "2026-08-16 17:18:04",
   "users": [
     {
       "name": "◆cbygD1MO9s",
@@ -228,18 +228,18 @@
     {
       "name": "WxM6vIpCbJ",
       "trip": "WxM6vIpCbJ",
-      "money": 110000,
+      "money": 111400,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
-      "fish": 0,
-      "mine": 1,
+      "fish": 1,
+      "mine": 2,
       "hunt": 1,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 110000
+      "totalAssets": 111400
     },
     {
       "name": "◆People/Pbk",
@@ -855,18 +855,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 110000,
+        "money": 111400,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 0,
-        "mine": 1,
+        "fish": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 110000
+        "totalAssets": 111400
       },
       {
         "name": "◆People/Pbk",
@@ -1913,18 +1913,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 110000,
+        "money": 111400,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 0,
-        "mine": 1,
+        "fish": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 110000
+        "totalAssets": 111400
       },
       {
         "name": "◆People/Pbk",
@@ -2635,18 +2635,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 110000,
+        "money": 111400,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 0,
-        "mine": 1,
+        "fish": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 110000
+        "totalAssets": 111400
       },
       {
         "name": "◆People/Pbk",
@@ -3309,18 +3309,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 110000,
+        "money": 111400,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 0,
-        "mine": 1,
+        "fish": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 110000
+        "totalAssets": 111400
       },
       {
         "name": "◆People/Pbk",
@@ -4335,18 +4335,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 110000,
+        "money": 111400,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 0,
-        "mine": 1,
+        "fish": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 110000
+        "totalAssets": 111400
       },
       {
         "name": "◆People/Pbk",
@@ -5119,6 +5119,22 @@
         "totalAssets": 5940
       },
       {
+        "name": "WxM6vIpCbJ",
+        "trip": "WxM6vIpCbJ",
+        "money": 111400,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 1,
+        "mine": 2,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 111400
+      },
+      {
         "name": "◆xGgA7c3w5A",
         "trip": "◆xGgA7c3w5A",
         "money": 20,
@@ -5341,22 +5357,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 30
-      },
-      {
-        "name": "WxM6vIpCbJ",
-        "trip": "WxM6vIpCbJ",
-        "money": 110000,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 1,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 110000
       },
       {
         "name": "◆People/Pbk",
@@ -5793,6 +5793,22 @@
         "totalAssets": 43478
       },
       {
+        "name": "WxM6vIpCbJ",
+        "trip": "WxM6vIpCbJ",
+        "money": 111400,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 1,
+        "mine": 2,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 111400
+      },
+      {
         "name": "Yhr9nwEqnA",
         "trip": "Yhr9nwEqnA",
         "money": 2027,
@@ -5887,22 +5903,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5867
-      },
-      {
-        "name": "WxM6vIpCbJ",
-        "trip": "WxM6vIpCbJ",
-        "money": 110000,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 1,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 110000
       },
       {
         "name": "ねこねこGyi",
@@ -6597,18 +6597,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 110000,
+        "money": 111400,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 0,
-        "mine": 1,
+        "fish": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 110000
+        "totalAssets": 111400
       },
       {
         "name": "◆JXdMWRWPis",
@@ -7447,18 +7447,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 110000,
+        "money": 111400,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 0,
-        "mine": 1,
+        "fish": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 110000
+        "totalAssets": 111400
       },
       {
         "name": "◆People/Pbk",
@@ -8441,18 +8441,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 110000,
+        "money": 111400,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 0,
-        "mine": 1,
+        "fish": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 110000
+        "totalAssets": 111400
       },
       {
         "name": "w7OBibXCRy",
