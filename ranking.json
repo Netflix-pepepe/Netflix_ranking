@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 18:10:50",
+  "updated": "2026-08-16 18:11:24",
   "users": [
     {
       "name": "◆cbygD1MO9s",
@@ -452,7 +452,7 @@
     {
       "name": "◆Haru//CGUg",
       "trip": "◆Haru//CGUg",
-      "money": 0,
+      "money": 44770,
       "bank": 228447,
       "loan": 0,
       "prestige": 64,
@@ -463,7 +463,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 2,
-      "totalAssets": 228447
+      "totalAssets": 273217
     },
     {
       "name": "花葬",
@@ -899,6 +899,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 50000
+      },
+      {
+        "name": "◆Haru//CGUg",
+        "trip": "◆Haru//CGUg",
+        "money": 44770,
+        "bank": 228447,
+        "loan": 0,
+        "prestige": 64,
+        "fish": 1,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 273217
       },
       {
         "name": "Netflix",
@@ -1541,22 +1557,6 @@
         "totalAssets": 0
       },
       {
-        "name": "◆Haru//CGUg",
-        "trip": "◆Haru//CGUg",
-        "money": 0,
-        "bank": 228447,
-        "loan": 0,
-        "prestige": 64,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 228447
-      },
-      {
         "name": "◆KM78/h7A5s",
         "trip": "◆KM78/h7A5s",
         "money": 0,
@@ -1657,7 +1657,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -1668,7 +1668,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "◆.mochida/.",
@@ -2859,7 +2859,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -2870,7 +2870,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "花葬",
@@ -3309,7 +3309,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -3320,7 +3320,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "◆People/Pbk",
@@ -4031,7 +4031,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -4042,7 +4042,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "◆.wwwwwwww.",
@@ -5185,7 +5185,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -5196,7 +5196,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "◆JXdMWRWPis",
@@ -5699,7 +5699,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -5710,7 +5710,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "花葬",
@@ -6469,7 +6469,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -6480,7 +6480,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "◆.mochida/.",
@@ -7671,7 +7671,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -7682,7 +7682,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "花葬",
@@ -8041,7 +8041,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 0,
+        "money": 44770,
         "bank": 228447,
         "loan": 0,
         "prestige": 64,
@@ -8052,7 +8052,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 228447
+        "totalAssets": 273217
       },
       {
         "name": "◆.mochida/.",
