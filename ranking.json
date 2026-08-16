@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 17:30:44",
+  "updated": "2026-08-16 17:31:18",
   "users": [
     {
       "name": "◆cbygD1MO9s",
@@ -228,18 +228,18 @@
     {
       "name": "WxM6vIpCbJ",
       "trip": "WxM6vIpCbJ",
-      "money": 1150,
+      "money": 9030,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
-      "fish": 1,
+      "fish": 3,
       "mine": 5,
-      "hunt": 2,
+      "hunt": 3,
       "title": "鉱山王",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 1150
+      "totalAssets": 9030
     },
     {
       "name": "◆People/Pbk",
@@ -452,7 +452,7 @@
     {
       "name": "◆Haru//CGUg",
       "trip": "◆Haru//CGUg",
-      "money": 16470,
+      "money": 46970,
       "bank": 94247,
       "loan": 0,
       "prestige": 51,
@@ -463,7 +463,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 2,
-      "totalAssets": 110717
+      "totalAssets": 141217
     },
     {
       "name": "花葬",
@@ -885,6 +885,22 @@
         "totalAssets": 50000
       },
       {
+        "name": "◆Haru//CGUg",
+        "trip": "◆Haru//CGUg",
+        "money": 46970,
+        "bank": 94247,
+        "loan": 0,
+        "prestige": 51,
+        "fish": 1,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 141217
+      },
+      {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
         "money": 43478,
@@ -949,22 +965,6 @@
         "totalAssets": 20381
       },
       {
-        "name": "◆Haru//CGUg",
-        "trip": "◆Haru//CGUg",
-        "money": 16470,
-        "bank": 94247,
-        "loan": 0,
-        "prestige": 51,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 110717
-      },
-      {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
         "money": 15059,
@@ -995,6 +995,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11950
+      },
+      {
+        "name": "WxM6vIpCbJ",
+        "trip": "WxM6vIpCbJ",
+        "money": 9030,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 3,
+        "mine": 5,
+        "hunt": 3,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 9030
       },
       {
         "name": "◆...z...z..",
@@ -1203,22 +1219,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 1863
-      },
-      {
-        "name": "WxM6vIpCbJ",
-        "trip": "WxM6vIpCbJ",
-        "money": 1150,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 2,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 1150
       },
       {
         "name": "w7OBibXCRy",
@@ -1657,7 +1657,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -1668,7 +1668,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "◆.mochida/.",
@@ -1913,18 +1913,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 1150,
+        "money": 9030,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 5,
-        "hunt": 2,
+        "hunt": 3,
         "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1150
+        "totalAssets": 9030
       },
       {
         "name": "◆People/Pbk",
@@ -2635,18 +2635,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 1150,
+        "money": 9030,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 5,
-        "hunt": 2,
+        "hunt": 3,
         "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1150
+        "totalAssets": 9030
       },
       {
         "name": "◆People/Pbk",
@@ -2859,7 +2859,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -2870,7 +2870,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "花葬",
@@ -3293,7 +3293,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -3304,7 +3304,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "◆People/Pbk",
@@ -3465,6 +3465,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11950
+      },
+      {
+        "name": "WxM6vIpCbJ",
+        "trip": "WxM6vIpCbJ",
+        "money": 9030,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 3,
+        "mine": 5,
+        "hunt": 3,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 9030
       },
       {
         "name": "◆...z...z..",
@@ -3657,22 +3673,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 1863
-      },
-      {
-        "name": "WxM6vIpCbJ",
-        "trip": "WxM6vIpCbJ",
-        "money": 1150,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 2,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 1150
       },
       {
         "name": "w7OBibXCRy",
@@ -4031,7 +4031,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -4042,7 +4042,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "◆.wwwwwwww.",
@@ -4335,18 +4335,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 1150,
+        "money": 9030,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 5,
-        "hunt": 2,
+        "hunt": 3,
         "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1150
+        "totalAssets": 9030
       },
       {
         "name": "◆People/Pbk",
@@ -4991,6 +4991,22 @@
         "totalAssets": 2331
       },
       {
+        "name": "WxM6vIpCbJ",
+        "trip": "WxM6vIpCbJ",
+        "money": 9030,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 3,
+        "mine": 5,
+        "hunt": 3,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 9030
+      },
+      {
         "name": "Yhr9nwEqnA",
         "trip": "Yhr9nwEqnA",
         "money": 2027,
@@ -5119,22 +5135,6 @@
         "totalAssets": 5940
       },
       {
-        "name": "WxM6vIpCbJ",
-        "trip": "WxM6vIpCbJ",
-        "money": 1150,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 2,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 1150
-      },
-      {
         "name": "◆xGgA7c3w5A",
         "trip": "◆xGgA7c3w5A",
         "money": 20,
@@ -5185,7 +5185,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -5196,7 +5196,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "◆JXdMWRWPis",
@@ -5667,18 +5667,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 1150,
+        "money": 9030,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 5,
-        "hunt": 2,
+        "hunt": 3,
         "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1150
+        "totalAssets": 9030
       },
       {
         "name": "◆meqkRCpZsU",
@@ -5699,7 +5699,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -5710,7 +5710,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "花葬",
@@ -6453,7 +6453,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -6464,7 +6464,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "◆.mochida/.",
@@ -6513,6 +6513,22 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 5940
+      },
+      {
+        "name": "WxM6vIpCbJ",
+        "trip": "WxM6vIpCbJ",
+        "money": 9030,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 3,
+        "mine": 5,
+        "hunt": 3,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 9030
       },
       {
         "name": "◆Peach7G..k6f",
@@ -6577,22 +6593,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 2400
-      },
-      {
-        "name": "WxM6vIpCbJ",
-        "trip": "WxM6vIpCbJ",
-        "money": 1150,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 2,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 1150
       },
       {
         "name": "◆ZRTU9MXmjQ",
@@ -7447,18 +7447,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 1150,
+        "money": 9030,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 5,
-        "hunt": 2,
+        "hunt": 3,
         "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1150
+        "totalAssets": 9030
       },
       {
         "name": "◆People/Pbk",
@@ -7671,7 +7671,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -7682,7 +7682,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "花葬",
@@ -8041,7 +8041,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 16470,
+        "money": 46970,
         "bank": 94247,
         "loan": 0,
         "prestige": 51,
@@ -8052,7 +8052,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 110717
+        "totalAssets": 141217
       },
       {
         "name": "◆.mochida/.",
@@ -8121,18 +8121,18 @@
       {
         "name": "WxM6vIpCbJ",
         "trip": "WxM6vIpCbJ",
-        "money": 1150,
+        "money": 9030,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 5,
-        "hunt": 2,
+        "hunt": 3,
         "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 1150
+        "totalAssets": 9030
       },
       {
         "name": "◆People/Pbk",
