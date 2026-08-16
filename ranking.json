@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 19:13:08",
+  "updated": "2026-08-16 19:13:41",
   "users": [
     {
       "name": "◆cbygD1MO9s",
@@ -100,7 +100,7 @@
     {
       "name": "ウザいんボルト",
       "trip": "◆UuuuuUUUb6",
-      "money": 2705,
+      "money": 147205,
       "bank": 27883024,
       "loan": 0,
       "prestige": 279,
@@ -111,7 +111,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 2,
-      "totalAssets": 27885729
+      "totalAssets": 28030229
     },
     {
       "name": "RS6ADCZiTj",
@@ -740,7 +740,7 @@
     {
       "name": "◆Sak5.3ljP.",
       "trip": "◆Sak5.3ljP.",
-      "money": 2192,
+      "money": 1292,
       "bank": 1000,
       "loan": 100000,
       "prestige": 1,
@@ -751,7 +751,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 3192
+      "totalAssets": 2292
     },
     {
       "name": "◆L6i5qOOvGM",
@@ -867,6 +867,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 1350050
+      },
+      {
+        "name": "ウザいんボルト",
+        "trip": "◆UuuuuUUUb6",
+        "money": 147205,
+        "bank": 27883024,
+        "loan": 0,
+        "prestige": 279,
+        "fish": 89,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 28030229
       },
       {
         "name": "◆People/Pbk",
@@ -1093,22 +1109,6 @@
         "totalAssets": 2820
       },
       {
-        "name": "ウザいんボルト",
-        "trip": "◆UuuuuUUUb6",
-        "money": 2705,
-        "bank": 27883024,
-        "loan": 0,
-        "prestige": 279,
-        "fish": 89,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 27885729
-      },
-      {
         "name": "◆TiP5As2jNc",
         "trip": "◆TiP5As2jNc",
         "money": 2400,
@@ -1157,22 +1157,6 @@
         "totalAssets": 2310
       },
       {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 2192,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 1,
-        "hunt": 4,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 3192
-      },
-      {
         "name": "◆//GoodJob6",
         "trip": "◆//GoodJob6",
         "money": 2054,
@@ -1219,6 +1203,22 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 1863
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 1292,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 1,
+        "hunt": 4,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 2292
       },
       {
         "name": "w7OBibXCRy",
@@ -1689,7 +1689,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -1700,7 +1700,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "◆Haru//CGUg",
@@ -1769,7 +1769,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 2192,
+        "money": 1292,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -1780,7 +1780,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 3192
+        "totalAssets": 2292
       },
       {
         "name": "◆cbygD1MO9s",
@@ -2603,7 +2603,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -2614,7 +2614,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "RS6ADCZiTj",
@@ -3243,7 +3243,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 2192,
+        "money": 1292,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -3254,7 +3254,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 3192
+        "totalAssets": 2292
       },
       {
         "name": "◆L6i5qOOvGM",
@@ -3357,7 +3357,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -3368,7 +3368,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "◆.mochida/.",
@@ -3659,22 +3659,6 @@
         "totalAssets": 3846
       },
       {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 2192,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 1,
-        "hunt": 4,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 3192
-      },
-      {
         "name": "はき",
         "trip": "◆//y//1SFyA",
         "money": 2820,
@@ -3737,6 +3721,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 2310
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 1292,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 1,
+        "hunt": 4,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 2292
       },
       {
         "name": "◆//GoodJob6",
@@ -4175,7 +4175,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -4186,7 +4186,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "◆Haru//CGUg",
@@ -4319,7 +4319,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 2192,
+        "money": 1292,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -4330,7 +4330,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 3192
+        "totalAssets": 2292
       },
       {
         "name": "◆cbygD1MO9s",
@@ -5009,7 +5009,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -5020,7 +5020,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "◆.mochida/.",
@@ -5089,7 +5089,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 2192,
+        "money": 1292,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -5100,7 +5100,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 3192
+        "totalAssets": 2292
       },
       {
         "name": "WxM6vIpCbJ",
@@ -5859,7 +5859,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -5870,7 +5870,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "まよねず",
@@ -6259,7 +6259,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 2192,
+        "money": 1292,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -6270,7 +6270,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 3192
+        "totalAssets": 2292
       },
       {
         "name": "◆6.........",
@@ -6693,7 +6693,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -6704,7 +6704,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "WxM6vIpCbJ",
@@ -6773,7 +6773,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 2192,
+        "money": 1292,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -6784,7 +6784,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 3192
+        "totalAssets": 2292
       },
       {
         "name": "◆...z...z..",
@@ -7607,7 +7607,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -7618,7 +7618,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "RS6ADCZiTj",
@@ -8247,7 +8247,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 2192,
+        "money": 1292,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -8258,7 +8258,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 3192
+        "totalAssets": 2292
       },
       {
         "name": "◆L6i5qOOvGM",
@@ -8361,7 +8361,7 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 2705,
+        "money": 147205,
         "bank": 27883024,
         "loan": 0,
         "prestige": 279,
@@ -8372,7 +8372,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 27885729
+        "totalAssets": 28030229
       },
       {
         "name": "◆.mochida/.",
@@ -8585,7 +8585,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 2192,
+        "money": 1292,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -8596,7 +8596,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 3192
+        "totalAssets": 2292
       },
       {
         "name": "◆APEX//....",
