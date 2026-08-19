@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 12:21:01",
+  "updated": "2026-08-19 12:21:35",
   "users": [
     {
       "name": "◆.mochida/.",
@@ -420,8 +420,8 @@
     {
       "name": "◆Sak5.3ljP.",
       "trip": "◆Sak5.3ljP.",
-      "money": 5131,
-      "bank": 1000,
+      "money": 6131,
+      "bank": 0,
       "loan": 0,
       "prestige": 1,
       "fish": 12,
@@ -1045,6 +1045,22 @@
         "totalAssets": 11950
       },
       {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 6131,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 5,
+        "hunt": 5,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 6131
+      },
+      {
         "name": "◆...z...z..",
         "trip": "◆...z...z..",
         "money": 5940,
@@ -1075,22 +1091,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5867
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
-        "loan": 0,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 5,
-        "hunt": 5,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 6131
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -1767,22 +1767,6 @@
         "totalAssets": 91892
       },
       {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
-        "loan": 0,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 5,
-        "hunt": 5,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 6131
-      },
-      {
         "name": "◆AkPPJcARco",
         "trip": "◆AkPPJcARco",
         "money": 265,
@@ -2149,6 +2133,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 100
+      },
+      {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 6131,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 5,
+        "hunt": 5,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 6131
       },
       {
         "name": "9byyBhJjoQ",
@@ -2923,8 +2923,8 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
+        "money": 6131,
+        "bank": 0,
         "loan": 0,
         "prestige": 1,
         "fish": 12,
@@ -3597,8 +3597,8 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
+        "money": 6131,
+        "bank": 0,
         "loan": 0,
         "prestige": 1,
         "fish": 12,
@@ -4287,8 +4287,8 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
+        "money": 6131,
+        "bank": 0,
         "loan": 0,
         "prestige": 1,
         "fish": 12,
@@ -5089,8 +5089,8 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
+        "money": 6131,
+        "bank": 0,
         "loan": 0,
         "prestige": 1,
         "fish": 12,
@@ -5923,8 +5923,8 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
+        "money": 6131,
+        "bank": 0,
         "loan": 0,
         "prestige": 1,
         "fish": 12,
@@ -6741,8 +6741,8 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
+        "money": 6131,
+        "bank": 0,
         "loan": 0,
         "prestige": 1,
         "fish": 12,
@@ -7927,8 +7927,8 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
+        "money": 6131,
+        "bank": 0,
         "loan": 0,
         "prestige": 1,
         "fish": 12,
@@ -8393,8 +8393,8 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 5131,
-        "bank": 1000,
+        "money": 6131,
+        "bank": 0,
         "loan": 0,
         "prestige": 1,
         "fish": 12,
