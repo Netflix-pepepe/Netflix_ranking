@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 11:19:50",
+  "updated": "2026-08-19 11:20:24",
   "users": [
     {
       "name": "◆.mochida/.",
@@ -420,7 +420,7 @@
     {
       "name": "◆Sak5.3ljP.",
       "trip": "◆Sak5.3ljP.",
-      "money": 75131,
+      "money": 105131,
       "bank": 1000,
       "loan": 100000,
       "prestige": 1,
@@ -431,7 +431,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 2,
-      "totalAssets": 76131
+      "totalAssets": 106131
     },
     {
       "name": "◆Haru//CGUg",
@@ -885,6 +885,22 @@
         "totalAssets": 1350050
       },
       {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 105131,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 5,
+        "hunt": 5,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 106131
+      },
+      {
         "name": "◆People/Pbk",
         "trip": "◆People/Pbk",
         "money": 100000,
@@ -915,22 +931,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 100000
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 75131,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 5,
-        "hunt": 5,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 76131
       },
       {
         "name": "c4PcTtxnqi",
@@ -1769,7 +1769,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 75131,
+        "money": 105131,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -1780,7 +1780,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 76131
+        "totalAssets": 106131
       },
       {
         "name": "◆AkPPJcARco",
@@ -2923,7 +2923,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 75131,
+        "money": 105131,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -2934,7 +2934,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 76131
+        "totalAssets": 106131
       },
       {
         "name": "◆Haru//CGUg",
@@ -3435,6 +3435,22 @@
         "totalAssets": 890120
       },
       {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 105131,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 5,
+        "hunt": 5,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 106131
+      },
+      {
         "name": "◆People/Pbk",
         "trip": "◆People/Pbk",
         "money": 100000,
@@ -3481,22 +3497,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 91892
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 75131,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 5,
-        "hunt": 5,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 76131
       },
       {
         "name": "c4PcTtxnqi",
@@ -4287,7 +4287,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 75131,
+        "money": 105131,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -4298,7 +4298,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 76131
+        "totalAssets": 106131
       },
       {
         "name": "◆Peach7G..k6f",
@@ -5089,7 +5089,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 75131,
+        "money": 105131,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -5100,7 +5100,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 76131
+        "totalAssets": 106131
       },
       {
         "name": "WxM6vIpCbJ",
@@ -5923,7 +5923,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 75131,
+        "money": 105131,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -5934,7 +5934,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 76131
+        "totalAssets": 106131
       },
       {
         "name": "◆Haru//CGUg",
@@ -6741,7 +6741,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 75131,
+        "money": 105131,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -6752,7 +6752,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 76131
+        "totalAssets": 106131
       },
       {
         "name": "◆Haru//CGUg",
@@ -7927,7 +7927,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 75131,
+        "money": 105131,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -7938,7 +7938,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 76131
+        "totalAssets": 106131
       },
       {
         "name": "◆Haru//CGUg",
@@ -8393,7 +8393,7 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 75131,
+        "money": 105131,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
@@ -8404,7 +8404,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 76131
+        "totalAssets": 106131
       },
       {
         "name": "◆KM78/h7A5s",
