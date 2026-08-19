@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 13:34:42",
+  "updated": "2026-08-19 13:35:15",
   "users": [
     {
       "name": "◆.mochida/.",
@@ -164,8 +164,8 @@
     {
       "name": "ウザいんボルト",
       "trip": "◆UuuuuUUUb6",
-      "money": 141011441,
-      "bank": 71819758,
+      "money": 2705,
+      "bank": 212828494,
       "loan": 0,
       "prestige": 281,
       "fish": 89,
@@ -772,7 +772,7 @@
     {
       "name": "◆Peach7G..k6f",
       "trip": "◆Peach7G..k6f",
-      "money": 45167,
+      "money": 50997,
       "bank": 0,
       "loan": 0,
       "prestige": 1,
@@ -783,7 +783,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 45167
+      "totalAssets": 50997
     },
     {
       "name": "◆3jPjHIQKEN3D",
@@ -836,22 +836,6 @@
   ],
   "rankings": {
     "money": [
-      {
-        "name": "ウザいんボルト",
-        "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
-        "loan": 0,
-        "prestige": 281,
-        "fish": 89,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 212831199
-      },
       {
         "name": "◆.mochida/.",
         "trip": "◆.mochida/.",
@@ -933,6 +917,22 @@
         "totalAssets": 67951
       },
       {
+        "name": "◆Peach7G..k6f",
+        "trip": "◆Peach7G..k6f",
+        "money": 50997,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 1,
+        "fish": 21,
+        "mine": 5,
+        "hunt": 4,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 50997
+      },
+      {
         "name": "c4PcTtxnqi",
         "trip": "c4PcTtxnqi",
         "money": 50000,
@@ -947,22 +947,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 50000
-      },
-      {
-        "name": "◆Peach7G..k6f",
-        "trip": "◆Peach7G..k6f",
-        "money": 45167,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 1,
-        "fish": 21,
-        "mine": 5,
-        "hunt": 4,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 45167
       },
       {
         "name": "Netflix",
@@ -1155,6 +1139,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 2820
+      },
+      {
+        "name": "ウザいんボルト",
+        "trip": "◆UuuuuUUUb6",
+        "money": 2705,
+        "bank": 212828494,
+        "loan": 0,
+        "prestige": 281,
+        "fish": 89,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 212831199
       },
       {
         "name": "◆.PfiH.....",
@@ -1689,8 +1689,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -2441,7 +2441,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 45167,
+        "money": 50997,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -2452,7 +2452,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 45167
+        "totalAssets": 50997
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -2667,8 +2667,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -3275,7 +3275,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 45167,
+        "money": 50997,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -3286,7 +3286,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 45167
+        "totalAssets": 50997
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -3357,8 +3357,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -3499,6 +3499,22 @@
         "totalAssets": 67951
       },
       {
+        "name": "◆Peach7G..k6f",
+        "trip": "◆Peach7G..k6f",
+        "money": 50997,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 1,
+        "fish": 21,
+        "mine": 5,
+        "hunt": 4,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 50997
+      },
+      {
         "name": "c4PcTtxnqi",
         "trip": "c4PcTtxnqi",
         "money": 50000,
@@ -3513,22 +3529,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 50000
-      },
-      {
-        "name": "◆Peach7G..k6f",
-        "trip": "◆Peach7G..k6f",
-        "money": 45167,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 1,
-        "fish": 21,
-        "mine": 5,
-        "hunt": 4,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 45167
       },
       {
         "name": "Netflix",
@@ -4175,8 +4175,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -4303,7 +4303,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 45167,
+        "money": 50997,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -4314,7 +4314,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 45167
+        "totalAssets": 50997
       },
       {
         "name": "◆meqkRCpZsU",
@@ -5009,8 +5009,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -5041,7 +5041,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 45167,
+        "money": 50997,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -5052,7 +5052,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 45167
+        "totalAssets": 50997
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -5859,8 +5859,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -5971,7 +5971,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 45167,
+        "money": 50997,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -5982,7 +5982,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 45167
+        "totalAssets": 50997
       },
       {
         "name": "◆meqkRCpZsU",
@@ -6693,8 +6693,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -6773,7 +6773,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 45167,
+        "money": 50997,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -6784,7 +6784,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 45167
+        "totalAssets": 50997
       },
       {
         "name": "◆meqkRCpZsU",
@@ -7671,8 +7671,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -8279,7 +8279,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 45167,
+        "money": 50997,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -8290,7 +8290,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 45167
+        "totalAssets": 50997
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -8377,8 +8377,8 @@
       {
         "name": "ウザいんボルト",
         "trip": "◆UuuuuUUUb6",
-        "money": 141011441,
-        "bank": 71819758,
+        "money": 2705,
+        "bank": 212828494,
         "loan": 0,
         "prestige": 281,
         "fish": 89,
@@ -8617,7 +8617,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 45167,
+        "money": 50997,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -8628,7 +8628,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 45167
+        "totalAssets": 50997
       },
       {
         "name": "◆AkPPJcARco",
