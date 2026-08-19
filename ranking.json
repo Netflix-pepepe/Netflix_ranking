@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 11:05:40",
+  "updated": "2026-08-19 11:06:17",
   "users": [
     {
       "name": "◆.mochida/.",
@@ -420,18 +420,18 @@
     {
       "name": "◆Sak5.3ljP.",
       "trip": "◆Sak5.3ljP.",
-      "money": 15696,
+      "money": 32691,
       "bank": 1000,
       "loan": 100000,
       "prestige": 1,
       "fish": 12,
-      "mine": 2,
+      "mine": 4,
       "hunt": 5,
       "title": "伝説のハンター",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 2,
-      "totalAssets": 16696
+      "totalAssets": 33691
     },
     {
       "name": "◆Haru//CGUg",
@@ -981,6 +981,22 @@
         "totalAssets": 40000
       },
       {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 32691,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 4,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 33691
+      },
+      {
         "name": "まよねず",
         "trip": "◆UXzFKq.d5o",
         "money": 29450,
@@ -1011,22 +1027,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 20381
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 15696,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 2,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 16696
       },
       {
         "name": "◆Peach7G..k6f",
@@ -1769,18 +1769,18 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 15696,
+        "money": 32691,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
         "fish": 12,
-        "mine": 2,
+        "mine": 4,
         "hunt": 5,
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 16696
+        "totalAssets": 33691
       },
       {
         "name": "◆AkPPJcARco",
@@ -2923,18 +2923,18 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 15696,
+        "money": 32691,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
         "fish": 12,
-        "mine": 2,
+        "mine": 4,
         "hunt": 5,
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 16696
+        "totalAssets": 33691
       },
       {
         "name": "◆Haru//CGUg",
@@ -3531,6 +3531,22 @@
         "totalAssets": 40000
       },
       {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 32691,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 4,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 33691
+      },
+      {
         "name": "まよねず",
         "trip": "◆UXzFKq.d5o",
         "money": 29450,
@@ -3561,22 +3577,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 20381
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 15696,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 2,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 16696
       },
       {
         "name": "◆Peach7G..k6f",
@@ -4287,18 +4287,18 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 15696,
+        "money": 32691,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
         "fish": 12,
-        "mine": 2,
+        "mine": 4,
         "hunt": 5,
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 16696
+        "totalAssets": 33691
       },
       {
         "name": "◆Peach7G..k6f",
@@ -5089,18 +5089,18 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 15696,
+        "money": 32691,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
         "fish": 12,
-        "mine": 2,
+        "mine": 4,
         "hunt": 5,
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 16696
+        "totalAssets": 33691
       },
       {
         "name": "WxM6vIpCbJ",
@@ -5969,6 +5969,22 @@
         "totalAssets": 2310
       },
       {
+        "name": "◆Sak5.3ljP.",
+        "trip": "◆Sak5.3ljP.",
+        "money": 32691,
+        "bank": 1000,
+        "loan": 100000,
+        "prestige": 1,
+        "fish": 12,
+        "mine": 4,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 2,
+        "totalAssets": 33691
+      },
+      {
         "name": "◆...z...z..",
         "trip": "◆...z...z..",
         "money": 5940,
@@ -6063,22 +6079,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 1050
-      },
-      {
-        "name": "◆Sak5.3ljP.",
-        "trip": "◆Sak5.3ljP.",
-        "money": 15696,
-        "bank": 1000,
-        "loan": 100000,
-        "prestige": 1,
-        "fish": 12,
-        "mine": 2,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 16696
       },
       {
         "name": "Yhr9nwEqnA",
@@ -6741,18 +6741,18 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 15696,
+        "money": 32691,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
         "fish": 12,
-        "mine": 2,
+        "mine": 4,
         "hunt": 5,
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 16696
+        "totalAssets": 33691
       },
       {
         "name": "◆Haru//CGUg",
@@ -7927,18 +7927,18 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 15696,
+        "money": 32691,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
         "fish": 12,
-        "mine": 2,
+        "mine": 4,
         "hunt": 5,
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 16696
+        "totalAssets": 33691
       },
       {
         "name": "◆Haru//CGUg",
@@ -8393,18 +8393,18 @@
       {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
-        "money": 15696,
+        "money": 32691,
         "bank": 1000,
         "loan": 100000,
         "prestige": 1,
         "fish": 12,
-        "mine": 2,
+        "mine": 4,
         "hunt": 5,
         "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 2,
-        "totalAssets": 16696
+        "totalAssets": 33691
       },
       {
         "name": "◆KM78/h7A5s",
