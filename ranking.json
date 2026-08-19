@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 13:28:27",
+  "updated": "2026-08-19 13:29:01",
   "users": [
     {
       "name": "◆.mochida/.",
@@ -772,7 +772,7 @@
     {
       "name": "◆Peach7G..k6f",
       "trip": "◆Peach7G..k6f",
-      "money": 57685,
+      "money": 7685,
       "bank": 0,
       "loan": 0,
       "prestige": 1,
@@ -783,7 +783,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 57685
+      "totalAssets": 7685
     },
     {
       "name": "◆3jPjHIQKEN3D",
@@ -933,22 +933,6 @@
         "totalAssets": 67951
       },
       {
-        "name": "◆Peach7G..k6f",
-        "trip": "◆Peach7G..k6f",
-        "money": 57685,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 1,
-        "fish": 8,
-        "mine": 5,
-        "hunt": 3,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 57685
-      },
-      {
         "name": "c4PcTtxnqi",
         "trip": "c4PcTtxnqi",
         "money": 50000,
@@ -1059,6 +1043,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11950
+      },
+      {
+        "name": "◆Peach7G..k6f",
+        "trip": "◆Peach7G..k6f",
+        "money": 7685,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 1,
+        "fish": 8,
+        "mine": 5,
+        "hunt": 3,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 7685
       },
       {
         "name": "◆...z...z..",
@@ -2441,7 +2441,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 57685,
+        "money": 7685,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -2452,7 +2452,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 57685
+        "totalAssets": 7685
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -3275,7 +3275,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 57685,
+        "money": 7685,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -3286,7 +3286,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 57685
+        "totalAssets": 7685
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -3499,22 +3499,6 @@
         "totalAssets": 67951
       },
       {
-        "name": "◆Peach7G..k6f",
-        "trip": "◆Peach7G..k6f",
-        "money": 57685,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 1,
-        "fish": 8,
-        "mine": 5,
-        "hunt": 3,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 57685
-      },
-      {
         "name": "c4PcTtxnqi",
         "trip": "c4PcTtxnqi",
         "money": 50000,
@@ -3609,6 +3593,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11950
+      },
+      {
+        "name": "◆Peach7G..k6f",
+        "trip": "◆Peach7G..k6f",
+        "money": 7685,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 1,
+        "fish": 8,
+        "mine": 5,
+        "hunt": 3,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 7685
       },
       {
         "name": "◆...z...z..",
@@ -4303,7 +4303,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 57685,
+        "money": 7685,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -4314,7 +4314,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 57685
+        "totalAssets": 7685
       },
       {
         "name": "◆meqkRCpZsU",
@@ -5153,7 +5153,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 57685,
+        "money": 7685,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -5164,7 +5164,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 57685
+        "totalAssets": 7685
       },
       {
         "name": "Netflix",
@@ -5971,7 +5971,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 57685,
+        "money": 7685,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -5982,7 +5982,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 57685
+        "totalAssets": 7685
       },
       {
         "name": "◆meqkRCpZsU",
@@ -6821,7 +6821,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 57685,
+        "money": 7685,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -6832,7 +6832,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 57685
+        "totalAssets": 7685
       },
       {
         "name": "Netflix",
@@ -8279,7 +8279,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 57685,
+        "money": 7685,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -8290,7 +8290,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 57685
+        "totalAssets": 7685
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -8617,7 +8617,7 @@
       {
         "name": "◆Peach7G..k6f",
         "trip": "◆Peach7G..k6f",
-        "money": 57685,
+        "money": 7685,
         "bank": 0,
         "loan": 0,
         "prestige": 1,
@@ -8628,7 +8628,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 57685
+        "totalAssets": 7685
       },
       {
         "name": "◆AkPPJcARco",
