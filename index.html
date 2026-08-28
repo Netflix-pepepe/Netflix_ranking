@@ -1,1437 +1,2665 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
+
     <meta charset="UTF-8">
+
     <meta
         name="viewport"
         content="width=device-width, initial-scale=1.0"
     >
 
-    <title>PEPEPE RANKING</title>
+    <title>
+        NETFRFR RANKING
+    </title>
+
 
     <style>
+
+        /* ===============================
+           BASE
+        =============================== */
+
         * {
             box-sizing: border-box;
-            margin: 0;
-            padding: 0;
         }
 
-        :root {
-            --bg: #080b12;
-            --bg2: #101622;
-            --card: rgba(20, 27, 42, 0.92);
-            --card2: rgba(27, 36, 55, 0.95);
-            --border: rgba(255, 255, 255, 0.08);
-            --text: #f4f7ff;
-            --sub: #8e9ab0;
-            --accent: #6fa8ff;
-            --accent2: #9b6cff;
-            --gold: #ffd86b;
-            --silver: #d8dee9;
-            --bronze: #d69b6a;
-            --green: #53e0a0;
-            --danger: #ff6b7a;
-        }
 
         html {
             scroll-behavior: smooth;
         }
 
+
         body {
+
+            margin: 0;
+
             min-height: 100vh;
-            background:
-                radial-gradient(
-                    circle at top left,
-                    rgba(111, 168, 255, 0.12),
-                    transparent 30%
-                ),
-                radial-gradient(
-                    circle at top right,
-                    rgba(155, 108, 255, 0.10),
-                    transparent 25%
-                ),
-                linear-gradient(
-                    180deg,
-                    #080b12 0%,
-                    #0b1019 100%
-                );
-            color: var(--text);
+
+            color: #e8ecf4;
+
             font-family:
                 -apple-system,
                 BlinkMacSystemFont,
                 "Segoe UI",
                 "Noto Sans JP",
                 sans-serif;
+
+            background:
+
+                radial-gradient(
+                    circle at top,
+                    #17233d 0%,
+                    #090d17 45%,
+                    #05070c 100%
+                );
+
         }
+
+
+        /* ===============================
+           BACKGROUND
+        =============================== */
 
         body::before {
+
             content: "";
+
             position: fixed;
+
             inset: 0;
 
+            pointer-events: none;
+
+            opacity: 0.18;
+
             background-image:
+
                 linear-gradient(
-                    rgba(255,255,255,0.025) 1px,
+                    rgba(255,255,255,0.03) 1px,
                     transparent 1px
                 ),
+
                 linear-gradient(
                     90deg,
-                    rgba(255,255,255,0.025) 1px,
+                    rgba(255,255,255,0.03) 1px,
                     transparent 1px
                 );
 
-            background-size: 40px 40px;
+            background-size:
+                45px 45px;
 
-            pointer-events: none;
-            z-index: -1;
+            mask-image:
+                linear-gradient(
+                    to bottom,
+                    black,
+                    transparent
+                );
+
         }
+
+
+        /* ===============================
+           CONTAINER
+        =============================== */
 
         .container {
-            width: min(1200px, 92%);
-            margin: 0 auto;
-            padding: 30px 0 60px;
+
+            width:
+                min(
+                    1100px,
+                    calc(100% - 32px)
+                );
+
+            margin:
+                35px auto 70px;
+
         }
 
-        /* =========================
+
+        /* ===============================
            HEADER
-        ========================= */
+        =============================== */
 
-        header {
-            text-align: center;
-            padding: 35px 20px;
-            margin-bottom: 25px;
-
-            background:
-                linear-gradient(
-                    135deg,
-                    rgba(255,255,255,0.05),
-                    rgba(255,255,255,0.01)
-                );
-
-            border: 1px solid var(--border);
-            border-radius: 24px;
-
-            box-shadow:
-                0 20px 80px rgba(0,0,0,0.35);
+        .header {
 
             position: relative;
+
             overflow: hidden;
-        }
 
-        header::before {
-            content: "";
-            position: absolute;
-
-            width: 350px;
-            height: 350px;
-
-            background:
-                radial-gradient(
-                    circle,
-                    rgba(111,168,255,0.16),
-                    transparent 70%
-                );
-
-            top: -200px;
-            left: 50%;
-
-            transform: translateX(-50%);
-        }
-
-        .logo {
-            position: relative;
-            z-index: 1;
-
-            font-size: clamp(2rem, 6vw, 4.5rem);
-            font-weight: 900;
-
-            letter-spacing: 0.12em;
-
-            background:
-                linear-gradient(
-                    90deg,
-                    #ffffff,
-                    #6fa8ff,
-                    #9b6cff
-                );
-
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-
-            text-shadow:
-                0 0 40px rgba(111,168,255,0.2);
-        }
-
-        .subtitle {
-            position: relative;
-            z-index: 1;
-
-            margin-top: 8px;
-
-            color: var(--sub);
-
-            letter-spacing: 0.25em;
-
-            font-size: 0.8rem;
-        }
-
-        .status {
-            position: relative;
-            z-index: 1;
-
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-
-            margin-top: 20px;
-
-            padding: 8px 14px;
-
-            border-radius: 999px;
-
-            background:
-                rgba(83,224,160,0.08);
+            padding:
+                32px;
 
             border:
-                1px solid rgba(83,224,160,0.2);
 
-            color: var(--green);
+                1px solid
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.09
+                );
 
-            font-size: 0.8rem;
-            font-weight: 700;
+            border-radius:
+                24px;
+
+            background:
+
+                linear-gradient(
+                    135deg,
+                    rgba(
+                        29,
+                        45,
+                        79,
+                        0.92
+                    ),
+                    rgba(
+                        11,
+                        16,
+                        30,
+                        0.92
+                    )
+                );
+
+            box-shadow:
+
+                0 25px 70px
+                rgba(
+                    0,
+                    0,
+                    0,
+                    0.35
+                );
+
         }
 
-        .status-dot {
-            width: 8px;
-            height: 8px;
+
+        .header::before {
+
+            content: "";
+
+            position: absolute;
+
+            width: 300px;
+
+            height: 300px;
+
+            right: -100px;
+
+            top: -160px;
 
             border-radius: 50%;
 
-            background: var(--green);
-
-            box-shadow:
-                0 0 12px var(--green);
-        }
-
-        /* =========================
-           STATS
-        ========================= */
-
-        .stats {
-            display: grid;
-
-            grid-template-columns:
-                repeat(3, 1fr);
-
-            gap: 15px;
-
-            margin-bottom: 25px;
-        }
-
-        .stat-card {
-            padding: 20px;
-
             background:
-                rgba(20,27,42,0.75);
 
-            border:
-                1px solid var(--border);
+                radial-gradient(
+                    circle,
+                    rgba(
+                        77,
+                        136,
+                        255,
+                        0.25
+                    ),
+                    transparent 70%
+                );
+
+        }
+
+
+        .brand {
+
+            position: relative;
+
+            display: flex;
+
+            align-items: center;
+
+            gap: 18px;
+
+        }
+
+
+        .logo {
+
+            width: 62px;
+
+            height: 62px;
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: center;
+
+            flex-shrink: 0;
+
+            font-size: 29px;
 
             border-radius: 18px;
 
-            text-align: center;
-        }
-
-        .stat-label {
-            color: var(--sub);
-
-            font-size: 0.75rem;
-
-            margin-bottom: 8px;
-        }
-
-        .stat-value {
-            font-size: 1.15rem;
-            font-weight: 800;
-        }
-
-        /* =========================
-           CONTROLS
-        ========================= */
-
-        .controls {
-            display: flex;
-
-            flex-direction: column;
-
-            gap: 15px;
-
-            margin-bottom: 30px;
-        }
-
-        .tabs {
-            display: flex;
-
-            gap: 10px;
-
-            flex-wrap: wrap;
-        }
-
-        .tab {
-            flex: 1;
-
-            min-width: 120px;
-
-            border: none;
-
-            padding: 13px 15px;
-
-            border-radius: 12px;
-
-            cursor: pointer;
-
             background:
-                rgba(255,255,255,0.04);
 
-            border:
-                1px solid var(--border);
-
-            color: var(--sub);
-
-            transition:
-                0.2s ease;
-        }
-
-        .tab:hover {
-            transform: translateY(-2px);
-
-            background:
-                rgba(255,255,255,0.07);
-        }
-
-        .tab.active {
-            color: white;
-
-            background:
                 linear-gradient(
                     135deg,
-                    rgba(111,168,255,0.3),
-                    rgba(155,108,255,0.25)
+                    #447cff,
+                    #8a4dff
                 );
 
-            border-color:
-                rgba(111,168,255,0.5);
-
             box-shadow:
-                0 8px 30px rgba(111,168,255,0.12);
+
+                0 10px 35px
+                rgba(
+                    72,
+                    103,
+                    255,
+                    0.35
+                );
+
         }
+
+
+        h1 {
+
+            margin: 0;
+
+            font-size:
+
+                clamp(
+                    24px,
+                    5vw,
+                    40px
+                );
+
+            letter-spacing:
+                0.04em;
+
+        }
+
+
+        .subtitle {
+
+            margin-top: 5px;
+
+            color: #8490a8;
+
+            font-size: 12px;
+
+            letter-spacing:
+                0.18em;
+
+        }
+
+
+        .status {
+
+            position: relative;
+
+            margin:
+
+                25px 0 0;
+
+            color: #8e9ab0;
+
+            font-size: 13px;
+
+        }
+
+
+        /* ===============================
+           SEARCH
+        =============================== */
 
         .search-box {
+
             position: relative;
+
+            margin-top: 22px;
+
         }
 
-        .search-box input {
+
+        .search-icon {
+
+            position: absolute;
+
+            left: 16px;
+
+            top: 50%;
+
+            transform:
+                translateY(-50%);
+
+            opacity: 0.65;
+
+        }
+
+
+        #search {
+
             width: 100%;
 
             padding:
-                15px 18px;
 
-            border-radius: 14px;
-
-            border:
-                1px solid var(--border);
+                15px
+                18px
+                15px
+                48px;
 
             outline: none;
 
             color: white;
 
-            background:
-                rgba(255,255,255,0.04);
+            border:
 
-            font-size: 0.95rem;
+                1px solid
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.09
+                );
+
+            border-radius: 14px;
+
+            background:
+
+                rgba(
+                    0,
+                    0,
+                    0,
+                    0.22
+                );
+
+            font-size: 14px;
+
+            transition:
+                0.2s;
+
         }
 
-        .search-box input:focus {
+
+        #search:focus {
+
             border-color:
-                rgba(111,168,255,0.7);
+                rgba(
+                    90,
+                    140,
+                    255,
+                    0.75
+                );
 
             box-shadow:
-                0 0 0 4px rgba(111,168,255,0.08);
+
+                0 0 0 4px
+                rgba(
+                    67,
+                    114,
+                    255,
+                    0.12
+                );
+
         }
 
-        /* =========================
-           TOP 3
-        ========================= */
 
-        .podium {
+        /* ===============================
+           CATEGORY
+        =============================== */
+
+        .category-title {
+
+            margin:
+
+                35px 0 12px;
+
+            color: #8794aa;
+
+            font-size: 11px;
+
+            font-weight: 700;
+
+            letter-spacing:
+                0.15em;
+
+        }
+
+
+        .categories {
+
+            display: flex;
+
+            flex-wrap: wrap;
+
+            gap: 9px;
+
+        }
+
+
+        .category-button {
+
+            cursor: pointer;
+
+            padding:
+
+                10px 16px;
+
+            color: #8e99ad;
+
+            border:
+
+                1px solid
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.07
+                );
+
+            border-radius: 12px;
+
+            background:
+
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.025
+                );
+
+            transition:
+                0.2s;
+
+        }
+
+
+        .category-button:hover {
+
+            color: white;
+
+            background:
+
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.07
+                );
+
+        }
+
+
+        .category-button.active {
+
+            color: white;
+
+            border-color:
+
+                rgba(
+                    100,
+                    145,
+                    255,
+                    0.5
+                );
+
+            background:
+
+                linear-gradient(
+                    135deg,
+                    rgba(
+                        59,
+                        107,
+                        255,
+                        0.75
+                    ),
+                    rgba(
+                        113,
+                        65,
+                        255,
+                        0.75
+                    )
+                );
+
+        }
+
+
+        /* ===============================
+           RANKING TABS
+        =============================== */
+
+        .tabs {
+
+            display: grid;
+
+            grid-template-columns:
+                repeat(
+                    auto-fit,
+                    minmax(
+                        145px,
+                        1fr
+                    )
+                );
+
+            gap: 10px;
+
+            margin-top: 12px;
+
+        }
+
+
+        .tab {
+
+            cursor: pointer;
+
+            min-height: 68px;
+
+            padding: 13px;
+
+            text-align: left;
+
+            color: #8793a9;
+
+            border:
+
+                1px solid
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.07
+                );
+
+            border-radius: 14px;
+
+            background:
+
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.025
+                );
+
+            transition:
+                0.2s;
+
+        }
+
+
+        .tab:hover {
+
+            transform:
+                translateY(-2px);
+
+            color: white;
+
+            background:
+
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.06
+                );
+
+        }
+
+
+        .tab.active {
+
+            color: white;
+
+            border-color:
+
+                rgba(
+                    87,
+                    133,
+                    255,
+                    0.6
+                );
+
+            background:
+
+                linear-gradient(
+                    135deg,
+                    rgba(
+                        47,
+                        90,
+                        210,
+                        0.55
+                    ),
+                    rgba(
+                        78,
+                        44,
+                        175,
+                        0.45
+                    )
+                );
+
+        }
+
+
+        .tab-icon {
+
+            display: block;
+
+            margin-bottom: 5px;
+
+            font-size: 19px;
+
+        }
+
+
+        .tab-name {
+
+            display: block;
+
+            font-size: 13px;
+
+            font-weight: 700;
+
+        }
+
+
+        /* ===============================
+           CURRENT RANKING
+        =============================== */
+
+        .ranking-header {
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: space-between;
+
+            gap: 15px;
+
+            margin:
+
+                35px 0 16px;
+
+        }
+
+
+        #rankingTitle {
+
+            margin: 0;
+
+            font-size: 20px;
+
+        }
+
+
+        #rankingDescription {
+
+            margin: 5px 0 0;
+
+            color: #7d899e;
+
+            font-size: 12px;
+
+        }
+
+
+        .ranking-count {
+
+            color: #69758a;
+
+            font-size: 12px;
+
+            white-space: nowrap;
+
+        }
+
+
+        /* ===============================
+           PODIUM
+        =============================== */
+
+        #podium {
+
             display: grid;
 
             grid-template-columns:
                 repeat(3, 1fr);
 
-            gap: 15px;
+            gap: 12px;
 
-            margin-bottom: 30px;
+            margin-bottom: 15px;
+
         }
 
-        .top-card {
+
+        .podium-card {
+
             position: relative;
 
-            padding: 25px 20px;
+            overflow: hidden;
+
+            padding: 20px;
+
+            min-height: 180px;
 
             border-radius: 20px;
 
-            background:
-                linear-gradient(
-                    145deg,
-                    rgba(30,38,56,0.95),
-                    rgba(14,19,30,0.95)
+            border:
+
+                1px solid
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.08
                 );
 
-            border:
-                1px solid var(--border);
+            background:
+
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.025
+                );
+
+        }
+
+
+        .podium-card.first {
+
+            border-color:
+
+                rgba(
+                    255,
+                    205,
+                    76,
+                    0.45
+                );
+
+            background:
+
+                linear-gradient(
+                    145deg,
+                    rgba(
+                        255,
+                        191,
+                        49,
+                        0.18
+                    ),
+                    rgba(
+                        255,
+                        255,
+                        255,
+                        0.02
+                    )
+                );
+
+        }
+
+
+        .podium-card.second {
+
+            border-color:
+
+                rgba(
+                    188,
+                    199,
+                    220,
+                    0.3
+                );
+
+        }
+
+
+        .podium-card.third {
+
+            border-color:
+
+                rgba(
+                    193,
+                    125,
+                    74,
+                    0.35
+                );
+
+        }
+
+
+        .podium-medal {
+
+            font-size: 32px;
+
+        }
+
+
+        .podium-rank {
+
+            margin-top: 8px;
+
+            color: #8a95a9;
+
+            font-size: 12px;
+
+        }
+
+
+        .podium-name {
 
             overflow: hidden;
 
-            transition:
-                0.25s ease;
-        }
+            margin-top: 14px;
 
-        .top-card:hover {
-            transform:
-                translateY(-6px);
-        }
-
-        .top-card.rank-1 {
-            border-color:
-                rgba(255,216,107,0.55);
-
-            box-shadow:
-                0 0 45px rgba(255,216,107,0.10);
-        }
-
-        .top-card.rank-2 {
-            border-color:
-                rgba(216,222,233,0.35);
-        }
-
-        .top-card.rank-3 {
-            border-color:
-                rgba(214,155,106,0.35);
-        }
-
-        .medal {
-            font-size: 2rem;
-
-            margin-bottom: 12px;
-        }
-
-        .rank-label {
-            color: var(--sub);
-
-            font-size: 0.7rem;
-
-            letter-spacing: 0.15em;
-
-            margin-bottom: 8px;
-        }
-
-        .top-name {
-            font-size: 1.15rem;
+            font-size: 17px;
 
             font-weight: 800;
 
-            overflow: hidden;
             text-overflow: ellipsis;
+
             white-space: nowrap;
+
         }
 
-        .top-trip {
+
+        .podium-trip {
+
+            overflow: hidden;
+
             margin-top: 5px;
 
-            color: var(--sub);
+            color: #748096;
 
-            font-size: 0.7rem;
+            font-size: 10px;
 
-            overflow: hidden;
             text-overflow: ellipsis;
+
             white-space: nowrap;
+
         }
 
-        .top-money-label {
-            margin-top: 20px;
 
-            color: var(--sub);
+        .podium-value {
 
-            font-size: 0.7rem;
+            margin-top: 18px;
+
+            color: #ffffff;
+
+            font-size: 22px;
+
+            font-weight: 800;
+
         }
 
-        .top-money {
-            margin-top: 4px;
 
-            font-size: clamp(1rem, 3vw, 1.5rem);
-
-            font-weight: 900;
-
-            color: var(--gold);
-        }
-
-        /* =========================
+        /* ===============================
            RANKING LIST
-        ========================= */
+        =============================== */
 
-        .ranking {
+        #ranking {
+
             display: flex;
 
             flex-direction: column;
 
-            gap: 10px;
+            gap: 8px;
+
         }
 
-        .player-card {
+
+        .ranking-item {
+
             display: grid;
 
             grid-template-columns:
-                65px 1fr auto;
+
+                75px
+                minmax(0, 1fr)
+                auto;
 
             align-items: center;
 
-            gap: 15px;
+            gap: 14px;
 
-            padding: 16px 18px;
+            min-height: 76px;
+
+            padding:
+
+                13px 18px;
+
+            border:
+
+                1px solid
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.06
+                );
 
             border-radius: 16px;
 
             background:
-                rgba(20,27,42,0.78);
 
-            border:
-                1px solid var(--border);
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.025
+                );
 
             transition:
-                0.2s ease;
+                0.2s;
+
         }
 
-        .player-card:hover {
+
+        .ranking-item:hover {
+
             transform:
-                translateX(5px);
+                translateX(4px);
+
+            background:
+
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.055
+                );
 
             border-color:
-                rgba(111,168,255,0.4);
 
-            background:
-                rgba(29,38,58,0.9);
+                rgba(
+                    110,
+                    150,
+                    255,
+                    0.28
+                );
+
         }
+
+
+        .rank {
+
+            color: #8490a5;
+
+            font-weight: 800;
+
+        }
+
 
         .rank-number {
-            font-size: 1.1rem;
 
-            font-weight: 900;
+            font-size: 16px;
 
-            color: var(--sub);
-
-            text-align: center;
         }
 
-        .player-name {
-            font-weight: 800;
+
+        .user {
+
+            min-width: 0;
+
+        }
+
+
+        .name {
 
             overflow: hidden;
+
+            font-size: 15px;
+
+            font-weight: 700;
+
             text-overflow: ellipsis;
+
             white-space: nowrap;
+
         }
 
-        .player-trip {
+
+        .trip {
+
+            overflow: hidden;
+
             margin-top: 5px;
 
-            font-size: 0.72rem;
+            color: #707d93;
 
-            color: var(--sub);
+            font-size: 10px;
 
-            overflow: hidden;
             text-overflow: ellipsis;
+
             white-space: nowrap;
+
         }
 
-        .player-money {
+
+        .value {
+
             text-align: right;
+
+            color: white;
+
+            font-size: 19px;
 
             font-weight: 800;
 
-            color: var(--green);
-
             white-space: nowrap;
+
         }
+
+
+        .value-label {
+
+            display: block;
+
+            margin-top: 4px;
+
+            color: #6d7890;
+
+            font-size: 10px;
+
+            font-weight: 500;
+
+        }
+
+
+        /* ===============================
+           EMPTY
+        =============================== */
 
         .empty {
+
+            padding: 55px 20px;
+
             text-align: center;
 
-            padding: 50px 20px;
-
-            color: var(--sub);
-
-            background:
-                rgba(20,27,42,0.6);
+            color: #7d8798;
 
             border:
-                1px dashed var(--border);
 
-            border-radius: 20px;
+                1px solid
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.06
+                );
+
+            border-radius: 18px;
+
+            background:
+
+                rgba(
+                    255,
+                    255,
+                    255,
+                    0.02
+                );
+
         }
 
-        .loading {
-            text-align: center;
 
-            padding: 70px 20px;
-
-            color: var(--sub);
-        }
-
-        /* =========================
+        /* ===============================
            FOOTER
-        ========================= */
+        =============================== */
 
-        footer {
-            margin-top: 40px;
+        .footer {
+
+            margin-top: 35px;
+
+            padding-bottom: 20px;
 
             text-align: center;
 
-            color: #667085;
+            color: #566174;
 
-            font-size: 0.75rem;
+            font-size: 11px;
 
-            line-height: 1.8;
+            letter-spacing: 0.08em;
+
         }
 
-        /* =========================
-           MOBILE
-        ========================= */
 
-        @media (max-width: 700px) {
+        /* ===============================
+           MOBILE
+        =============================== */
+
+        @media (
+            max-width: 700px
+        ) {
 
             .container {
-                width: min(94%, 700px);
-                padding-top: 15px;
+
+                width:
+                    calc(
+                        100% - 18px
+                    );
+
+                margin-top:
+                    15px;
+
             }
 
-            header {
-                padding: 28px 15px;
+
+            .header {
+
+                padding: 22px 16px;
+
                 border-radius: 20px;
+
             }
 
-            .stats {
-                grid-template-columns:
-                    1fr;
+
+            .logo {
+
+                width: 50px;
+
+                height: 50px;
+
+                font-size: 23px;
+
+                border-radius: 15px;
+
             }
 
-            .podium {
-                grid-template-columns:
-                    1fr;
+
+            .subtitle {
+
+                font-size: 9px;
+
+                letter-spacing: 0.12em;
+
             }
 
-            .top-card.rank-1 {
-                order: -1;
-            }
 
-            .player-card {
-                grid-template-columns:
-                    45px 1fr;
-            }
+            .categories {
 
-            .player-money {
-                grid-column:
-                    2;
-
-                text-align: left;
-
-                margin-top: -8px;
-            }
-
-            .tabs {
                 display: grid;
 
                 grid-template-columns:
-                    repeat(2, 1fr);
+
+                    repeat(
+                        2,
+                        1fr
+                    );
+
             }
 
-            .tab {
-                min-width: 0;
+
+            .category-button {
+
+                width: 100%;
+
             }
+
+
+            .tabs {
+
+                grid-template-columns:
+
+                    repeat(
+                        2,
+                        1fr
+                    );
+
+            }
+
+
+            #podium {
+
+                grid-template-columns:
+                    1fr;
+
+            }
+
+
+            .podium-card {
+
+                min-height: 130px;
+
+            }
+
+
+            .ranking-item {
+
+                grid-template-columns:
+
+                    52px
+                    minmax(0, 1fr)
+                    auto;
+
+                padding:
+
+                    12px 11px;
+
+            }
+
+
+            .rank {
+
+                font-size: 12px;
+
+            }
+
+
+            .name {
+
+                font-size: 13px;
+
+            }
+
+
+            .value {
+
+                font-size: 15px;
+
+            }
+
         }
+
     </style>
+
 </head>
+
 
 <body>
 
+
 <div class="container">
 
-    <!-- =========================
+
+    <!-- ===============================
          HEADER
-    ========================== -->
+    =============================== -->
 
-    <header>
+    <header class="header">
 
-        <div class="logo">
-            PEPEPE
+        <div class="brand">
+
+            <div class="logo">
+                👑
+            </div>
+
+
+            <div>
+
+                <h1>
+                    NETFRFR RANKING
+                </h1>
+
+                <div class="subtitle">
+                    PEPEPE BOT ・ GLOBAL LEADERBOARD
+                </div>
+
+            </div>
+
         </div>
 
-        <div class="subtitle">
-            OFFICIAL ECONOMY LEADERBOARD
+
+        <p
+            class="status"
+            id="status"
+        >
+            🟡 ランキングデータ接続中...
+        </p>
+
+
+        <!-- SEARCH -->
+
+        <div class="search-box">
+
+            <span class="search-icon">
+                🔍
+            </span>
+
+            <input
+                type="text"
+                id="search"
+                placeholder="ユーザー名・トリップで検索"
+            >
+
         </div>
 
-        <div class="status">
-            <span class="status-dot"></span>
-            SYSTEM ONLINE
+
+        <!-- CATEGORY -->
+
+        <div class="category-title">
+            CATEGORY
+        </div>
+
+
+        <div
+            class="categories"
+            id="categories"
+        >
+        </div>
+
+
+        <!-- RANKING TYPE -->
+
+        <div
+            class="tabs"
+            id="tabs"
+        >
         </div>
 
     </header>
 
 
-    <!-- =========================
-         STATS
-    ========================== -->
-
-    <section class="stats">
-
-        <div class="stat-card">
-
-            <div class="stat-label">
-                REGISTERED PLAYERS
-            </div>
-
-            <div
-                class="stat-value"
-                id="playerCount"
-            >
-                -
-            </div>
-
-        </div>
-
-
-        <div class="stat-card">
-
-            <div class="stat-label">
-                CURRENT RANKING
-            </div>
-
-            <div
-                class="stat-value"
-                id="rankingType"
-            >
-                TOTAL ASSETS
-            </div>
-
-        </div>
-
-
-        <div class="stat-card">
-
-            <div class="stat-label">
-                LAST UPDATED
-            </div>
-
-            <div
-                class="stat-value"
-                id="updated"
-            >
-                -
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- =========================
-         CONTROLS
-    ========================== -->
-
-    <section class="controls">
-
-        <div class="tabs">
-
-            <button
-                class="tab active"
-                data-type="totalAssets"
-            >
-                🔱 総資産
-            </button>
-
-            <button
-                class="tab"
-                data-type="money"
-            >
-                💰 所持金
-            </button>
-
-            <button
-                class="tab"
-                data-type="bank"
-            >
-                🏦 銀行
-            </button>
-
-            <button
-                class="tab"
-                data-type="stockAssets"
-            >
-                📈 株式
-            </button>
-
-        </div>
-
-
-        <div class="search-box">
-
-            <input
-                type="text"
-                id="search"
-                placeholder="プレイヤー名を検索..."
-            >
-
-        </div>
-
-    </section>
-
-
-    <!-- =========================
-         TOP 3
-    ========================== -->
-
-    <section
-        class="podium"
-        id="podium"
-    >
-    </section>
-
-
-    <!-- =========================
+    <!-- ===============================
          RANKING
-    ========================== -->
+    =============================== -->
 
-    <section
-        class="ranking"
-        id="ranking"
-    >
+    <section>
 
-        <div class="loading">
-            RANKING DATA LOADING...
+        <div class="ranking-header">
+
+            <div>
+
+                <h2
+                    id="rankingTitle"
+                >
+                    ランキング
+                </h2>
+
+                <p
+                    id="rankingDescription"
+                >
+                    プレイヤーランキング
+                </p>
+
+            </div>
+
+
+            <div
+                class="ranking-count"
+                id="rankingCount"
+            >
+                0 PLAYERS
+            </div>
+
+        </div>
+
+
+        <!-- TOP 3 -->
+
+        <div
+            id="podium"
+        >
+        </div>
+
+
+        <!-- RANKING LIST -->
+
+        <div
+            id="ranking"
+        >
         </div>
 
     </section>
 
 
-    <!-- =========================
+    <!-- ===============================
          FOOTER
-    ========================== -->
+    =============================== -->
 
-    <footer>
+    <div
+        class="footer"
+    >
 
-        PEPEPE OFFICIAL RANKING<br>
+        PEPEPE BOT RANKING SYSTEM
 
-        DATA AUTOMATICALLY SYNCHRONIZED
+        <br>
 
-    </footer>
+        <span
+            id="updated"
+        >
+            DATA LOADING...
+        </span>
+
+    </div>
+
 
 </div>
 
 
 <script>
 
-    let users = []
 
-    let currentType = "totalAssets"
+/* =================================
+   RANKING CONFIG
+================================= */
+
+const RANKING_TYPES = {
+
+    economy: [
+
+        {
+            key: "money",
+            icon: "💰",
+            name: "所持金",
+            description: "現在の所持金ランキング",
+            suffix: "円"
+        },
+
+        {
+            key: "bank",
+            icon: "🏦",
+            name: "銀行預金",
+            description: "銀行預金ランキング",
+            suffix: "円"
+        },
+
+        {
+            key: "stockAssets",
+            icon: "📈",
+            name: "株式資産",
+            description: "株式資産ランキング",
+            suffix: "円"
+        },
+
+        {
+            key: "totalAssets",
+            icon: "💎",
+            name: "総資産",
+            description: "所持金・銀行・株式を含む総資産",
+            suffix: "円"
+        },
+
+        {
+            key: "loan",
+            icon: "💳",
+            name: "借金",
+            description: "借金ランキング",
+            suffix: "円",
+            reverse: true
+        },
+
+        {
+            key: "prestige",
+            icon: "🔄",
+            name: "転生",
+            description: "転生回数ランキング",
+            suffix: "回"
+        }
+
+    ],
 
 
-    // =========================
-    // 金額フォーマット
-    // =========================
+    casino: [
 
-    function formatMoney(value) {
+        {
+            key: "casinoWins",
+            icon: "🎰",
+            name: "カジノ勝利",
+            description: "カジノ総勝利数",
+            suffix: "勝"
+        },
 
-        return Number(
-            value || 0
-        ).toLocaleString("ja-JP")
+        {
+            key: "crashBest",
+            icon: "📈",
+            name: "CRASH最高倍率",
+            description: "CRASHの最高記録",
+            suffix: "x"
+        },
+
+        {
+            key: "pokerWins",
+            icon: "🃏",
+            name: "ポーカー勝利",
+            description: "ポーカー勝利数",
+            suffix: "勝"
+        },
+
+        {
+            key: "blackjackWins",
+            icon: "🂡",
+            name: "ブラックジャック",
+            description: "ブラックジャック勝利数",
+            suffix: "勝"
+        },
+
+        {
+            key: "rouletteWins",
+            icon: "🎯",
+            name: "ルーレット",
+            description: "ルーレット勝利数",
+            suffix: "勝"
+        }
+
+    ],
+
+
+    rpg: [
+
+        {
+            key: "level",
+            icon: "⭐",
+            name: "RPGレベル",
+            description: "RPGレベルランキング",
+            suffix: "Lv"
+        },
+
+        {
+            key: "exp",
+            icon: "✨",
+            name: "経験値",
+            description: "獲得経験値ランキング",
+            suffix: "EXP"
+        },
+
+        {
+            key: "rpgGold",
+            icon: "🪙",
+            name: "RPGゴールド",
+            description: "RPG所持ゴールドランキング",
+            suffix: "G"
+        },
+
+        {
+            key: "enemyKills",
+            icon: "⚔️",
+            name: "討伐数",
+            description: "モンスター討伐数ランキング",
+            suffix: "体"
+        },
+
+        {
+            key: "deaths",
+            icon: "💀",
+            name: "死亡回数",
+            description: "死亡回数ランキング",
+            suffix: "回",
+            reverse: true
+        }
+
+    ],
+
+
+    player: [
+
+        {
+            key: "titlesCount",
+            icon: "👑",
+            name: "称号数",
+            description: "獲得称号ランキング",
+            suffix: "個"
+        },
+
+        {
+            key: "childrenCount",
+            icon: "👶",
+            name: "子供",
+            description: "子供の人数ランキング",
+            suffix: "人"
+        },
+
+        {
+            key: "kissCount",
+            icon: "💋",
+            name: "キス",
+            description: "キス回数ランキング",
+            suffix: "回"
+        },
+
+        {
+            key: "jobLevel",
+            icon: "💼",
+            name: "職業レベル",
+            description: "職業レベルランキング",
+            suffix: "Lv"
+        }
+
+    ]
+
+};
+
+
+/* =================================
+   CATEGORY CONFIG
+================================= */
+
+const CATEGORIES = {
+
+    economy: {
+        icon: "💰",
+        name: "経済"
+    },
+
+    casino: {
+        icon: "🎰",
+        name: "カジノ"
+    },
+
+    rpg: {
+        icon: "⚔️",
+        name: "RPG"
+    },
+
+    player: {
+        icon: "👑",
+        name: "プレイヤー"
+    }
+
+};
+
+
+/* =================================
+   GLOBAL
+================================= */
+
+let users = [];
+
+let currentCategory = "economy";
+
+let currentType = "totalAssets";
+
+
+/* =================================
+   ESCAPE HTML
+================================= */
+
+function escapeHtml(value) {
+
+    return String(
+        value ?? ""
+    )
+
+    .replace(
+        /&/g,
+        "&amp;"
+    )
+
+    .replace(
+        /</g,
+        "&lt;"
+    )
+
+    .replace(
+        />/g,
+        "&gt;"
+    )
+
+    .replace(
+        /"/g,
+        "&quot;"
+    )
+
+    .replace(
+        /'/g,
+        "&#039;"
+    );
+
+}
+
+
+/* =================================
+   GET CONFIG
+================================= */
+
+function getCurrentConfig() {
+
+    const list =
+        RANKING_TYPES[
+            currentCategory
+        ] || [];
+
+    return list.find(
+        item =>
+            item.key === currentType
+    );
+
+}
+
+
+/* =================================
+   FORMAT VALUE
+================================= */
+
+function formatValue(
+    value,
+    config
+) {
+
+    let number =
+        Number(value || 0);
+
+
+    if (
+        config.key === "crashBest"
+    ) {
+
+        return (
+            number.toFixed(2)
+            +
+            config.suffix
+        );
 
     }
 
 
-    // =========================
-    // ランキング名
-    // =========================
+    if (
+        config.key === "level"
+        ||
+        config.key === "jobLevel"
+    ) {
 
-    function getRankingName(type) {
-
-        const names = {
-
-            totalAssets:
-                "TOTAL ASSETS",
-
-            money:
-                "CASH",
-
-            bank:
-                "BANK",
-
-            stockAssets:
-                "STOCK ASSETS"
-
-        }
-
-        return names[type] || type
+        return (
+            "Lv."
+            +
+            number.toLocaleString()
+        );
 
     }
 
 
-    // =========================
-    // メダル
-    // =========================
+    return (
+        number.toLocaleString()
+        +
+        config.suffix
+    );
 
-    function getMedal(rank) {
-
-        if (rank === 1) {
-            return "🥇"
-        }
-
-        if (rank === 2) {
-            return "🥈"
-        }
-
-        if (rank === 3) {
-            return "🥉"
-        }
-
-        return "#" + rank
-
-    }
+}
 
 
-    // =========================
-    // ランキング描画
-    // =========================
+/* =================================
+   CREATE CATEGORY BUTTONS
+================================= */
 
-    function renderRanking() {
+function renderCategories() {
 
-        const ranking =
-            document.getElementById(
-                "ranking"
-            )
-
-        const podium =
-            document.getElementById(
-                "podium"
-            )
-
-        const search =
-            document.getElementById(
-                "search"
-            ).value
-            .trim()
-            .toLowerCase()
-
-
-        // =========================
-        // ソート
-        // =========================
-
-        let sorted = [...users]
-
-        sorted.sort(
-            (a, b) =>
-
-                Number(
-                    b[currentType] || 0
-                )
-
-                -
-
-                Number(
-                    a[currentType] || 0
-                )
-        )
-
-
-        // =========================
-        // 検索
-        // =========================
-
-        if (search) {
-
-            sorted =
-                sorted.filter(
-                    user => {
-
-                        const name =
-                            String(
-                                user.name || ""
-                            ).toLowerCase()
-
-                        const trip =
-                            String(
-                                user.trip || ""
-                            ).toLowerCase()
-
-                        return (
-                            name.includes(search)
-                            ||
-                            trip.includes(search)
-                        )
-
-                    }
-                )
-
-        }
-
-
-        // =========================
-        // 現在ランキング名
-        // =========================
-
+    const container =
         document.getElementById(
-            "rankingType"
-        ).textContent =
-            getRankingName(
-                currentType
-            )
+            "categories"
+        );
 
 
-        // =========================
-        // 空
-        // =========================
+    container.innerHTML = "";
 
-        if (
-            sorted.length === 0
-        ) {
 
-            podium.innerHTML = ""
+    Object.entries(
+        CATEGORIES
+    )
 
-            ranking.innerHTML =
-                `
-                <div class="empty">
-                    該当するプレイヤーがいません
-                </div>
-                `
+    .forEach(
+        (
+            [
+                key,
+                category
+            ]
+        ) => {
 
-            return
+            const button =
+                document.createElement(
+                    "button"
+                );
 
-        }
 
-
-        // =========================
-        // TOP 3
-        // =========================
-
-        const top3 =
-            sorted.slice(
-                0,
-                3
-            )
-
-        const topOrder = []
-
-        if (top3[1]) {
-            topOrder.push({
-                user: top3[1],
-                rank: 2
-            })
-        }
-
-        if (top3[0]) {
-            topOrder.push({
-                user: top3[0],
-                rank: 1
-            })
-        }
-
-        if (top3[2]) {
-            topOrder.push({
-                user: top3[2],
-                rank: 3
-            })
-        }
-
-
-        podium.innerHTML =
-            topOrder.map(
-                item => {
-
-                    const user =
-                        item.user
-
-                    const rank =
-                        item.rank
-
-                    return `
-                    <div
-                        class="
-                            top-card
-                            rank-${rank}
-                        "
-                    >
-
-                        <div class="medal">
-                            ${getMedal(rank)}
-                        </div>
-
-                        <div class="rank-label">
-                            ${rank} PLACE
-                        </div>
-
-                        <div class="top-name">
-                            ${user.name || "Unknown"}
-                        </div>
-
-                        <div class="top-trip">
-                            ${user.trip || ""}
-                        </div>
-
-                        <div class="top-money-label">
-                            ${getRankingName(currentType)}
-                        </div>
-
-                        <div class="top-money">
-                            ¥${formatMoney(
-                                user[currentType]
-                            )}
-                        </div>
-
-                    </div>
-                    `
-
-                }
-            ).join("")
-
-
-        // =========================
-        // 4位以下
-        // =========================
-
-        const others =
-            sorted.slice(3)
-
-
-        ranking.innerHTML =
-            others.map(
-                (
-                    user,
-                    index
-                ) => {
-
-                    const rank =
-                        index + 4
-
-                    return `
-                    <div class="player-card">
-
-                        <div class="rank-number">
-                            #${rank}
-                        </div>
-
-
-                        <div>
-
-                            <div class="player-name">
-                                ${user.name || "Unknown"}
-                            </div>
-
-                            <div class="player-trip">
-                                ${user.trip || ""}
-                            </div>
-
-                        </div>
-
-
-                        <div class="player-money">
-
-                            ¥${formatMoney(
-                                user[currentType]
-                            )}
-
-                        </div>
-
-                    </div>
-                    `
-
-                }
-            ).join("")
-
-
-        // =========================
-        // TOP3しかいない場合
-        // =========================
-
-        if (
-            others.length === 0
-        ) {
-
-            ranking.innerHTML =
-                `
-                <div class="empty">
-                    TOP ${top3.length}
-                </div>
-                `
-
-        }
-
-    }
-
-
-    // =========================
-    // データ読み込み
-    // =========================
-
-    async function loadRanking() {
-
-        try {
-
-            const response =
-                await fetch(
-                    "./ranking.json?t="
-                    + Date.now()
-                )
-
-            if (
-                !response.ok
-            ) {
-
-                throw new Error(
-                    "ranking.json の読み込みに失敗しました"
-                )
-
-            }
-
-
-            const data =
-                await response.json()
-
-
-            // =========================
-            // users取得
-            // =========================
-
-            if (
-                Array.isArray(
-                    data.users
-                )
-            ) {
-
-                users =
-                    data.users
-
-            }
-
-            else if (
-                typeof data.users
-                === "object"
-                &&
-                data.users
-            ) {
-
-                users =
-                    Object.values(
-                        data.users
-                    )
-
-            }
-
-            else if (
-                Array.isArray(
-                    data
-                )
-            ) {
-
-                users =
-                    data
-
-            }
-
-            else {
-
-                users = []
-
-            }
-
-
-            // =========================
-            // プレイヤー数
-            // =========================
-
-            document.getElementById(
-                "playerCount"
-            ).textContent =
-                users.length.toLocaleString(
-                    "ja-JP"
-                )
-
-
-            // =========================
-            // 更新時間
-            // =========================
-
-            let updated =
-                data.updated
-                ||
-                data.lastUpdated
-                ||
-                null
+            button.className =
+                "category-button";
 
 
             if (
-                updated
+                key === currentCategory
             ) {
 
-                try {
+                button.classList.add(
+                    "active"
+                );
 
-                    const date =
-                        new Date(
-                            updated
-                        )
+            }
 
-                    document.getElementById(
-                        "updated"
-                    ).textContent =
-                        date.toLocaleString(
-                            "ja-JP"
-                        )
+
+            button.textContent =
+                `${category.icon} ${category.name}`;
+
+
+            button.addEventListener(
+                "click",
+                () => {
+
+                    currentCategory =
+                        key;
+
+
+                    const first =
+                        RANKING_TYPES[
+                            currentCategory
+                        ][0];
+
+
+                    currentType =
+                        first.key;
+
+
+                    renderCategories();
+
+                    renderTabs();
+
+                    renderRanking();
 
                 }
+            );
 
-                catch {
 
-                    document.getElementById(
-                        "updated"
-                    ).textContent =
-                        updated
+            container.appendChild(
+                button
+            );
+
+        }
+    );
+
+}
+
+
+/* =================================
+   CREATE TABS
+================================= */
+
+function renderTabs() {
+
+    const container =
+        document.getElementById(
+            "tabs"
+        );
+
+
+    container.innerHTML = "";
+
+
+    const types =
+        RANKING_TYPES[
+            currentCategory
+        ] || [];
+
+
+    types.forEach(
+        config => {
+
+            const button =
+                document.createElement(
+                    "button"
+                );
+
+
+            button.className =
+                "tab";
+
+
+            if (
+                config.key === currentType
+            ) {
+
+                button.classList.add(
+                    "active"
+                );
+
+            }
+
+
+            button.innerHTML = `
+
+                <span
+                    class="tab-icon"
+                >
+                    ${config.icon}
+                </span>
+
+                <span
+                    class="tab-name"
+                >
+                    ${escapeHtml(
+                        config.name
+                    )}
+                </span>
+
+            `;
+
+
+            button.addEventListener(
+                "click",
+                () => {
+
+                    currentType =
+                        config.key;
+
+
+                    renderTabs();
+
+                    renderRanking();
 
                 }
-
-            }
-
-            else {
-
-                document.getElementById(
-                    "updated"
-                ).textContent =
-                    "SYNCED"
-
-            }
+            );
 
 
-            renderRanking()
+            container.appendChild(
+                button
+            );
 
         }
+    );
 
-        catch (error) {
-
-            console.error(
-                error
-            )
-
-            document.getElementById(
-                "ranking"
-            ).innerHTML =
-                `
-                <div class="empty">
-
-                    <h3>
-                        DATA CONNECTION ERROR
-                    </h3>
-
-                    <br>
-
-                    ranking.json を
-                    読み込めませんでした
-
-                </div>
-                `
-
-        }
-
-    }
+}
 
 
-    // =========================
-    // TAB
-    // =========================
+/* =================================
+   SEARCH
+================================= */
 
-    document
-        .querySelectorAll(
-            ".tab"
-        )
-        .forEach(
-            button => {
+function getFilteredUsers() {
 
-                button.addEventListener(
-                    "click",
-                    () => {
-
-                        document
-                            .querySelectorAll(
-                                ".tab"
-                            )
-                            .forEach(
-                                tab => {
-
-                                    tab.classList.remove(
-                                        "active"
-                                    )
-
-                                }
-                            )
-
-                        button.classList.add(
-                            "active"
-                        )
-
-                        currentType =
-                            button.dataset.type
-
-                        renderRanking()
-
-                    }
-                )
-
-            }
-        )
-
-
-    // =========================
-    // SEARCH
-    // =========================
-
-    document
+    const search =
+        document
         .getElementById(
             "search"
         )
-        .addEventListener(
-            "input",
-            () => {
+        .value
+        .trim()
+        .toLowerCase();
 
-                renderRanking()
+
+    const config =
+        getCurrentConfig();
+
+
+    let filtered =
+        users.filter(
+            user => {
+
+                const name =
+                    String(
+                        user.name || ""
+                    )
+                    .toLowerCase();
+
+
+                const trip =
+                    String(
+                        user.trip || ""
+                    )
+                    .toLowerCase();
+
+
+                if (
+                    !search
+                ) {
+
+                    return true;
+
+                }
+
+
+                return (
+
+                    name.includes(
+                        search
+                    )
+
+                    ||
+
+                    trip.includes(
+                        search
+                    )
+
+                );
 
             }
-        )
+        );
 
 
-    // =========================
-    // START
-    // =========================
+    filtered.sort(
+        (
+            a,
+            b
+        ) => {
 
-    loadRanking()
+            const aValue =
+                Number(
+                    a[
+                        config.key
+                    ] || 0
+                );
 
 
-    // =========================
-    // 自動更新
-    // 30秒ごと
-    // =========================
+            const bValue =
+                Number(
+                    b[
+                        config.key
+                    ] || 0
+                );
 
-    setInterval(
-        loadRanking,
-        30000
+
+            if (
+                config.reverse
+            ) {
+
+                return (
+                    aValue
+                    -
+                    bValue
+                );
+
+            }
+
+
+            return (
+                bValue
+                -
+                aValue
+            );
+
+        }
+    );
+
+
+    return filtered;
+
+}
+
+
+/* =================================
+   RANK ICON
+================================= */
+
+function getRankIcon(rank) {
+
+    if (
+        rank === 1
+    ) {
+
+        return "🥇";
+
+    }
+
+
+    if (
+        rank === 2
+    ) {
+
+        return "🥈";
+
+    }
+
+
+    if (
+        rank === 3
+    ) {
+
+        return "🥉";
+
+    }
+
+
+    return "🏅";
+
+}
+
+
+/* =================================
+   RENDER PODIUM
+================================= */
+
+function renderPodium(
+    ranking,
+    config
+) {
+
+    const podium =
+        document.getElementById(
+            "podium"
+        );
+
+
+    podium.innerHTML = "";
+
+
+    const topThree =
+        ranking.slice(
+            0,
+            3
+        );
+
+
+    topThree.forEach(
+        (
+            user,
+            index
+        ) => {
+
+            const rank =
+                index + 1;
+
+
+            const card =
+                document.createElement(
+                    "div"
+                );
+
+
+            card.className =
+                "podium-card";
+
+
+            if (
+                rank === 1
+            ) {
+
+                card.classList.add(
+                    "first"
+                );
+
+            }
+
+
+            else if (
+                rank === 2
+            ) {
+
+                card.classList.add(
+                    "second"
+                );
+
+            }
+
+
+            else {
+
+                card.classList.add(
+                    "third"
+                );
+
+            }
+
+
+            const name =
+                user.name ||
+                "名無しさん";
+
+
+            const trip =
+                user.trip ||
+                "";
+
+
+            card.innerHTML = `
+
+                <div
+                    class="podium-medal"
+                >
+                    ${getRankIcon(rank)}
+                </div>
+
+
+                <div
+                    class="podium-rank"
+                >
+                    RANK ${rank}
+                </div>
+
+
+                <div
+                    class="podium-name"
+                >
+                    ${escapeHtml(
+                        name
+                    )}
+                </div>
+
+
+                <div
+                    class="podium-trip"
+                >
+                    ${
+                        trip
+                        ? escapeHtml(
+                            trip
+                        )
+                        : "NO TRIP"
+                    }
+                </div>
+
+
+                <div
+                    class="podium-value"
+                >
+                    ${formatValue(
+                        user[
+                            config.key
+                        ],
+                        config
+                    )}
+                </div>
+
+            `;
+
+
+            podium.appendChild(
+                card
+            );
+
+        }
+    );
+
+}
+
+
+/* =================================
+   RENDER RANKING
+================================= */
+
+function renderRanking() {
+
+    const config =
+        getCurrentConfig();
+
+
+    if (
+        !config
+    ) {
+
+        return;
+
+    }
+
+
+    const ranking =
+        getFilteredUsers();
+
+
+    document
+    .getElementById(
+        "rankingTitle"
     )
+    .textContent =
+
+        `${config.icon} ${config.name}ランキング`;
+
+
+    document
+    .getElementById(
+        "rankingDescription"
+    )
+    .textContent =
+
+        config.description;
+
+
+    document
+    .getElementById(
+        "rankingCount"
+    )
+    .textContent =
+
+        `${ranking.length} PLAYERS`;
+
+
+    const rankingElement =
+        document.getElementById(
+            "ranking"
+        );
+
+
+    rankingElement.innerHTML =
+        "";
+
+
+    if (
+        ranking.length === 0
+    ) {
+
+        document
+        .getElementById(
+            "podium"
+        )
+        .innerHTML =
+            "";
+
+
+        rankingElement.innerHTML = `
+
+            <div
+                class="empty"
+            >
+
+                🔎<br><br>
+
+                該当するプレイヤーが
+                いません
+
+            </div>
+
+        `;
+
+
+        return;
+
+    }
+
+
+    renderPodium(
+        ranking,
+        config
+    );
+
+
+    ranking.forEach(
+        (
+            user,
+            index
+        ) => {
+
+            const rank =
+                index + 1;
+
+
+            const item =
+                document.createElement(
+                    "div"
+                );
+
+
+            item.className =
+                "ranking-item";
+
+
+            const name =
+                user.name ||
+                "名無しさん";
+
+
+            const trip =
+                user.trip ||
+                "";
+
+
+            item.innerHTML = `
+
+                <div
+                    class="rank"
+                >
+
+                    ${getRankIcon(rank)}
+
+                    <span
+                        class="rank-number"
+                    >
+                        ${rank}位
+                    </span>
+
+                </div>
+
+
+                <div
+                    class="user"
+                >
+
+                    <div
+                        class="name"
+                    >
+                        ${escapeHtml(
+                            name
+                        )}
+                    </div>
+
+
+                    <div
+                        class="trip"
+                    >
+
+                        ${
+                            trip
+                            ? escapeHtml(
+                                trip
+                            )
+                            : "NO TRIP"
+                        }
+
+                    </div>
+
+                </div>
+
+
+                <div
+                    class="value"
+                >
+
+                    ${formatValue(
+                        user[
+                            config.key
+                        ],
+                        config
+                    )}
+
+                    <span
+                        class="value-label"
+                    >
+                        ${escapeHtml(
+                            config.name
+                        )}
+                    </span>
+
+                </div>
+
+            `;
+
+
+            rankingElement.appendChild(
+                item
+            );
+
+        }
+    );
+
+}
+
+
+/* =================================
+   LOAD DATA
+================================= */
+
+async function loadRanking() {
+
+    try {
+
+        const response =
+            await fetch(
+                "./ranking.json"
+                +
+                "?t="
+                +
+                Date.now(),
+                {
+                    cache:
+                        "no-store"
+                }
+            );
+
+
+        if (
+            !response.ok
+        ) {
+
+            throw new Error(
+                "HTTP "
+                +
+                response.status
+            );
+
+        }
+
+
+        const data =
+            await response.json();
+
+
+        /*
+         * ranking.json
+         *
+         * {
+         *     "users": [
+         *         {
+         *             "name": "...",
+         *             "trip": "...",
+         *             "money": 1000
+         *         }
+         *     ]
+         * }
+         */
+
+
+        if (
+            Array.isArray(
+                data.users
+            )
+        ) {
+
+            users =
+                data.users;
+
+        }
+
+
+        else if (
+            Array.isArray(
+                data
+            )
+        ) {
+
+            users =
+                data;
+
+        }
+
+
+        else {
+
+            throw new Error(
+                "JSON FORMAT ERROR"
+            );
+
+        }
+
+
+        document
+        .getElementById(
+            "status"
+        )
+        .textContent =
+
+            "🟢 ランキングデータ接続中";
+
+
+        document
+        .getElementById(
+            "updated"
+        )
+        .textContent =
+
+            "LAST UPDATE: "
+            +
+            new Date()
+            .toLocaleString(
+                "ja-JP"
+            );
+
+
+        renderCategories();
+
+        renderTabs();
+
+        renderRanking();
+
+    }
+
+
+    catch (
+        error
+    ) {
+
+        console.error(
+            error
+        );
+
+
+        document
+        .getElementById(
+            "status"
+        )
+        .textContent =
+
+            "🔴 ランキングデータ取得失敗";
+
+
+        document
+        .getElementById(
+            "podium"
+        )
+        .innerHTML =
+            "";
+
+
+        document
+        .getElementById(
+            "ranking"
+        )
+        .innerHTML = `
+
+            <div
+                class="empty"
+            >
+
+                ⚠️<br><br>
+
+                ranking.json を
+                取得できませんでした。
+
+            </div>
+
+        `;
+
+    }
+
+}
+
+
+/* =================================
+   SEARCH EVENT
+================================= */
+
+document
+.getElementById(
+    "search"
+)
+.addEventListener(
+    "input",
+    renderRanking
+);
+
+
+/* =================================
+   START
+================================= */
+
+loadRanking();
+
+
+/* =================================
+   AUTO REFRESH
+================================= */
+
+/*
+    60秒ごとに自動更新
+*/
+
+setInterval(
+    loadRanking,
+    60000
+);
+
 
 </script>
 
+
 </body>
+
 </html>
