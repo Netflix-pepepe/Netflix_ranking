@@ -1,900 +1,1185 @@
 <!DOCTYPE html>
 <html lang="ja">
-
 <head>
-
     <meta charset="UTF-8">
-
     <meta
         name="viewport"
         content="width=device-width, initial-scale=1.0"
     >
 
-    <title>NETFRFRランキング</title>
+    <title>PEPEPE RANKING</title>
 
     <style>
-
         * {
             box-sizing: border-box;
-        }
-
-        html,
-        body {
             margin: 0;
             padding: 0;
-            min-height: 100%;
+        }
+
+        :root {
+            --bg: #080b12;
+            --bg2: #101622;
+            --card: rgba(20, 27, 42, 0.92);
+            --card2: rgba(27, 36, 55, 0.95);
+            --border: rgba(255, 255, 255, 0.08);
+            --text: #f4f7ff;
+            --sub: #8e9ab0;
+            --accent: #6fa8ff;
+            --accent2: #9b6cff;
+            --gold: #ffd86b;
+            --silver: #d8dee9;
+            --bronze: #d69b6a;
+            --green: #53e0a0;
+            --danger: #ff6b7a;
+        }
+
+        html {
+            scroll-behavior: smooth;
         }
 
         body {
-
+            min-height: 100vh;
+            background:
+                radial-gradient(
+                    circle at top left,
+                    rgba(111, 168, 255, 0.12),
+                    transparent 30%
+                ),
+                radial-gradient(
+                    circle at top right,
+                    rgba(155, 108, 255, 0.10),
+                    transparent 25%
+                ),
+                linear-gradient(
+                    180deg,
+                    #080b12 0%,
+                    #0b1019 100%
+                );
+            color: var(--text);
             font-family:
+                -apple-system,
+                BlinkMacSystemFont,
                 "Segoe UI",
                 "Noto Sans JP",
                 sans-serif;
-
-            color: #f5f5f5;
-
-            background:
-                radial-gradient(
-                    circle at 20% 0%,
-                    rgba(212,175,55,0.12),
-                    transparent 35%
-                ),
-                radial-gradient(
-                    circle at 100% 20%,
-                    rgba(255,255,255,0.05),
-                    transparent 30%
-                ),
-                linear-gradient(
-                    135deg,
-                    #070707,
-                    #101010 45%,
-                    #050505
-                );
-
-            min-height: 100vh;
         }
 
-
-        /* =================================
-           背景
-        ================================= */
-
         body::before {
-
             content: "";
-
             position: fixed;
-
             inset: 0;
-
-            pointer-events: none;
 
             background-image:
                 linear-gradient(
-                    rgba(255,255,255,0.018) 1px,
+                    rgba(255,255,255,0.025) 1px,
                     transparent 1px
                 ),
                 linear-gradient(
                     90deg,
-                    rgba(255,255,255,0.018) 1px,
+                    rgba(255,255,255,0.025) 1px,
                     transparent 1px
                 );
 
-            background-size:
-                40px 40px;
+            background-size: 40px 40px;
 
-            mask-image:
-                linear-gradient(
-                    to bottom,
-                    black,
-                    transparent
-                );
+            pointer-events: none;
+            z-index: -1;
         }
-
-
-        /* =================================
-           メイン
-        ================================= */
 
         .container {
-
-            width: min(
-                1100px,
-                calc(100% - 30px)
-            );
-
-            margin: 45px auto;
-
-            position: relative;
+            width: min(1200px, 92%);
+            margin: 0 auto;
+            padding: 30px 0 60px;
         }
 
+        /* =========================
+           HEADER
+        ========================= */
 
-        /* =================================
-           ヘッダー
-        ================================= */
-
-        .header {
-
-            position: relative;
-
-            padding: 34px 35px;
-
-            border:
-                1px solid
-                rgba(212,175,55,0.3);
-
-            border-radius: 22px;
+        header {
+            text-align: center;
+            padding: 35px 20px;
+            margin-bottom: 25px;
 
             background:
                 linear-gradient(
-                    145deg,
-                    rgba(30,30,30,0.95),
-                    rgba(9,9,9,0.92)
+                    135deg,
+                    rgba(255,255,255,0.05),
+                    rgba(255,255,255,0.01)
                 );
 
-            box-shadow:
-                0 25px 80px
-                rgba(0,0,0,0.55),
+            border: 1px solid var(--border);
+            border-radius: 24px;
 
-                inset 0 1px 0
-                rgba(255,255,255,0.05);
+            box-shadow:
+                0 20px 80px rgba(0,0,0,0.35);
+
+            position: relative;
+            overflow: hidden;
         }
 
-
-        .header::after {
-
+        header::before {
             content: "";
-
             position: absolute;
 
-            left: 35px;
-            right: 35px;
-            bottom: 0;
-
-            height: 1px;
+            width: 350px;
+            height: 350px;
 
             background:
-                linear-gradient(
-                    90deg,
-                    transparent,
-                    #d4af37,
-                    transparent
+                radial-gradient(
+                    circle,
+                    rgba(111,168,255,0.16),
+                    transparent 70%
                 );
 
-            opacity: 0.7;
+            top: -200px;
+            left: 50%;
+
+            transform: translateX(-50%);
         }
-
-
-        .brand {
-
-            display: flex;
-
-            align-items: center;
-
-            gap: 18px;
-        }
-
 
         .logo {
+            position: relative;
+            z-index: 1;
 
-            width: 58px;
-            height: 58px;
+            font-size: clamp(2rem, 6vw, 4.5rem);
+            font-weight: 900;
 
-            display: flex;
-
-            align-items: center;
-            justify-content: center;
-
-            border-radius: 16px;
-
-            background:
-                linear-gradient(
-                    145deg,
-                    #f1d67a,
-                    #9c7420
-                );
-
-            color: #080808;
-
-            font-size: 28px;
-
-            box-shadow:
-                0 8px 30px
-                rgba(212,175,55,0.2);
-        }
-
-
-        h1 {
-
-            margin: 0;
-
-            font-size: clamp(
-                24px,
-                4vw,
-                38px
-            );
-
-            letter-spacing: 0.06em;
-
-            font-weight: 800;
+            letter-spacing: 0.12em;
 
             background:
                 linear-gradient(
                     90deg,
-                    #fff,
-                    #e9d38a,
-                    #fff
+                    #ffffff,
+                    #6fa8ff,
+                    #9b6cff
                 );
 
             -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
 
-            background-clip: text;
-
-            color: transparent;
+            text-shadow:
+                0 0 40px rgba(111,168,255,0.2);
         }
-
 
         .subtitle {
+            position: relative;
+            z-index: 1;
 
-            margin-top: 7px;
+            margin-top: 8px;
 
-            color: #888;
+            color: var(--sub);
 
-            font-size: 13px;
+            letter-spacing: 0.25em;
 
-            letter-spacing: 0.14em;
+            font-size: 0.8rem;
         }
 
-
-        /* =================================
-           ステータス
-        ================================= */
-
         .status {
+            position: relative;
+            z-index: 1;
 
             display: inline-flex;
-
             align-items: center;
-
             gap: 8px;
 
-            margin: 25px 0 0;
+            margin-top: 20px;
 
-            padding: 8px 13px;
+            padding: 8px 14px;
 
             border-radius: 999px;
+
+            background:
+                rgba(83,224,160,0.08);
+
+            border:
+                1px solid rgba(83,224,160,0.2);
+
+            color: var(--green);
+
+            font-size: 0.8rem;
+            font-weight: 700;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+
+            border-radius: 50%;
+
+            background: var(--green);
+
+            box-shadow:
+                0 0 12px var(--green);
+        }
+
+        /* =========================
+           STATS
+        ========================= */
+
+        .stats {
+            display: grid;
+
+            grid-template-columns:
+                repeat(3, 1fr);
+
+            gap: 15px;
+
+            margin-bottom: 25px;
+        }
+
+        .stat-card {
+            padding: 20px;
+
+            background:
+                rgba(20,27,42,0.75);
+
+            border:
+                1px solid var(--border);
+
+            border-radius: 18px;
+
+            text-align: center;
+        }
+
+        .stat-label {
+            color: var(--sub);
+
+            font-size: 0.75rem;
+
+            margin-bottom: 8px;
+        }
+
+        .stat-value {
+            font-size: 1.15rem;
+            font-weight: 800;
+        }
+
+        /* =========================
+           CONTROLS
+        ========================= */
+
+        .controls {
+            display: flex;
+
+            flex-direction: column;
+
+            gap: 15px;
+
+            margin-bottom: 30px;
+        }
+
+        .tabs {
+            display: flex;
+
+            gap: 10px;
+
+            flex-wrap: wrap;
+        }
+
+        .tab {
+            flex: 1;
+
+            min-width: 120px;
+
+            border: none;
+
+            padding: 13px 15px;
+
+            border-radius: 12px;
+
+            cursor: pointer;
 
             background:
                 rgba(255,255,255,0.04);
 
             border:
-                1px solid
-                rgba(255,255,255,0.08);
+                1px solid var(--border);
 
-            color: #aaa;
+            color: var(--sub);
 
-            font-size: 12px;
+            transition:
+                0.2s ease;
         }
 
+        .tab:hover {
+            transform: translateY(-2px);
 
-        /* =================================
-           検索
-        ================================= */
+            background:
+                rgba(255,255,255,0.07);
+        }
+
+        .tab.active {
+            color: white;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    rgba(111,168,255,0.3),
+                    rgba(155,108,255,0.25)
+                );
+
+            border-color:
+                rgba(111,168,255,0.5);
+
+            box-shadow:
+                0 8px 30px rgba(111,168,255,0.12);
+        }
 
         .search-box {
-
-            margin-top: 25px;
-
             position: relative;
         }
 
-
-        .search-icon {
-
-            position: absolute;
-
-            left: 17px;
-
-            top: 50%;
-
-            transform:
-                translateY(-50%);
-
-            color: #777;
-
-            font-size: 17px;
-        }
-
-
-        #search {
-
+        .search-box input {
             width: 100%;
 
             padding:
-                16px
-                18px
-                16px
-                48px;
+                15px 18px;
 
             border-radius: 14px;
 
             border:
-                1px solid
-                rgba(255,255,255,0.09);
+                1px solid var(--border);
 
             outline: none;
 
             color: white;
 
             background:
-                rgba(255,255,255,0.035);
+                rgba(255,255,255,0.04);
 
-            font-size: 14px;
-
-            transition:
-                0.2s ease;
+            font-size: 0.95rem;
         }
 
-
-        #search::placeholder {
-            color: #666;
-        }
-
-
-        #search:focus {
-
+        .search-box input:focus {
             border-color:
-                rgba(212,175,55,0.6);
-
-            background:
-                rgba(255,255,255,0.055);
+                rgba(111,168,255,0.7);
 
             box-shadow:
-                0 0 0 4px
-                rgba(212,175,55,0.06);
+                0 0 0 4px rgba(111,168,255,0.08);
         }
 
+        /* =========================
+           TOP 3
+        ========================= */
 
-        /* =================================
-           タブ
-        ================================= */
-
-        .tabs {
-
+        .podium {
             display: grid;
 
             grid-template-columns:
-                repeat(4, 1fr);
+                repeat(3, 1fr);
 
-            gap: 10px;
+            gap: 15px;
 
-            margin-top: 18px;
+            margin-bottom: 30px;
         }
 
+        .top-card {
+            position: relative;
 
-        .tabs button {
+            padding: 25px 20px;
 
-            border: 1px solid
-                rgba(255,255,255,0.08);
-
-            border-radius: 13px;
-
-            padding: 14px 10px;
-
-            background:
-                rgba(255,255,255,0.035);
-
-            color: #999;
-
-            cursor: pointer;
-
-            font-weight: 700;
-
-            transition:
-                0.2s ease;
-        }
-
-
-        .tabs button:hover {
-
-            transform:
-                translateY(-2px);
-
-            color: #eee;
-
-            border-color:
-                rgba(212,175,55,0.35);
-        }
-
-
-        .tabs button.active {
-
-            color: #111;
-
-            border-color:
-                transparent;
+            border-radius: 20px;
 
             background:
                 linear-gradient(
-                    135deg,
-                    #f2d779,
-                    #b78b2b
+                    145deg,
+                    rgba(30,38,56,0.95),
+                    rgba(14,19,30,0.95)
                 );
 
-            box-shadow:
-                0 8px 25px
-                rgba(212,175,55,0.15);
+            border:
+                1px solid var(--border);
+
+            overflow: hidden;
+
+            transition:
+                0.25s ease;
         }
 
+        .top-card:hover {
+            transform:
+                translateY(-6px);
+        }
 
-        /* =================================
-           ランキング
-        ================================= */
+        .top-card.rank-1 {
+            border-color:
+                rgba(255,216,107,0.55);
 
-        #ranking {
+            box-shadow:
+                0 0 45px rgba(255,216,107,0.10);
+        }
 
-            margin-top: 25px;
+        .top-card.rank-2 {
+            border-color:
+                rgba(216,222,233,0.35);
+        }
 
+        .top-card.rank-3 {
+            border-color:
+                rgba(214,155,106,0.35);
+        }
+
+        .medal {
+            font-size: 2rem;
+
+            margin-bottom: 12px;
+        }
+
+        .rank-label {
+            color: var(--sub);
+
+            font-size: 0.7rem;
+
+            letter-spacing: 0.15em;
+
+            margin-bottom: 8px;
+        }
+
+        .top-name {
+            font-size: 1.15rem;
+
+            font-weight: 800;
+
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .top-trip {
+            margin-top: 5px;
+
+            color: var(--sub);
+
+            font-size: 0.7rem;
+
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .top-money-label {
+            margin-top: 20px;
+
+            color: var(--sub);
+
+            font-size: 0.7rem;
+        }
+
+        .top-money {
+            margin-top: 4px;
+
+            font-size: clamp(1rem, 3vw, 1.5rem);
+
+            font-weight: 900;
+
+            color: var(--gold);
+        }
+
+        /* =========================
+           RANKING LIST
+        ========================= */
+
+        .ranking {
             display: flex;
 
             flex-direction: column;
 
-            gap: 11px;
+            gap: 10px;
         }
 
-
-        .ranking-item {
-
+        .player-card {
             display: grid;
 
             grid-template-columns:
-                85px 1fr;
+                65px 1fr auto;
 
             align-items: center;
 
-            min-height: 82px;
+            gap: 15px;
 
-            padding:
-                15px 22px;
+            padding: 16px 18px;
 
-            border-radius: 17px;
-
-            border:
-                1px solid
-                rgba(255,255,255,0.07);
+            border-radius: 16px;
 
             background:
-                linear-gradient(
-                    110deg,
-                    rgba(255,255,255,0.045),
-                    rgba(255,255,255,0.018)
-                );
+                rgba(20,27,42,0.78);
 
-            box-shadow:
-                0 8px 30px
-                rgba(0,0,0,0.2);
+            border:
+                1px solid var(--border);
 
             transition:
-                transform 0.2s ease,
-                border-color 0.2s ease,
-                background 0.2s ease;
+                0.2s ease;
         }
 
-
-        .ranking-item:hover {
-
+        .player-card:hover {
             transform:
-                translateY(-3px)
-                scale(1.005);
+                translateX(5px);
 
             border-color:
-                rgba(212,175,55,0.3);
+                rgba(111,168,255,0.4);
 
             background:
-                linear-gradient(
-                    110deg,
-                    rgba(212,175,55,0.08),
-                    rgba(255,255,255,0.025)
-                );
+                rgba(29,38,58,0.9);
         }
 
-
-        .rank {
-
-            font-size: 18px;
+        .rank-number {
+            font-size: 1.1rem;
 
             font-weight: 900;
 
-            color: #777;
+            color: var(--sub);
 
             text-align: center;
         }
 
+        .player-name {
+            font-weight: 800;
 
-        .user {
-
-            display: flex;
-
-            align-items: center;
-
-            justify-content: space-between;
-
-            gap: 20px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
+        .player-trip {
+            margin-top: 5px;
 
-        .name {
+            font-size: 0.72rem;
 
-            font-size: 16px;
+            color: var(--sub);
 
-            font-weight: 700;
-
-            color: #eee;
-
-            word-break: break-all;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
+        .player-money {
+            text-align: right;
 
-        .value {
+            font-weight: 800;
+
+            color: var(--green);
 
             white-space: nowrap;
-
-            font-size: 21px;
-
-            font-weight: 900;
-
-            color: #e4c45f;
-
-            text-shadow:
-                0 0 20px
-                rgba(212,175,55,0.15);
         }
 
-
-        /* =================================
-           TOP 3
-        ================================= */
-
-        .rank-1 {
-
-            border-color:
-                rgba(255,215,0,0.45);
-
-            background:
-                linear-gradient(
-                    110deg,
-                    rgba(212,175,55,0.14),
-                    rgba(255,255,255,0.025)
-                );
-        }
-
-
-        .rank-1 .rank {
-
-            color: #ffd84d;
-
-            font-size: 23px;
-        }
-
-
-        .rank-1 .value {
-
-            color: #ffe27a;
-
-            font-size: 24px;
-        }
-
-
-        .rank-2 {
-
-            border-color:
-                rgba(210,210,210,0.22);
-        }
-
-
-        .rank-2 .rank {
-            color: #d5d5d5;
-        }
-
-
-        .rank-3 {
-
-            border-color:
-                rgba(190,125,65,0.28);
-        }
-
-
-        .rank-3 .rank {
-            color: #cd8a52;
-        }
-
-
-        /* =================================
-           空状態
-        ================================= */
-
-        #ranking > p {
-
-            padding: 45px;
-
+        .empty {
             text-align: center;
 
-            color: #777;
+            padding: 50px 20px;
 
-            border-radius: 17px;
+            color: var(--sub);
+
+            background:
+                rgba(20,27,42,0.6);
 
             border:
-                1px solid
-                rgba(255,255,255,0.06);
+                1px dashed var(--border);
 
-            background:
-                rgba(255,255,255,0.025);
+            border-radius: 20px;
         }
 
+        .loading {
+            text-align: center;
 
-        /* =================================
-           フッター
-        ================================= */
+            padding: 70px 20px;
 
-        .footer {
+            color: var(--sub);
+        }
 
-            margin-top: 25px;
+        /* =========================
+           FOOTER
+        ========================= */
+
+        footer {
+            margin-top: 40px;
 
             text-align: center;
 
-            color: #555;
+            color: #667085;
 
-            font-size: 11px;
+            font-size: 0.75rem;
 
-            letter-spacing: 0.08em;
+            line-height: 1.8;
         }
 
+        /* =========================
+           MOBILE
+        ========================= */
 
-        /* =================================
-           スマホ
-        ================================= */
-
-        @media (
-            max-width: 700px
-        ) {
+        @media (max-width: 700px) {
 
             .container {
-
-                width:
-                    calc(100% - 18px);
-
-                margin:
-                    18px auto;
+                width: min(94%, 700px);
+                padding-top: 15px;
             }
 
-
-            .header {
-
-                padding: 24px 18px;
-
-                border-radius: 18px;
+            header {
+                padding: 28px 15px;
+                border-radius: 20px;
             }
 
-
-            .header::after {
-
-                left: 18px;
-                right: 18px;
+            .stats {
+                grid-template-columns:
+                    1fr;
             }
 
-
-            .brand {
-
-                gap: 12px;
+            .podium {
+                grid-template-columns:
+                    1fr;
             }
 
-
-            .logo {
-
-                width: 46px;
-                height: 46px;
-
-                font-size: 22px;
-
-                border-radius: 12px;
+            .top-card.rank-1 {
+                order: -1;
             }
 
-
-            .subtitle {
-
-                font-size: 10px;
+            .player-card {
+                grid-template-columns:
+                    45px 1fr;
             }
 
+            .player-money {
+                grid-column:
+                    2;
+
+                text-align: left;
+
+                margin-top: -8px;
+            }
 
             .tabs {
+                display: grid;
 
                 grid-template-columns:
                     repeat(2, 1fr);
             }
 
-
-            .ranking-item {
-
-                grid-template-columns:
-                    55px 1fr;
-
-                padding:
-                    13px 12px;
-
-                min-height: 72px;
+            .tab {
+                min-width: 0;
             }
-
-
-            .user {
-
-                display: block;
-            }
-
-
-            .name {
-
-                font-size: 13px;
-
-                line-height: 1.5;
-            }
-
-
-            .value {
-
-                margin-top: 5px;
-
-                font-size: 18px;
-            }
-
-
-            .rank-1 .value {
-
-                font-size: 20px;
-            }
-
         }
-
     </style>
-
 </head>
-
 
 <body>
 
-
 <div class="container">
 
+    <!-- =========================
+         HEADER
+    ========================== -->
 
-    <!-- =================================
-         ヘッダー
-    ================================= -->
+    <header>
 
-    <header class="header">
-
-        <div class="brand">
-
-            <div class="logo">
-                📂
-            </div>
-
-            <div>
-
-                <h1>
-                    NETFRFRランキング
-                </h1>
-
-                <div class="subtitle">
-                    TEA EMPIRE EXCHANGE
-                    ・ RANKING BOARD
-                </div>
-
-            </div>
-
+        <div class="logo">
+            PEPEPE
         </div>
 
+        <div class="subtitle">
+            OFFICIAL ECONOMY LEADERBOARD
+        </div>
 
-        <p
-            class="status"
-            id="status"
-        >
-            🛜 ランキングデータ接続中...
-        </p>
+        <div class="status">
+            <span class="status-dot"></span>
+            SYSTEM ONLINE
+        </div>
+
+    </header>
 
 
-        <!-- 検索 -->
+    <!-- =========================
+         STATS
+    ========================== -->
 
-        <div class="search-box">
+    <section class="stats">
 
-            <span class="search-icon">
-                🔍
-            </span>
+        <div class="stat-card">
 
-            <input
-                type="text"
-                id="search"
-                placeholder="ユーザー名・トリップで検索"
+            <div class="stat-label">
+                REGISTERED PLAYERS
+            </div>
+
+            <div
+                class="stat-value"
+                id="playerCount"
             >
+                -
+            </div>
 
         </div>
 
 
-        <!-- タブ -->
+        <div class="stat-card">
+
+            <div class="stat-label">
+                CURRENT RANKING
+            </div>
+
+            <div
+                class="stat-value"
+                id="rankingType"
+            >
+                TOTAL ASSETS
+            </div>
+
+        </div>
+
+
+        <div class="stat-card">
+
+            <div class="stat-label">
+                LAST UPDATED
+            </div>
+
+            <div
+                class="stat-value"
+                id="updated"
+            >
+                -
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- =========================
+         CONTROLS
+    ========================== -->
+
+    <section class="controls">
 
         <div class="tabs">
 
             <button
-                class="active"
+                class="tab active"
                 data-type="totalAssets"
             >
                 🔱 総資産
             </button>
 
             <button
+                class="tab"
                 data-type="money"
             >
                 💰 所持金
             </button>
 
             <button
+                class="tab"
                 data-type="bank"
             >
                 🏦 銀行
             </button>
 
             <button
+                class="tab"
                 data-type="stockAssets"
             >
-                📈 株式資産
+                📈 株式
             </button>
 
         </div>
 
-    </header>
+
+        <div class="search-box">
+
+            <input
+                type="text"
+                id="search"
+                placeholder="プレイヤー名を検索..."
+            >
+
+        </div>
+
+    </section>
 
 
-    <!-- =================================
-         ランキング
-    ================================= -->
+    <!-- =========================
+         TOP 3
+    ========================== -->
 
-    <main id="ranking">
-
-        <p>
-            ランキングデータを読み込んでいます...
-        </p>
-
-    </main>
+    <section
+        class="podium"
+        id="podium"
+    >
+    </section>
 
 
-    <div class="footer">
+    <!-- =========================
+         RANKING
+    ========================== -->
 
-        DATA SOURCE :
-        ranking.json
-        ・
-        AUTO UPDATED
+    <section
+        class="ranking"
+        id="ranking"
+    >
 
-    </div>
+        <div class="loading">
+            RANKING DATA LOADING...
+        </div>
 
+    </section>
+
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <footer>
+
+        PEPEPE OFFICIAL RANKING<br>
+
+        DATA AUTOMATICALLY SYNCHRONIZED
+
+    </footer>
 
 </div>
 
 
 <script>
 
+    let users = []
 
-    // =================================
-    // データ
-    // =================================
-
-    let users = [];
-
-    let currentType =
-        "totalAssets";
+    let currentType = "totalAssets"
 
 
-    // =================================
-    // ranking.json読み込み
-    // =================================
+    // =========================
+    // 金額フォーマット
+    // =========================
+
+    function formatMoney(value) {
+
+        return Number(
+            value || 0
+        ).toLocaleString("ja-JP")
+
+    }
+
+
+    // =========================
+    // ランキング名
+    // =========================
+
+    function getRankingName(type) {
+
+        const names = {
+
+            totalAssets:
+                "TOTAL ASSETS",
+
+            money:
+                "CASH",
+
+            bank:
+                "BANK",
+
+            stockAssets:
+                "STOCK ASSETS"
+
+        }
+
+        return names[type] || type
+
+    }
+
+
+    // =========================
+    // メダル
+    // =========================
+
+    function getMedal(rank) {
+
+        if (rank === 1) {
+            return "🥇"
+        }
+
+        if (rank === 2) {
+            return "🥈"
+        }
+
+        if (rank === 3) {
+            return "🥉"
+        }
+
+        return "#" + rank
+
+    }
+
+
+    // =========================
+    // ランキング描画
+    // =========================
+
+    function renderRanking() {
+
+        const ranking =
+            document.getElementById(
+                "ranking"
+            )
+
+        const podium =
+            document.getElementById(
+                "podium"
+            )
+
+        const search =
+            document.getElementById(
+                "search"
+            ).value
+            .trim()
+            .toLowerCase()
+
+
+        // =========================
+        // ソート
+        // =========================
+
+        let sorted = [...users]
+
+        sorted.sort(
+            (a, b) =>
+
+                Number(
+                    b[currentType] || 0
+                )
+
+                -
+
+                Number(
+                    a[currentType] || 0
+                )
+        )
+
+
+        // =========================
+        // 検索
+        // =========================
+
+        if (search) {
+
+            sorted =
+                sorted.filter(
+                    user => {
+
+                        const name =
+                            String(
+                                user.name || ""
+                            ).toLowerCase()
+
+                        const trip =
+                            String(
+                                user.trip || ""
+                            ).toLowerCase()
+
+                        return (
+                            name.includes(search)
+                            ||
+                            trip.includes(search)
+                        )
+
+                    }
+                )
+
+        }
+
+
+        // =========================
+        // 現在ランキング名
+        // =========================
+
+        document.getElementById(
+            "rankingType"
+        ).textContent =
+            getRankingName(
+                currentType
+            )
+
+
+        // =========================
+        // 空
+        // =========================
+
+        if (
+            sorted.length === 0
+        ) {
+
+            podium.innerHTML = ""
+
+            ranking.innerHTML =
+                `
+                <div class="empty">
+                    該当するプレイヤーがいません
+                </div>
+                `
+
+            return
+
+        }
+
+
+        // =========================
+        // TOP 3
+        // =========================
+
+        const top3 =
+            sorted.slice(
+                0,
+                3
+            )
+
+        const topOrder = []
+
+        if (top3[1]) {
+            topOrder.push({
+                user: top3[1],
+                rank: 2
+            })
+        }
+
+        if (top3[0]) {
+            topOrder.push({
+                user: top3[0],
+                rank: 1
+            })
+        }
+
+        if (top3[2]) {
+            topOrder.push({
+                user: top3[2],
+                rank: 3
+            })
+        }
+
+
+        podium.innerHTML =
+            topOrder.map(
+                item => {
+
+                    const user =
+                        item.user
+
+                    const rank =
+                        item.rank
+
+                    return `
+                    <div
+                        class="
+                            top-card
+                            rank-${rank}
+                        "
+                    >
+
+                        <div class="medal">
+                            ${getMedal(rank)}
+                        </div>
+
+                        <div class="rank-label">
+                            ${rank} PLACE
+                        </div>
+
+                        <div class="top-name">
+                            ${user.name || "Unknown"}
+                        </div>
+
+                        <div class="top-trip">
+                            ${user.trip || ""}
+                        </div>
+
+                        <div class="top-money-label">
+                            ${getRankingName(currentType)}
+                        </div>
+
+                        <div class="top-money">
+                            ¥${formatMoney(
+                                user[currentType]
+                            )}
+                        </div>
+
+                    </div>
+                    `
+
+                }
+            ).join("")
+
+
+        // =========================
+        // 4位以下
+        // =========================
+
+        const others =
+            sorted.slice(3)
+
+
+        ranking.innerHTML =
+            others.map(
+                (
+                    user,
+                    index
+                ) => {
+
+                    const rank =
+                        index + 4
+
+                    return `
+                    <div class="player-card">
+
+                        <div class="rank-number">
+                            #${rank}
+                        </div>
+
+
+                        <div>
+
+                            <div class="player-name">
+                                ${user.name || "Unknown"}
+                            </div>
+
+                            <div class="player-trip">
+                                ${user.trip || ""}
+                            </div>
+
+                        </div>
+
+
+                        <div class="player-money">
+
+                            ¥${formatMoney(
+                                user[currentType]
+                            )}
+
+                        </div>
+
+                    </div>
+                    `
+
+                }
+            ).join("")
+
+
+        // =========================
+        // TOP3しかいない場合
+        // =========================
+
+        if (
+            others.length === 0
+        ) {
+
+            ranking.innerHTML =
+                `
+                <div class="empty">
+                    TOP ${top3.length}
+                </div>
+                `
+
+        }
+
+    }
+
+
+    // =========================
+    // データ読み込み
+    // =========================
 
     async function loadRanking() {
 
@@ -902,330 +1187,177 @@
 
             const response =
                 await fetch(
-                    "ranking.json?" +
-                    Date.now()
-                );
+                    "./ranking.json?t="
+                    + Date.now()
+                )
 
-
-            if (!response.ok) {
+            if (
+                !response.ok
+            ) {
 
                 throw new Error(
-                    "ranking.json取得失敗"
-                );
+                    "ranking.json の読み込みに失敗しました"
+                )
 
             }
 
 
             const data =
-                await response.json();
+                await response.json()
 
 
-            users =
+            // =========================
+            // users取得
+            // =========================
+
+            if (
                 Array.isArray(
                     data.users
                 )
-                ? data.users
-                : [];
+            ) {
 
+                users =
+                    data.users
 
-            document
-                .getElementById(
-                    "status"
+            }
+
+            else if (
+                typeof data.users
+                === "object"
+                &&
+                data.users
+            ) {
+
+                users =
+                    Object.values(
+                        data.users
+                    )
+
+            }
+
+            else if (
+                Array.isArray(
+                    data
                 )
-                .textContent =
-                "🟢 ランキングデータ接続中";
+            ) {
+
+                users =
+                    data
+
+            }
+
+            else {
+
+                users = []
+
+            }
 
 
-            renderRanking();
+            // =========================
+            // プレイヤー数
+            // =========================
+
+            document.getElementById(
+                "playerCount"
+            ).textContent =
+                users.length.toLocaleString(
+                    "ja-JP"
+                )
 
 
-        } catch (error) {
+            // =========================
+            // 更新時間
+            // =========================
+
+            let updated =
+                data.updated
+                ||
+                data.lastUpdated
+                ||
+                null
+
+
+            if (
+                updated
+            ) {
+
+                try {
+
+                    const date =
+                        new Date(
+                            updated
+                        )
+
+                    document.getElementById(
+                        "updated"
+                    ).textContent =
+                        date.toLocaleString(
+                            "ja-JP"
+                        )
+
+                }
+
+                catch {
+
+                    document.getElementById(
+                        "updated"
+                    ).textContent =
+                        updated
+
+                }
+
+            }
+
+            else {
+
+                document.getElementById(
+                    "updated"
+                ).textContent =
+                    "SYNCED"
+
+            }
+
+
+            renderRanking()
+
+        }
+
+        catch (error) {
 
             console.error(
                 error
-            );
+            )
 
+            document.getElementById(
+                "ranking"
+            ).innerHTML =
+                `
+                <div class="empty">
 
-            document
-                .getElementById(
-                    "status"
-                )
-                .textContent =
-                "🔴 ランキングデータ取得失敗";
+                    <h3>
+                        DATA CONNECTION ERROR
+                    </h3>
 
+                    <br>
 
-            document
-                .getElementById(
-                    "ranking"
-                )
-                .innerHTML = `
+                    ranking.json を
+                    読み込めませんでした
 
-                    <p>
-                        ランキングデータを
-                        取得できませんでした。
-                    </p>
-
-            `;
+                </div>
+                `
 
         }
 
     }
 
 
-    // =================================
-    // ランキング表示
-    // =================================
-
-    function renderRanking() {
-
-        const search =
-            document
-                .getElementById(
-                    "search"
-                )
-                .value
-                .trim()
-                .toLowerCase();
-
-
-        const filtered =
-            users.filter(
-                user => {
-
-                    const name =
-                        String(
-                            user.name || ""
-                        )
-                        .toLowerCase();
-
-
-                    const trip =
-                        String(
-                            user.trip || ""
-                        )
-                        .toLowerCase();
-
-
-                    return (
-                        name.includes(search)
-                        ||
-                        trip.includes(search)
-                    );
-
-                }
-            );
-
-
-        filtered.sort(
-            (
-                a,
-                b
-            ) => {
-
-                return (
-                    Number(
-                        b[currentType] || 0
-                    )
-                    -
-                    Number(
-                        a[currentType] || 0
-                    )
-                );
-
-            }
-        );
-
-
-        const ranking =
-            document
-                .getElementById(
-                    "ranking"
-                );
-
-
-        ranking.innerHTML =
-            "";
-
-
-        if (
-            filtered.length === 0
-        ) {
-
-            ranking.innerHTML = `
-
-                <p>
-                    該当するユーザーが
-                    いません。
-                </p>
-
-            `;
-
-            return;
-
-        }
-
-
-        filtered.forEach(
-            (
-                user,
-                index
-            ) => {
-
-                const rank =
-                    index + 1;
-
-
-                const item =
-                    document.createElement(
-                        "div"
-                    );
-
-
-                item.className =
-                    "ranking-item";
-
-
-                if (
-                    rank === 1
-                ) {
-
-                    item.classList.add(
-                        "rank-1"
-                    );
-
-                }
-
-                else if (
-                    rank === 2
-                ) {
-
-                    item.classList.add(
-                        "rank-2"
-                    );
-
-                }
-
-                else if (
-                    rank === 3
-                ) {
-
-                    item.classList.add(
-                        "rank-3"
-                    );
-
-                }
-
-
-                const name =
-                    user.name ||
-                    "名無しさん";
-
-
-                const trip =
-                    user.trip ||
-                    "";
-
-
-                const value =
-                    Number(
-                        user[currentType] || 0
-                    );
-
-
-                item.innerHTML = `
-
-                    <div class="rank">
-                        ${getRankIcon(rank)}
-                        ${rank}位
-                    </div>
-
-                    <div class="user">
-
-                        <div class="name">
-
-                            ${escapeHtml(
-                                name
-                            )}
-
-                            ${
-                                trip
-                                ? "：" +
-                                  escapeHtml(
-                                      trip
-                                  )
-                                : ""
-                            }
-
-                        </div>
-
-                        <div class="value">
-
-                            ${value.toLocaleString()}
-
-                            円
-
-                        </div>
-
-                    </div>
-
-                `;
-
-
-                ranking.appendChild(
-                    item
-                );
-
-            }
-        );
-
-    }
-
-
-    // =================================
-    // 順位アイコン
-    // =================================
-
-    function getRankIcon(
-        rank
-    ) {
-
-        if (rank === 1) {
-            return "🥇";
-        }
-
-        if (rank === 2) {
-            return "🥈";
-        }
-
-        if (rank === 3) {
-            return "🥉";
-        }
-
-        return "";
-    }
-
-
-    // =================================
-    // 検索
-    // =================================
-
-    document
-        .getElementById(
-            "search"
-        )
-        .addEventListener(
-            "input",
-            renderRanking
-        );
-
-
-    // =================================
-    // タブ
-    // =================================
+    // =========================
+    // TAB
+    // =========================
 
     document
         .querySelectorAll(
-            ".tabs button"
+            ".tab"
         )
         .forEach(
             button => {
@@ -1236,70 +1368,70 @@
 
                         document
                             .querySelectorAll(
-                                ".tabs button"
+                                ".tab"
                             )
                             .forEach(
-                                btn => {
+                                tab => {
 
-                                    btn.classList.remove(
+                                    tab.classList.remove(
                                         "active"
-                                    );
+                                    )
 
                                 }
-                            );
-
+                            )
 
                         button.classList.add(
                             "active"
-                        );
-
+                        )
 
                         currentType =
-                            button.dataset.type;
+                            button.dataset.type
 
-
-                        renderRanking();
+                        renderRanking()
 
                     }
-                );
+                )
 
             }
-        );
+        )
 
 
-    // =================================
-    // HTMLエスケープ
-    // =================================
+    // =========================
+    // SEARCH
+    // =========================
 
-    function escapeHtml(
-        text
-    ) {
+    document
+        .getElementById(
+            "search"
+        )
+        .addEventListener(
+            "input",
+            () => {
 
-        const div =
-            document.createElement(
-                "div"
-            );
+                renderRanking()
 
-
-        div.textContent =
-            text;
-
-
-        return div.innerHTML;
-
-    }
+            }
+        )
 
 
-    // =================================
-    // 初回読み込み
-    // =================================
+    // =========================
+    // START
+    // =========================
 
-    loadRanking();
+    loadRanking()
 
+
+    // =========================
+    // 自動更新
+    // 30秒ごと
+    // =========================
+
+    setInterval(
+        loadRanking,
+        30000
+    )
 
 </script>
 
-
 </body>
-
 </html>
