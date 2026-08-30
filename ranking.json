@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 11:23:32",
+  "updated": "2026-08-30 11:24:06",
   "users": [
     {
       "name": "◆L6i5qOOvGM",
@@ -212,7 +212,7 @@
     {
       "name": "Netflix",
       "trip": "◆RRRRRRRRQQ",
-      "money": 44590,
+      "money": 4590,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
@@ -223,7 +223,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 44590
+      "totalAssets": 4590
     },
     {
       "name": "◆meqkRCpZsU",
@@ -965,22 +965,6 @@
         "totalAssets": 50000
       },
       {
-        "name": "Netflix",
-        "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 9,
-        "mine": 3,
-        "hunt": 2,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 44590
-      },
-      {
         "name": "◆BHgJXI7OC7wR",
         "trip": "◆BHgJXI7OC7wR",
         "money": 40000,
@@ -1139,6 +1123,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5000
+      },
+      {
+        "name": "Netflix",
+        "trip": "◆RRRRRRRRQQ",
+        "money": 4590,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 9,
+        "mine": 3,
+        "hunt": 2,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 4590
       },
       {
         "name": "◆TiP5As2jNc",
@@ -1977,7 +1977,7 @@
       {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
+        "money": 4590,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -1988,7 +1988,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 44590
+        "totalAssets": 4590
       },
       {
         "name": "◆meqkRCpZsU",
@@ -2763,7 +2763,7 @@
       {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
+        "money": 4590,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -2774,7 +2774,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 44590
+        "totalAssets": 4590
       },
       {
         "name": "◆meqkRCpZsU",
@@ -3595,22 +3595,6 @@
         "totalAssets": 50000
       },
       {
-        "name": "Netflix",
-        "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 9,
-        "mine": 3,
-        "hunt": 2,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 44590
-      },
-      {
         "name": "◆BHgJXI7OC7wR",
         "trip": "◆BHgJXI7OC7wR",
         "money": 40000,
@@ -3737,6 +3721,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5000
+      },
+      {
+        "name": "Netflix",
+        "trip": "◆RRRRRRRRQQ",
+        "money": 4590,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 9,
+        "mine": 3,
+        "hunt": 2,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 4590
       },
       {
         "name": "◆TiP5As2jNc",
@@ -4607,7 +4607,7 @@
       {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
+        "money": 4590,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -4618,7 +4618,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 44590
+        "totalAssets": 4590
       },
       {
         "name": "◆AkPPJcARco",
@@ -5249,7 +5249,7 @@
       {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
+        "money": 4590,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -5260,7 +5260,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 44590
+        "totalAssets": 4590
       },
       {
         "name": "はき",
@@ -6131,7 +6131,7 @@
       {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
+        "money": 4590,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -6142,7 +6142,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 44590
+        "totalAssets": 4590
       },
       {
         "name": "◆...z...z..",
@@ -6997,7 +6997,7 @@
       {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
+        "money": 4590,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -7008,7 +7008,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 44590
+        "totalAssets": 4590
       },
       {
         "name": "◆ZRTU9MXmjQ",
@@ -7863,7 +7863,7 @@
       {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
+        "money": 4590,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -7874,7 +7874,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 44590
+        "totalAssets": 4590
       },
       {
         "name": "◆meqkRCpZsU",
@@ -8585,7 +8585,7 @@
       {
         "name": "Netflix",
         "trip": "◆RRRRRRRRQQ",
-        "money": 44590,
+        "money": 4590,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -8596,7 +8596,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 44590
+        "totalAssets": 4590
       },
       {
         "name": "◆Peach7G..k6f",
