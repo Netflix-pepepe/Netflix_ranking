@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 15:43:14",
+  "updated": "2026-08-30 15:43:49",
   "users": [
     {
       "name": "ねこねこGyi",
@@ -1564,11 +1564,11 @@
     {
       "name": "◆iljnc.vXMA",
       "trip": "◆iljnc.vXMA",
-      "money": 1600,
+      "money": 2800,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
-      "fish": 1,
+      "fish": 3,
       "mine": 1,
       "hunt": 0,
       "title": "",
@@ -1599,7 +1599,7 @@
       "baccaratWins": 0,
       "kenoGames": 0,
       "kenoWins": 0,
-      "totalAssets": 1600
+      "totalAssets": 2800
     },
     {
       "name": "◆.RngS8LZGk",
@@ -2445,6 +2445,46 @@
         "totalAssets": 2820
       },
       {
+        "name": "◆iljnc.vXMA",
+        "trip": "◆iljnc.vXMA",
+        "money": 2800,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 3,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "stockCount": 0,
+        "titleCount": 0,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "totalAssets": 2800
+      },
+      {
         "name": "◆.PfiH.....",
         "trip": "◆.PfiH.....",
         "money": 2331,
@@ -2603,46 +2643,6 @@
         "kenoGames": 0,
         "kenoWins": 0,
         "totalAssets": 1863
-      },
-      {
-        "name": "◆iljnc.vXMA",
-        "trip": "◆iljnc.vXMA",
-        "money": 1600,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "stockCount": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "totalAssets": 1600
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -4929,11 +4929,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -4964,7 +4964,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -6611,11 +6611,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -6646,7 +6646,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -7611,6 +7611,46 @@
         "totalAssets": 2820
       },
       {
+        "name": "◆iljnc.vXMA",
+        "trip": "◆iljnc.vXMA",
+        "money": 2800,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 3,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "stockCount": 0,
+        "titleCount": 0,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "totalAssets": 2800
+      },
+      {
         "name": "◆.PfiH.....",
         "trip": "◆.PfiH.....",
         "money": 2331,
@@ -7769,46 +7809,6 @@
         "kenoGames": 0,
         "kenoWins": 0,
         "totalAssets": 1863
-      },
-      {
-        "name": "◆iljnc.vXMA",
-        "trip": "◆iljnc.vXMA",
-        "money": 1600,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "stockCount": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "totalAssets": 1600
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -9975,11 +9975,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -10010,7 +10010,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -10575,6 +10575,46 @@
         "totalAssets": 750
       },
       {
+        "name": "◆iljnc.vXMA",
+        "trip": "◆iljnc.vXMA",
+        "money": 2800,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 3,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "stockCount": 0,
+        "titleCount": 0,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "totalAssets": 2800
+      },
+      {
         "name": "◆Deus/6vRqo",
         "trip": "◆Deus/6vRqo",
         "money": 830,
@@ -11093,46 +11133,6 @@
         "kenoGames": 0,
         "kenoWins": 0,
         "totalAssets": 1863
-      },
-      {
-        "name": "◆iljnc.vXMA",
-        "trip": "◆iljnc.vXMA",
-        "money": 1600,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "stockCount": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "totalAssets": 1600
       },
       {
         "name": "◆xGgA7c3w5A",
@@ -12619,11 +12619,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -12654,7 +12654,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆KM78/h7A5s",
@@ -15021,11 +15021,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -15056,7 +15056,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -16703,11 +16703,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -16738,7 +16738,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -18385,11 +18385,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -18420,7 +18420,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -20067,11 +20067,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -20102,7 +20102,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -21749,11 +21749,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -21784,7 +21784,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -23431,11 +23431,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -23466,7 +23466,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -25113,11 +25113,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -25148,7 +25148,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -26795,11 +26795,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -26830,7 +26830,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -28477,11 +28477,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -28512,7 +28512,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -30159,11 +30159,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -30194,7 +30194,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -31841,11 +31841,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -31876,7 +31876,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -33523,11 +33523,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -33558,7 +33558,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -35205,11 +35205,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -35240,7 +35240,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -36887,11 +36887,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -36922,7 +36922,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -38569,11 +38569,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -38604,7 +38604,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -40251,11 +40251,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -40286,7 +40286,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -41933,11 +41933,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -41968,7 +41968,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆.RngS8LZGk",
@@ -42813,6 +42813,46 @@
         "totalAssets": 2054
       },
       {
+        "name": "◆iljnc.vXMA",
+        "trip": "◆iljnc.vXMA",
+        "money": 2800,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 3,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "stockCount": 0,
+        "titleCount": 0,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "totalAssets": 2800
+      },
+      {
         "name": "カスピアン",
         "trip": "◆JNeQdmAPvo",
         "money": 750,
@@ -43051,46 +43091,6 @@
         "kenoGames": 0,
         "kenoWins": 0,
         "totalAssets": 230
-      },
-      {
-        "name": "◆iljnc.vXMA",
-        "trip": "◆iljnc.vXMA",
-        "money": 1600,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "stockCount": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "totalAssets": 1600
       },
       {
         "name": "◆YJrpsBVNhY",
@@ -45337,11 +45337,11 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 1600,
+        "money": 2800,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 3,
         "mine": 1,
         "hunt": 0,
         "title": "",
@@ -45372,7 +45372,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 1600
+        "totalAssets": 2800
       },
       {
         "name": "◆xGgA7c3w5A",
