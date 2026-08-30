@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 20:30:30",
+  "updated": "2026-08-30 20:31:06",
   "users": [
     {
       "name": "ねこねこGyi",
@@ -485,7 +485,7 @@
       "mine": 3,
       "hunt": 2,
       "title": "",
-      "stockAssets": 905,
+      "stockAssets": 924,
       "level": 0,
       "jobLevel": 1,
       "stockCount": 1,
@@ -515,7 +515,7 @@
       "baccaratWins": 0,
       "kenoGames": 0,
       "kenoWins": 0,
-      "totalAssets": 4694
+      "totalAssets": 4713
     },
     {
       "name": "◆6q/aPFgUQE",
@@ -2408,6 +2408,906 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1788089431,
+      "updated": "2026-08-30 20:30:31",
+      "rows": [
+        {
+          "uid": "Netflix|◆RRRRRRRRQQ",
+          "name": "Netflix",
+          "trip": "◆RRRRRRRRQQ",
+          "label": "Netflix：◆RRRRRRRRQQ",
+          "stockAssets": 924
+        },
+        {
+          "uid": "ねこねこGyi|◆IIvMW7Yugg",
+          "name": "ねこねこGyi",
+          "trip": "◆IIvMW7Yugg",
+          "label": "ねこねこGyi：◆IIvMW7Yugg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ウザいんボルト|◆UuuuuUUUb6",
+          "name": "ウザいんボルト",
+          "trip": "◆UuuuuUUUb6",
+          "label": "ウザいんボルト：◆UuuuuUUUb6",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sak5.3ljP.|◆Sak5.3ljP.",
+          "name": "◆Sak5.3ljP.",
+          "trip": "◆Sak5.3ljP.",
+          "label": "◆Sak5.3ljP.：◆Sak5.3ljP.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆JXdMWRWPis|◆JXdMWRWPis",
+          "name": "◆JXdMWRWPis",
+          "trip": "◆JXdMWRWPis",
+          "label": "◆JXdMWRWPis：◆JXdMWRWPis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Peach7G..k6f|◆Peach7G..k6f",
+          "name": "◆Peach7G..k6f",
+          "trip": "◆Peach7G..k6f",
+          "label": "◆Peach7G..k6f：◆Peach7G..k6f",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆APEX//....|◆APEX//....",
+          "name": "◆APEX//....",
+          "trip": "◆APEX//....",
+          "label": "◆APEX//....：◆APEX//....",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆meqkRCpZsU|◆meqkRCpZsU",
+          "name": "◆meqkRCpZsU",
+          "trip": "◆meqkRCpZsU",
+          "label": "◆meqkRCpZsU：◆meqkRCpZsU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.mochida/.|◆.mochida/.",
+          "name": "◆.mochida/.",
+          "trip": "◆.mochida/.",
+          "label": "◆.mochida/.：◆.mochida/.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆5yxRP6vopI|◆5yxRP6vopI",
+          "name": "◆5yxRP6vopI",
+          "trip": "◆5yxRP6vopI",
+          "label": "◆5yxRP6vopI：◆5yxRP6vopI",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆xGgA7c3w5A|◆xGgA7c3w5A",
+          "name": "◆xGgA7c3w5A",
+          "trip": "◆xGgA7c3w5A",
+          "label": "◆xGgA7c3w5A：◆xGgA7c3w5A",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ムキロゼ|pFS6NhgEGS",
+          "name": "ムキロゼ",
+          "trip": "pFS6NhgEGS",
+          "label": "ムキロゼ：pFS6NhgEGS",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆6q/aPFgUQE|◆6q/aPFgUQE",
+          "name": "◆6q/aPFgUQE",
+          "trip": "◆6q/aPFgUQE",
+          "label": "◆6q/aPFgUQE：◆6q/aPFgUQE",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Deus/6vRqo|◆Deus/6vRqo",
+          "name": "◆Deus/6vRqo",
+          "trip": "◆Deus/6vRqo",
+          "label": "◆Deus/6vRqo：◆Deus/6vRqo",
+          "stockAssets": 0
+        },
+        {
+          "uid": "カスピアン|◆JNeQdmAPvo",
+          "name": "カスピアン",
+          "trip": "◆JNeQdmAPvo",
+          "label": "カスピアン：◆JNeQdmAPvo",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆7uGGsj2KF.|◆7uGGsj2KF.",
+          "name": "◆7uGGsj2KF.",
+          "trip": "◆7uGGsj2KF.",
+          "label": "◆7uGGsj2KF.：◆7uGGsj2KF.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AkPPJcARco|◆AkPPJcARco",
+          "name": "◆AkPPJcARco",
+          "trip": "◆AkPPJcARco",
+          "label": "◆AkPPJcARco：◆AkPPJcARco",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆6.........|◆6.........",
+          "name": "◆6.........",
+          "trip": "◆6.........",
+          "label": "◆6.........：◆6.........",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ケツ圧|◆sTJExBD.qaQa",
+          "name": "ケツ圧",
+          "trip": "◆sTJExBD.qaQa",
+          "label": "ケツ圧：◆sTJExBD.qaQa",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆oZY3evqigQ|◆oZY3evqigQ",
+          "name": "◆oZY3evqigQ",
+          "trip": "◆oZY3evqigQ",
+          "label": "◆oZY3evqigQ：◆oZY3evqigQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆BHgJXI7OC7wR|◆BHgJXI7OC7wR",
+          "name": "◆BHgJXI7OC7wR",
+          "trip": "◆BHgJXI7OC7wR",
+          "label": "◆BHgJXI7OC7wR：◆BHgJXI7OC7wR",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆TiP5As2jNc|◆TiP5As2jNc",
+          "name": "◆TiP5As2jNc",
+          "trip": "◆TiP5As2jNc",
+          "label": "◆TiP5As2jNc：◆TiP5As2jNc",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆People/Pbk|◆People/Pbk",
+          "name": "◆People/Pbk",
+          "trip": "◆People/Pbk",
+          "label": "◆People/Pbk：◆People/Pbk",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆YJrpsBVNhY|◆YJrpsBVNhY",
+          "name": "◆YJrpsBVNhY",
+          "trip": "◆YJrpsBVNhY",
+          "label": "◆YJrpsBVNhY：◆YJrpsBVNhY",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.PfiH.....|◆.PfiH.....",
+          "name": "◆.PfiH.....",
+          "trip": "◆.PfiH.....",
+          "label": "◆.PfiH.....：◆.PfiH.....",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆ZRTU9MXmjQ|◆ZRTU9MXmjQ",
+          "name": "◆ZRTU9MXmjQ",
+          "trip": "◆ZRTU9MXmjQ",
+          "label": "◆ZRTU9MXmjQ：◆ZRTU9MXmjQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆3jPjHIQKEN3D|◆3jPjHIQKEN3D",
+          "name": "◆3jPjHIQKEN3D",
+          "trip": "◆3jPjHIQKEN3D",
+          "label": "◆3jPjHIQKEN3D：◆3jPjHIQKEN3D",
+          "stockAssets": 0
+        },
+        {
+          "uid": "花葬|◆flower.nXrpA",
+          "name": "花葬",
+          "trip": "◆flower.nXrpA",
+          "label": "花葬：◆flower.nXrpA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆L6i5qOOvGM|◆L6i5qOOvGM",
+          "name": "◆L6i5qOOvGM",
+          "trip": "◆L6i5qOOvGM",
+          "label": "◆L6i5qOOvGM：◆L6i5qOOvGM",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆cbygD1MO9s|◆cbygD1MO9s",
+          "name": "◆cbygD1MO9s",
+          "trip": "◆cbygD1MO9s",
+          "label": "◆cbygD1MO9s：◆cbygD1MO9s",
+          "stockAssets": 0
+        },
+        {
+          "uid": "まよねず|◆UXzFKq.d5o",
+          "name": "まよねず",
+          "trip": "◆UXzFKq.d5o",
+          "label": "まよねず：◆UXzFKq.d5o",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆...z...z..|◆...z...z..",
+          "name": "◆...z...z..",
+          "trip": "◆...z...z..",
+          "label": "◆...z...z..：◆...z...z..",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆//GoodJob6|◆//GoodJob6",
+          "name": "◆//GoodJob6",
+          "trip": "◆//GoodJob6",
+          "label": "◆//GoodJob6：◆//GoodJob6",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆WBRXcNtpf.|◆WBRXcNtpf.",
+          "name": "◆WBRXcNtpf.",
+          "trip": "◆WBRXcNtpf.",
+          "label": "◆WBRXcNtpf.：◆WBRXcNtpf.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KM78/h7A5s|◆KM78/h7A5s",
+          "name": "◆KM78/h7A5s",
+          "trip": "◆KM78/h7A5s",
+          "label": "◆KM78/h7A5s：◆KM78/h7A5s",
+          "stockAssets": 0
+        },
+        {
+          "uid": "はき|◆//y//1SFyA",
+          "name": "はき",
+          "trip": "◆//y//1SFyA",
+          "label": "はき：◆//y//1SFyA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆iljnc.vXMA|◆iljnc.vXMA",
+          "name": "◆iljnc.vXMA",
+          "trip": "◆iljnc.vXMA",
+          "label": "◆iljnc.vXMA：◆iljnc.vXMA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Haru//CGUg|◆Haru//CGUg",
+          "name": "◆Haru//CGUg",
+          "trip": "◆Haru//CGUg",
+          "label": "◆Haru//CGUg：◆Haru//CGUg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆fumeiyo.t3cg|◆fumeiyo.t3cg",
+          "name": "◆fumeiyo.t3cg",
+          "trip": "◆fumeiyo.t3cg",
+          "label": "◆fumeiyo.t3cg：◆fumeiyo.t3cg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.RngS8LZGk|◆.RngS8LZGk",
+          "name": "◆.RngS8LZGk",
+          "trip": "◆.RngS8LZGk",
+          "label": "◆.RngS8LZGk：◆.RngS8LZGk",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆merolyviyQ|◆merolyviyQ",
+          "name": "◆merolyviyQ",
+          "trip": "◆merolyviyQ",
+          "label": "◆merolyviyQ：◆merolyviyQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.wwwwwwww.|◆.wwwwwwww.",
+          "name": "◆.wwwwwwww.",
+          "trip": "◆.wwwwwwww.",
+          "label": "◆.wwwwwwww.：◆.wwwwwwww.",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1788089465,
+      "updated": "2026-08-30 20:31:05",
+      "rows": [
+        {
+          "uid": "Netflix|◆RRRRRRRRQQ",
+          "name": "Netflix",
+          "trip": "◆RRRRRRRRQQ",
+          "label": "Netflix：◆RRRRRRRRQQ",
+          "stockAssets": 924
+        },
+        {
+          "uid": "ねこねこGyi|◆IIvMW7Yugg",
+          "name": "ねこねこGyi",
+          "trip": "◆IIvMW7Yugg",
+          "label": "ねこねこGyi：◆IIvMW7Yugg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ウザいんボルト|◆UuuuuUUUb6",
+          "name": "ウザいんボルト",
+          "trip": "◆UuuuuUUUb6",
+          "label": "ウザいんボルト：◆UuuuuUUUb6",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sak5.3ljP.|◆Sak5.3ljP.",
+          "name": "◆Sak5.3ljP.",
+          "trip": "◆Sak5.3ljP.",
+          "label": "◆Sak5.3ljP.：◆Sak5.3ljP.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆JXdMWRWPis|◆JXdMWRWPis",
+          "name": "◆JXdMWRWPis",
+          "trip": "◆JXdMWRWPis",
+          "label": "◆JXdMWRWPis：◆JXdMWRWPis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Peach7G..k6f|◆Peach7G..k6f",
+          "name": "◆Peach7G..k6f",
+          "trip": "◆Peach7G..k6f",
+          "label": "◆Peach7G..k6f：◆Peach7G..k6f",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆APEX//....|◆APEX//....",
+          "name": "◆APEX//....",
+          "trip": "◆APEX//....",
+          "label": "◆APEX//....：◆APEX//....",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆meqkRCpZsU|◆meqkRCpZsU",
+          "name": "◆meqkRCpZsU",
+          "trip": "◆meqkRCpZsU",
+          "label": "◆meqkRCpZsU：◆meqkRCpZsU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.mochida/.|◆.mochida/.",
+          "name": "◆.mochida/.",
+          "trip": "◆.mochida/.",
+          "label": "◆.mochida/.：◆.mochida/.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆5yxRP6vopI|◆5yxRP6vopI",
+          "name": "◆5yxRP6vopI",
+          "trip": "◆5yxRP6vopI",
+          "label": "◆5yxRP6vopI：◆5yxRP6vopI",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆xGgA7c3w5A|◆xGgA7c3w5A",
+          "name": "◆xGgA7c3w5A",
+          "trip": "◆xGgA7c3w5A",
+          "label": "◆xGgA7c3w5A：◆xGgA7c3w5A",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ムキロゼ|pFS6NhgEGS",
+          "name": "ムキロゼ",
+          "trip": "pFS6NhgEGS",
+          "label": "ムキロゼ：pFS6NhgEGS",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆6q/aPFgUQE|◆6q/aPFgUQE",
+          "name": "◆6q/aPFgUQE",
+          "trip": "◆6q/aPFgUQE",
+          "label": "◆6q/aPFgUQE：◆6q/aPFgUQE",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Deus/6vRqo|◆Deus/6vRqo",
+          "name": "◆Deus/6vRqo",
+          "trip": "◆Deus/6vRqo",
+          "label": "◆Deus/6vRqo：◆Deus/6vRqo",
+          "stockAssets": 0
+        },
+        {
+          "uid": "カスピアン|◆JNeQdmAPvo",
+          "name": "カスピアン",
+          "trip": "◆JNeQdmAPvo",
+          "label": "カスピアン：◆JNeQdmAPvo",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆7uGGsj2KF.|◆7uGGsj2KF.",
+          "name": "◆7uGGsj2KF.",
+          "trip": "◆7uGGsj2KF.",
+          "label": "◆7uGGsj2KF.：◆7uGGsj2KF.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AkPPJcARco|◆AkPPJcARco",
+          "name": "◆AkPPJcARco",
+          "trip": "◆AkPPJcARco",
+          "label": "◆AkPPJcARco：◆AkPPJcARco",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆6.........|◆6.........",
+          "name": "◆6.........",
+          "trip": "◆6.........",
+          "label": "◆6.........：◆6.........",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ケツ圧|◆sTJExBD.qaQa",
+          "name": "ケツ圧",
+          "trip": "◆sTJExBD.qaQa",
+          "label": "ケツ圧：◆sTJExBD.qaQa",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆oZY3evqigQ|◆oZY3evqigQ",
+          "name": "◆oZY3evqigQ",
+          "trip": "◆oZY3evqigQ",
+          "label": "◆oZY3evqigQ：◆oZY3evqigQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆BHgJXI7OC7wR|◆BHgJXI7OC7wR",
+          "name": "◆BHgJXI7OC7wR",
+          "trip": "◆BHgJXI7OC7wR",
+          "label": "◆BHgJXI7OC7wR：◆BHgJXI7OC7wR",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆TiP5As2jNc|◆TiP5As2jNc",
+          "name": "◆TiP5As2jNc",
+          "trip": "◆TiP5As2jNc",
+          "label": "◆TiP5As2jNc：◆TiP5As2jNc",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆People/Pbk|◆People/Pbk",
+          "name": "◆People/Pbk",
+          "trip": "◆People/Pbk",
+          "label": "◆People/Pbk：◆People/Pbk",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆YJrpsBVNhY|◆YJrpsBVNhY",
+          "name": "◆YJrpsBVNhY",
+          "trip": "◆YJrpsBVNhY",
+          "label": "◆YJrpsBVNhY：◆YJrpsBVNhY",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.PfiH.....|◆.PfiH.....",
+          "name": "◆.PfiH.....",
+          "trip": "◆.PfiH.....",
+          "label": "◆.PfiH.....：◆.PfiH.....",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆ZRTU9MXmjQ|◆ZRTU9MXmjQ",
+          "name": "◆ZRTU9MXmjQ",
+          "trip": "◆ZRTU9MXmjQ",
+          "label": "◆ZRTU9MXmjQ：◆ZRTU9MXmjQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆3jPjHIQKEN3D|◆3jPjHIQKEN3D",
+          "name": "◆3jPjHIQKEN3D",
+          "trip": "◆3jPjHIQKEN3D",
+          "label": "◆3jPjHIQKEN3D：◆3jPjHIQKEN3D",
+          "stockAssets": 0
+        },
+        {
+          "uid": "花葬|◆flower.nXrpA",
+          "name": "花葬",
+          "trip": "◆flower.nXrpA",
+          "label": "花葬：◆flower.nXrpA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆L6i5qOOvGM|◆L6i5qOOvGM",
+          "name": "◆L6i5qOOvGM",
+          "trip": "◆L6i5qOOvGM",
+          "label": "◆L6i5qOOvGM：◆L6i5qOOvGM",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆cbygD1MO9s|◆cbygD1MO9s",
+          "name": "◆cbygD1MO9s",
+          "trip": "◆cbygD1MO9s",
+          "label": "◆cbygD1MO9s：◆cbygD1MO9s",
+          "stockAssets": 0
+        },
+        {
+          "uid": "まよねず|◆UXzFKq.d5o",
+          "name": "まよねず",
+          "trip": "◆UXzFKq.d5o",
+          "label": "まよねず：◆UXzFKq.d5o",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆...z...z..|◆...z...z..",
+          "name": "◆...z...z..",
+          "trip": "◆...z...z..",
+          "label": "◆...z...z..：◆...z...z..",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆//GoodJob6|◆//GoodJob6",
+          "name": "◆//GoodJob6",
+          "trip": "◆//GoodJob6",
+          "label": "◆//GoodJob6：◆//GoodJob6",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆WBRXcNtpf.|◆WBRXcNtpf.",
+          "name": "◆WBRXcNtpf.",
+          "trip": "◆WBRXcNtpf.",
+          "label": "◆WBRXcNtpf.：◆WBRXcNtpf.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KM78/h7A5s|◆KM78/h7A5s",
+          "name": "◆KM78/h7A5s",
+          "trip": "◆KM78/h7A5s",
+          "label": "◆KM78/h7A5s：◆KM78/h7A5s",
+          "stockAssets": 0
+        },
+        {
+          "uid": "はき|◆//y//1SFyA",
+          "name": "はき",
+          "trip": "◆//y//1SFyA",
+          "label": "はき：◆//y//1SFyA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆iljnc.vXMA|◆iljnc.vXMA",
+          "name": "◆iljnc.vXMA",
+          "trip": "◆iljnc.vXMA",
+          "label": "◆iljnc.vXMA：◆iljnc.vXMA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Haru//CGUg|◆Haru//CGUg",
+          "name": "◆Haru//CGUg",
+          "trip": "◆Haru//CGUg",
+          "label": "◆Haru//CGUg：◆Haru//CGUg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆fumeiyo.t3cg|◆fumeiyo.t3cg",
+          "name": "◆fumeiyo.t3cg",
+          "trip": "◆fumeiyo.t3cg",
+          "label": "◆fumeiyo.t3cg：◆fumeiyo.t3cg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.RngS8LZGk|◆.RngS8LZGk",
+          "name": "◆.RngS8LZGk",
+          "trip": "◆.RngS8LZGk",
+          "label": "◆.RngS8LZGk：◆.RngS8LZGk",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆merolyviyQ|◆merolyviyQ",
+          "name": "◆merolyviyQ",
+          "trip": "◆merolyviyQ",
+          "label": "◆merolyviyQ：◆merolyviyQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.wwwwwwww.|◆.wwwwwwww.",
+          "name": "◆.wwwwwwww.",
+          "trip": "◆.wwwwwwww.",
+          "label": "◆.wwwwwwww.：◆.wwwwwwww.",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1788089466,
+      "updated": "2026-08-30 20:31:06",
+      "rows": [
+        {
+          "uid": "Netflix|◆RRRRRRRRQQ",
+          "name": "Netflix",
+          "trip": "◆RRRRRRRRQQ",
+          "label": "Netflix：◆RRRRRRRRQQ",
+          "stockAssets": 924
+        },
+        {
+          "uid": "ねこねこGyi|◆IIvMW7Yugg",
+          "name": "ねこねこGyi",
+          "trip": "◆IIvMW7Yugg",
+          "label": "ねこねこGyi：◆IIvMW7Yugg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ウザいんボルト|◆UuuuuUUUb6",
+          "name": "ウザいんボルト",
+          "trip": "◆UuuuuUUUb6",
+          "label": "ウザいんボルト：◆UuuuuUUUb6",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sak5.3ljP.|◆Sak5.3ljP.",
+          "name": "◆Sak5.3ljP.",
+          "trip": "◆Sak5.3ljP.",
+          "label": "◆Sak5.3ljP.：◆Sak5.3ljP.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆JXdMWRWPis|◆JXdMWRWPis",
+          "name": "◆JXdMWRWPis",
+          "trip": "◆JXdMWRWPis",
+          "label": "◆JXdMWRWPis：◆JXdMWRWPis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Peach7G..k6f|◆Peach7G..k6f",
+          "name": "◆Peach7G..k6f",
+          "trip": "◆Peach7G..k6f",
+          "label": "◆Peach7G..k6f：◆Peach7G..k6f",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆APEX//....|◆APEX//....",
+          "name": "◆APEX//....",
+          "trip": "◆APEX//....",
+          "label": "◆APEX//....：◆APEX//....",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆meqkRCpZsU|◆meqkRCpZsU",
+          "name": "◆meqkRCpZsU",
+          "trip": "◆meqkRCpZsU",
+          "label": "◆meqkRCpZsU：◆meqkRCpZsU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.mochida/.|◆.mochida/.",
+          "name": "◆.mochida/.",
+          "trip": "◆.mochida/.",
+          "label": "◆.mochida/.：◆.mochida/.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆5yxRP6vopI|◆5yxRP6vopI",
+          "name": "◆5yxRP6vopI",
+          "trip": "◆5yxRP6vopI",
+          "label": "◆5yxRP6vopI：◆5yxRP6vopI",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆xGgA7c3w5A|◆xGgA7c3w5A",
+          "name": "◆xGgA7c3w5A",
+          "trip": "◆xGgA7c3w5A",
+          "label": "◆xGgA7c3w5A：◆xGgA7c3w5A",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ムキロゼ|pFS6NhgEGS",
+          "name": "ムキロゼ",
+          "trip": "pFS6NhgEGS",
+          "label": "ムキロゼ：pFS6NhgEGS",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆6q/aPFgUQE|◆6q/aPFgUQE",
+          "name": "◆6q/aPFgUQE",
+          "trip": "◆6q/aPFgUQE",
+          "label": "◆6q/aPFgUQE：◆6q/aPFgUQE",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Deus/6vRqo|◆Deus/6vRqo",
+          "name": "◆Deus/6vRqo",
+          "trip": "◆Deus/6vRqo",
+          "label": "◆Deus/6vRqo：◆Deus/6vRqo",
+          "stockAssets": 0
+        },
+        {
+          "uid": "カスピアン|◆JNeQdmAPvo",
+          "name": "カスピアン",
+          "trip": "◆JNeQdmAPvo",
+          "label": "カスピアン：◆JNeQdmAPvo",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆7uGGsj2KF.|◆7uGGsj2KF.",
+          "name": "◆7uGGsj2KF.",
+          "trip": "◆7uGGsj2KF.",
+          "label": "◆7uGGsj2KF.：◆7uGGsj2KF.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AkPPJcARco|◆AkPPJcARco",
+          "name": "◆AkPPJcARco",
+          "trip": "◆AkPPJcARco",
+          "label": "◆AkPPJcARco：◆AkPPJcARco",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆6.........|◆6.........",
+          "name": "◆6.........",
+          "trip": "◆6.........",
+          "label": "◆6.........：◆6.........",
+          "stockAssets": 0
+        },
+        {
+          "uid": "ケツ圧|◆sTJExBD.qaQa",
+          "name": "ケツ圧",
+          "trip": "◆sTJExBD.qaQa",
+          "label": "ケツ圧：◆sTJExBD.qaQa",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆oZY3evqigQ|◆oZY3evqigQ",
+          "name": "◆oZY3evqigQ",
+          "trip": "◆oZY3evqigQ",
+          "label": "◆oZY3evqigQ：◆oZY3evqigQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆BHgJXI7OC7wR|◆BHgJXI7OC7wR",
+          "name": "◆BHgJXI7OC7wR",
+          "trip": "◆BHgJXI7OC7wR",
+          "label": "◆BHgJXI7OC7wR：◆BHgJXI7OC7wR",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆TiP5As2jNc|◆TiP5As2jNc",
+          "name": "◆TiP5As2jNc",
+          "trip": "◆TiP5As2jNc",
+          "label": "◆TiP5As2jNc：◆TiP5As2jNc",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆People/Pbk|◆People/Pbk",
+          "name": "◆People/Pbk",
+          "trip": "◆People/Pbk",
+          "label": "◆People/Pbk：◆People/Pbk",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆YJrpsBVNhY|◆YJrpsBVNhY",
+          "name": "◆YJrpsBVNhY",
+          "trip": "◆YJrpsBVNhY",
+          "label": "◆YJrpsBVNhY：◆YJrpsBVNhY",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.PfiH.....|◆.PfiH.....",
+          "name": "◆.PfiH.....",
+          "trip": "◆.PfiH.....",
+          "label": "◆.PfiH.....：◆.PfiH.....",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆ZRTU9MXmjQ|◆ZRTU9MXmjQ",
+          "name": "◆ZRTU9MXmjQ",
+          "trip": "◆ZRTU9MXmjQ",
+          "label": "◆ZRTU9MXmjQ：◆ZRTU9MXmjQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆3jPjHIQKEN3D|◆3jPjHIQKEN3D",
+          "name": "◆3jPjHIQKEN3D",
+          "trip": "◆3jPjHIQKEN3D",
+          "label": "◆3jPjHIQKEN3D：◆3jPjHIQKEN3D",
+          "stockAssets": 0
+        },
+        {
+          "uid": "花葬|◆flower.nXrpA",
+          "name": "花葬",
+          "trip": "◆flower.nXrpA",
+          "label": "花葬：◆flower.nXrpA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆L6i5qOOvGM|◆L6i5qOOvGM",
+          "name": "◆L6i5qOOvGM",
+          "trip": "◆L6i5qOOvGM",
+          "label": "◆L6i5qOOvGM：◆L6i5qOOvGM",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆cbygD1MO9s|◆cbygD1MO9s",
+          "name": "◆cbygD1MO9s",
+          "trip": "◆cbygD1MO9s",
+          "label": "◆cbygD1MO9s：◆cbygD1MO9s",
+          "stockAssets": 0
+        },
+        {
+          "uid": "まよねず|◆UXzFKq.d5o",
+          "name": "まよねず",
+          "trip": "◆UXzFKq.d5o",
+          "label": "まよねず：◆UXzFKq.d5o",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆...z...z..|◆...z...z..",
+          "name": "◆...z...z..",
+          "trip": "◆...z...z..",
+          "label": "◆...z...z..：◆...z...z..",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆//GoodJob6|◆//GoodJob6",
+          "name": "◆//GoodJob6",
+          "trip": "◆//GoodJob6",
+          "label": "◆//GoodJob6：◆//GoodJob6",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆WBRXcNtpf.|◆WBRXcNtpf.",
+          "name": "◆WBRXcNtpf.",
+          "trip": "◆WBRXcNtpf.",
+          "label": "◆WBRXcNtpf.：◆WBRXcNtpf.",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KM78/h7A5s|◆KM78/h7A5s",
+          "name": "◆KM78/h7A5s",
+          "trip": "◆KM78/h7A5s",
+          "label": "◆KM78/h7A5s：◆KM78/h7A5s",
+          "stockAssets": 0
+        },
+        {
+          "uid": "はき|◆//y//1SFyA",
+          "name": "はき",
+          "trip": "◆//y//1SFyA",
+          "label": "はき：◆//y//1SFyA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆iljnc.vXMA|◆iljnc.vXMA",
+          "name": "◆iljnc.vXMA",
+          "trip": "◆iljnc.vXMA",
+          "label": "◆iljnc.vXMA：◆iljnc.vXMA",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Haru//CGUg|◆Haru//CGUg",
+          "name": "◆Haru//CGUg",
+          "trip": "◆Haru//CGUg",
+          "label": "◆Haru//CGUg：◆Haru//CGUg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆fumeiyo.t3cg|◆fumeiyo.t3cg",
+          "name": "◆fumeiyo.t3cg",
+          "trip": "◆fumeiyo.t3cg",
+          "label": "◆fumeiyo.t3cg：◆fumeiyo.t3cg",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.RngS8LZGk|◆.RngS8LZGk",
+          "name": "◆.RngS8LZGk",
+          "trip": "◆.RngS8LZGk",
+          "label": "◆.RngS8LZGk：◆.RngS8LZGk",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆merolyviyQ|◆merolyviyQ",
+          "name": "◆merolyviyQ",
+          "trip": "◆merolyviyQ",
+          "label": "◆merolyviyQ：◆merolyviyQ",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆.wwwwwwww.|◆.wwwwwwww.",
+          "name": "◆.wwwwwwww.",
+          "trip": "◆.wwwwwwww.",
+          "label": "◆.wwwwwwww.：◆.wwwwwwww.",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -3154,7 +4054,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -3184,7 +4084,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆iljnc.vXMA",
@@ -4876,7 +5776,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -4906,7 +5806,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆Deus/6vRqo",
@@ -6039,7 +6939,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -6069,7 +6969,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "ねこねこGyi",
@@ -8621,7 +9521,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -8651,7 +9551,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆TiP5As2jNc",
@@ -10386,7 +11286,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -10416,7 +11316,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆Deus/6vRqo",
@@ -11807,7 +12707,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -11837,7 +12737,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "はき",
@@ -13744,7 +14644,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -13774,7 +14674,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆...z...z..",
@@ -15509,7 +16409,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -15539,7 +16439,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆TiP5As2jNc",
@@ -17360,7 +18260,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -17390,7 +18290,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -19039,7 +19939,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -19069,7 +19969,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -20976,7 +21876,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -21006,7 +21906,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -22784,7 +23684,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -22814,7 +23714,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -24592,7 +25492,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -24622,7 +25522,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -26400,7 +27300,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -26430,7 +27330,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -28208,7 +29108,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -28238,7 +29138,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -30016,7 +30916,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -30046,7 +30946,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -31824,7 +32724,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -31854,7 +32754,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -33632,7 +34532,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -33662,7 +34562,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -35440,7 +36340,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -35470,7 +36370,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -37248,7 +38148,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -37278,7 +38178,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -39056,7 +39956,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -39086,7 +39986,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -40864,7 +41764,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -40894,7 +41794,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -42199,7 +43099,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -42229,7 +43129,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "ねこねこGyi",
@@ -44480,7 +45380,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -44510,7 +45410,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -46288,7 +47188,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -46318,7 +47218,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -48096,7 +48996,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -48126,7 +49026,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -50119,7 +51019,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -50149,7 +51049,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆Deus/6vRqo",
@@ -51497,7 +52397,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -51527,7 +52427,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "ねこねこGyi",
@@ -53692,7 +54592,7 @@
         "mine": 3,
         "hunt": 2,
         "title": "",
-        "stockAssets": 905,
+        "stockAssets": 924,
         "level": 0,
         "jobLevel": 1,
         "stockCount": 1,
@@ -53722,7 +54622,7 @@
         "baccaratWins": 0,
         "kenoGames": 0,
         "kenoWins": 0,
-        "totalAssets": 4694
+        "totalAssets": 4713
       },
       {
         "name": "◆6q/aPFgUQE",
