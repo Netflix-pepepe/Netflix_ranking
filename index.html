@@ -1256,7 +1256,42 @@
 
         }
 
-    </style>
+    
+        /* ===============================
+           STOCK TREND CHART
+        =============================== */
+        .stock-trend-section {
+            margin-top: 28px;
+            padding: 24px;
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 22px;
+            background: rgba(10,15,28,0.72);
+            box-shadow: 0 20px 55px rgba(0,0,0,0.22);
+        }
+
+        .stock-chart-wrap {
+            position: relative;
+            width: 100%;
+            height: 360px;
+            margin-top: 16px;
+            border-radius: 16px;
+            background: rgba(255,255,255,0.025);
+            padding: 12px;
+        }
+
+        #stockTrendChart {
+            width: 100% !important;
+            height: 100% !important;
+        }
+
+        .stock-chart-note {
+            margin: 12px 0 0;
+            opacity: 0.62;
+            font-size: 12px;
+        }
+
+
+</style>
 
 </head>
 
@@ -1345,6 +1380,34 @@
     </header>
 
 
+
+    <!-- ===============================
+         STOCK ASSET TREND
+    =============================== -->
+    <section
+        id="stockTrendSection"
+        class="stock-trend-section"
+        style="display:none;"
+    >
+        <div class="ranking-header">
+            <div>
+                <h2>📈 株式資産の推移</h2>
+                <p>株式資産ランキング上位プレイヤーの時系列推移</p>
+            </div>
+            <div class="ranking-count">
+                TOP 5
+            </div>
+        </div>
+
+        <div class="stock-chart-wrap">
+            <canvas id="stockTrendChart"></canvas>
+        </div>
+
+        <p class="stock-chart-note">
+            ※ ranking.json に株式推移データがある場合に表示されます。
+        </p>
+    </section>
+
     <!-- ===============================
          RANKING
     =============================== -->
@@ -1421,6 +1484,8 @@
 
 </div>
 
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <script>
 
@@ -1653,6 +1718,7 @@ let users = [];
 let currentCategory = "economy";
 
 let currentType = "totalAssets";
+        renderStockTrendChart(window.rankingJsonData || {});
 
 
 /* =================================
@@ -1837,6 +1903,7 @@ function renderCategories() {
                     renderTabs();
 
                     renderRanking();
+            renderStockTrendChart(data);
 
                 }
             );
@@ -2456,6 +2523,169 @@ function renderRanking() {
 /* =================================
    LOAD DATA
 ================================= */
+
+
+    // =================================
+    // 株式資産 推移グラフ
+    // =================================
+    let stockTrendChart = null;
+    let stockTrendHistory = [];
+
+    function normalizeStockHistory(data) {
+        const candidates = [
+            data.stockRankingHistory,
+            data.stock_ranking_history,
+            data.stockHistory,
+            data.stock_history,
+            data.stockAssetsHistory,
+            data.stock_assets_history
+        ];
+
+        const raw = candidates.find(Array.isArray);
+        if (!raw) return [];
+
+        // 想定:
+        // [
+        //   {
+        //     "time": "...",
+        //     "rows": [
+        //       {"name":"名前","trip":"トリップ","uid":"...","stockAssets":12345}
+        //     ]
+        //   }
+        // ]
+        return raw
+            .filter(snapshot => snapshot && Array.isArray(snapshot.rows))
+            .map(snapshot => ({
+                time: snapshot.time || "",
+                rows: snapshot.rows
+                    .map(row => ({
+                        name: String(row.name || ""),
+                        trip: String(row.trip || ""),
+                        uid: String(row.uid || row.trip || ""),
+                        value: Number(
+                            row.stockAssets ??
+                            row.equity ??
+                            row.value ??
+                            0
+                        )
+                    }))
+                    .filter(row => Number.isFinite(row.value))
+            }));
+    }
+
+    function renderStockTrendChart(data) {
+        const section = document.getElementById("stockTrendSection");
+        const canvas = document.getElementById("stockTrendChart");
+
+        if (!section || !canvas) return;
+
+        stockTrendHistory = normalizeStockHistory(data);
+
+        // 株式資産ランキングを選択している時だけ表示。
+        if (currentType !== "stockAssets" || stockTrendHistory.length === 0) {
+            section.style.display = "none";
+            if (stockTrendChart) {
+                stockTrendChart.destroy();
+                stockTrendChart = null;
+            }
+            return;
+        }
+
+        const latest = stockTrendHistory[stockTrendHistory.length - 1];
+        const topPlayers = [...latest.rows]
+            .sort((a, b) => b.value - a.value)
+            .slice(0, 5);
+
+        if (topPlayers.length === 0) {
+            section.style.display = "none";
+            return;
+        }
+
+        section.style.display = "";
+
+        const labels = stockTrendHistory.map((snapshot, i) => {
+            if (snapshot.time) {
+                const d = new Date(snapshot.time);
+                if (!Number.isNaN(d.getTime())) {
+                    return d.toLocaleDateString("ja-JP", {
+                        month: "numeric",
+                        day: "numeric"
+                    });
+                }
+            }
+            return `${i + 1}`;
+        });
+
+        const datasets = topPlayers.map(player => {
+            const values = stockTrendHistory.map(snapshot => {
+                const row = snapshot.rows.find(r =>
+                    (player.uid && r.uid === player.uid) ||
+                    (
+                        r.name === player.name &&
+                        r.trip === player.trip
+                    )
+                );
+                return row ? row.value : null;
+            });
+
+            const label =
+                player.name
+                    ? `${player.name}：${player.trip || "NO TRIP"}`
+                    : player.uid;
+
+            return {
+                label,
+                data: values,
+                tension: 0.28,
+                spanGaps: true,
+                pointRadius: 3,
+                pointHoverRadius: 5
+            };
+        });
+
+        if (stockTrendChart) {
+            stockTrendChart.destroy();
+        }
+
+        stockTrendChart = new Chart(canvas.getContext("2d"), {
+            type: "line",
+            data: {
+                labels,
+                datasets
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                interaction: {
+                    mode: "index",
+                    intersect: false
+                },
+                plugins: {
+                    legend: {
+                        position: "bottom"
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label(context) {
+                                return `${context.dataset.label}: ${Number(context.parsed.y || 0).toLocaleString()}円`;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: false,
+                        ticks: {
+                            callback(value) {
+                                return Number(value).toLocaleString() + "円";
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    }
+
 
 async function loadRanking() {
 
