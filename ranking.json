@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 12:07:55",
+  "updated": "2026-09-03 12:08:29",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -564,7 +564,7 @@
     {
       "name": "◆Haru//CGUg",
       "trip": "◆Haru//CGUg",
-      "money": 4352796,
+      "money": 0,
       "bank": 0,
       "loan": 0,
       "prestige": 97,
@@ -575,7 +575,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 3,
-      "totalAssets": 4352796
+      "totalAssets": 0
     },
     {
       "name": "ウザいんボルト",
@@ -1124,7 +1124,7 @@
     {
       "name": "◆Salt/ZiKEE",
       "trip": "◆Salt/ZiKEE",
-      "money": 150563,
+      "money": 130563,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
@@ -1135,7 +1135,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 150563
+      "totalAssets": 130563
     },
     {
       "name": "5Wh2GNkLn6",
@@ -1156,22 +1156,6 @@
   ],
   "rankings": {
     "money": [
-      {
-        "name": "◆Haru//CGUg",
-        "trip": "◆Haru//CGUg",
-        "money": 4352796,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 97,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 3,
-        "totalAssets": 4352796
-      },
       {
         "name": "◆.mochida/.",
         "trip": "◆.mochida/.",
@@ -1205,22 +1189,6 @@
         "totalAssets": 1350050
       },
       {
-        "name": "◆Salt/ZiKEE",
-        "trip": "◆Salt/ZiKEE",
-        "money": 150563,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 50,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 150563
-      },
-      {
         "name": "◆Udonz16KRzz.",
         "trip": "◆Udonz16KRzz.",
         "money": 146289,
@@ -1235,6 +1203,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 146289
+      },
+      {
+        "name": "◆Salt/ZiKEE",
+        "trip": "◆Salt/ZiKEE",
+        "money": 130563,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 50,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 130563
       },
       {
         "name": "◆Clo.itDF.pn7",
@@ -2162,6 +2146,22 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
+        "totalAssets": 0
+      },
+      {
+        "name": "◆Haru//CGUg",
+        "trip": "◆Haru//CGUg",
+        "money": 0,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 97,
+        "fish": 1,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 3,
         "totalAssets": 0
       },
       {
@@ -2905,7 +2905,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 4352796,
+        "money": 0,
         "bank": 0,
         "loan": 0,
         "prestige": 97,
@@ -2916,7 +2916,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 4352796
+        "totalAssets": 0
       },
       {
         "name": "◆cbygD1MO9s",
@@ -3433,7 +3433,7 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 150563,
+        "money": 130563,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -3444,7 +3444,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 150563
+        "totalAssets": 130563
       },
       {
         "name": "5Wh2GNkLn6",
@@ -4043,7 +4043,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 4352796,
+        "money": 0,
         "bank": 0,
         "loan": 0,
         "prestige": 97,
@@ -4054,7 +4054,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 4352796
+        "totalAssets": 0
       },
       {
         "name": "ウザいんボルト",
@@ -4587,7 +4587,7 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 150563,
+        "money": 130563,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -4598,7 +4598,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 150563
+        "totalAssets": 130563
       },
       {
         "name": "5Wh2GNkLn6",
@@ -4649,22 +4649,6 @@
         "level": 0,
         "jobLevel": 2,
         "totalAssets": 212840079
-      },
-      {
-        "name": "◆Haru//CGUg",
-        "trip": "◆Haru//CGUg",
-        "money": 4352796,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 97,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 3,
-        "totalAssets": 4352796
       },
       {
         "name": "◆.mochida/.",
@@ -4731,22 +4715,6 @@
         "totalAssets": 890120
       },
       {
-        "name": "◆Salt/ZiKEE",
-        "trip": "◆Salt/ZiKEE",
-        "money": 150563,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 50,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 150563
-      },
-      {
         "name": "◆Udonz16KRzz.",
         "trip": "◆Udonz16KRzz.",
         "money": 146289,
@@ -4761,6 +4729,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 146289
+      },
+      {
+        "name": "◆Salt/ZiKEE",
+        "trip": "◆Salt/ZiKEE",
+        "money": 130563,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 50,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 130563
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -5624,6 +5608,22 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
+        "totalAssets": 0
+      },
+      {
+        "name": "◆Haru//CGUg",
+        "trip": "◆Haru//CGUg",
+        "money": 0,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 97,
+        "fish": 1,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 3,
         "totalAssets": 0
       },
       {
@@ -5791,7 +5791,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 4352796,
+        "money": 0,
         "bank": 0,
         "loan": 0,
         "prestige": 97,
@@ -5802,7 +5802,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 4352796
+        "totalAssets": 0
       },
       {
         "name": "◆WBRXcNtpf.",
@@ -6895,7 +6895,7 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 150563,
+        "money": 130563,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -6906,7 +6906,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 150563
+        "totalAssets": 130563
       },
       {
         "name": "5Wh2GNkLn6",
@@ -6945,7 +6945,7 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 150563,
+        "money": 130563,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -6956,7 +6956,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 150563
+        "totalAssets": 130563
       },
       {
         "name": "◆.mochida/.",
@@ -7441,7 +7441,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 4352796,
+        "money": 0,
         "bank": 0,
         "loan": 0,
         "prestige": 97,
@@ -7452,7 +7452,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 4352796
+        "totalAssets": 0
       },
       {
         "name": "◆ceb/kBvkJS7L",
@@ -8211,7 +8211,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 4352796,
+        "money": 0,
         "bank": 0,
         "loan": 0,
         "prestige": 97,
@@ -8222,7 +8222,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 4352796
+        "totalAssets": 0
       },
       {
         "name": "ウザいんボルト",
@@ -9203,7 +9203,7 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 150563,
+        "money": 130563,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -9214,7 +9214,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 150563
+        "totalAssets": 130563
       },
       {
         "name": "5Wh2GNkLn6",
@@ -9333,7 +9333,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 4352796,
+        "money": 0,
         "bank": 0,
         "loan": 0,
         "prestige": 97,
@@ -9344,7 +9344,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 4352796
+        "totalAssets": 0
       },
       {
         "name": "ウザいんボルト",
@@ -10357,7 +10357,7 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 150563,
+        "money": 130563,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -10368,7 +10368,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 150563
+        "totalAssets": 130563
       },
       {
         "name": "5Wh2GNkLn6",
@@ -10951,7 +10951,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 4352796,
+        "money": 0,
         "bank": 0,
         "loan": 0,
         "prestige": 97,
@@ -10962,7 +10962,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 4352796
+        "totalAssets": 0
       },
       {
         "name": "ウザいんボルト",
@@ -11511,7 +11511,7 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 150563,
+        "money": 130563,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -11522,7 +11522,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 150563
+        "totalAssets": 130563
       },
       {
         "name": "5Wh2GNkLn6",
@@ -11545,7 +11545,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 4352796,
+        "money": 0,
         "bank": 0,
         "loan": 0,
         "prestige": 97,
@@ -11556,7 +11556,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 4352796
+        "totalAssets": 0
       },
       {
         "name": "◆Sak5.3ljP.",
@@ -11913,7 +11913,7 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 150563,
+        "money": 130563,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -11924,7 +11924,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 150563
+        "totalAssets": 130563
       },
       {
         "name": "◆3jPjHIQKEN3D",
