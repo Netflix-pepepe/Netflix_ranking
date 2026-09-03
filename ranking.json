@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 11:56:40",
+  "updated": "2026-09-03 11:57:14",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -564,7 +564,7 @@
     {
       "name": "◆Haru//CGUg",
       "trip": "◆Haru//CGUg",
-      "money": 375610,
+      "money": 1126830,
       "bank": 444100,
       "loan": 0,
       "prestige": 97,
@@ -575,7 +575,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 3,
-      "totalAssets": 819710
+      "totalAssets": 1570930
     },
     {
       "name": "ウザいんボルト",
@@ -1191,7 +1191,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -1202,7 +1202,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "◆Udonz16KRzz.",
@@ -2377,7 +2377,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -2388,7 +2388,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "◆.mochida/.",
@@ -4043,7 +4043,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -4054,7 +4054,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "ウザいんボルト",
@@ -4667,6 +4667,22 @@
         "totalAssets": 2243091
       },
       {
+        "name": "◆Haru//CGUg",
+        "trip": "◆Haru//CGUg",
+        "money": 1126830,
+        "bank": 444100,
+        "loan": 0,
+        "prestige": 97,
+        "fish": 1,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 3,
+        "totalAssets": 1570930
+      },
+      {
         "name": "eeOOmfjECG",
         "trip": "eeOOmfjECG",
         "money": 1350050,
@@ -4713,22 +4729,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 890120
-      },
-      {
-        "name": "◆Haru//CGUg",
-        "trip": "◆Haru//CGUg",
-        "money": 375610,
-        "bank": 444100,
-        "loan": 0,
-        "prestige": 97,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 3,
-        "totalAssets": 819710
       },
       {
         "name": "◆Udonz16KRzz.",
@@ -5791,7 +5791,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -5802,7 +5802,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "◆WBRXcNtpf.",
@@ -7441,7 +7441,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -7452,7 +7452,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "◆ceb/kBvkJS7L",
@@ -8211,7 +8211,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -8222,7 +8222,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "ウザいんボルト",
@@ -9333,7 +9333,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -9344,7 +9344,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "ウザいんボルト",
@@ -10951,7 +10951,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -10962,7 +10962,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "ウザいんボルト",
@@ -11545,7 +11545,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 375610,
+        "money": 1126830,
         "bank": 444100,
         "loan": 0,
         "prestige": 97,
@@ -11556,7 +11556,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 819710
+        "totalAssets": 1570930
       },
       {
         "name": "◆Sak5.3ljP.",
