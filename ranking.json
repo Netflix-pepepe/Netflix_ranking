@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 18:55:26",
+  "updated": "2026-09-03 18:56:02",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -596,8 +596,8 @@
     {
       "name": "◆YKY/oEb8ps",
       "trip": "◆YKY/oEb8ps",
-      "money": 27220,
-      "bank": 0,
+      "money": 7220,
+      "bank": 20000,
       "loan": 0,
       "prestige": 0,
       "fish": 7,
@@ -1429,22 +1429,6 @@
         "totalAssets": 29450
       },
       {
-        "name": "◆YKY/oEb8ps",
-        "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 7,
-        "mine": 3,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 27220
-      },
-      {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
         "money": 23324,
@@ -1555,6 +1539,22 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 8466
+      },
+      {
+        "name": "◆YKY/oEb8ps",
+        "trip": "◆YKY/oEb8ps",
+        "money": 7220,
+        "bank": 20000,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 7,
+        "mine": 3,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 27220
       },
       {
         "name": "◆aaAaa/GSaJPt",
@@ -2551,6 +2551,22 @@
         "totalAssets": 91892
       },
       {
+        "name": "◆YKY/oEb8ps",
+        "trip": "◆YKY/oEb8ps",
+        "money": 7220,
+        "bank": 20000,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 7,
+        "mine": 3,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 27220
+      },
+      {
         "name": "◆3jPjHIQKEN3D",
         "trip": "◆3jPjHIQKEN3D",
         "money": 1000,
@@ -3061,22 +3077,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 101596
-      },
-      {
-        "name": "◆YKY/oEb8ps",
-        "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 7,
-        "mine": 3,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 27220
       },
       {
         "name": "◆cbygD1MO9s",
@@ -4267,8 +4267,8 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
+        "money": 7220,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 7,
@@ -5149,8 +5149,8 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
+        "money": 7220,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 7,
@@ -6735,8 +6735,8 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
+        "money": 7220,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 7,
@@ -7617,8 +7617,8 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
+        "money": 7220,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 7,
@@ -8771,8 +8771,8 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
+        "money": 7220,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 7,
@@ -10037,8 +10037,8 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
+        "money": 7220,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 7,
@@ -11559,8 +11559,8 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
+        "money": 7220,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 7,
@@ -12473,8 +12473,8 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 27220,
-        "bank": 0,
+        "money": 7220,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 7,
