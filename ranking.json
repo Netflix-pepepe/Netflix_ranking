@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 08:59:44",
+  "updated": "2026-09-03 09:00:17",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -36,18 +36,18 @@
     {
       "name": "◆iljnc.vXMA",
       "trip": "◆iljnc.vXMA",
-      "money": 7950,
+      "money": 8450,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
       "fish": 4,
       "mine": 1,
-      "hunt": 1,
+      "hunt": 2,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 7950
+      "totalAssets": 8450
     },
     {
       "name": "◆Sak5.3ljP.",
@@ -1431,18 +1431,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "◆...z...z..",
@@ -2393,18 +2393,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "◆Sak5.3ljP.",
@@ -3419,18 +3419,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "◆Sak5.3ljP.",
@@ -4845,18 +4845,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "◆...z...z..",
@@ -5823,18 +5823,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "FXAjQUR5lq",
@@ -7025,18 +7025,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "Yhr9nwEqnA",
@@ -8163,18 +8163,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "◆ZRTU9MXmjQ",
@@ -9187,6 +9187,22 @@
         "totalAssets": 2054
       },
       {
+        "name": "◆iljnc.vXMA",
+        "trip": "◆iljnc.vXMA",
+        "money": 8450,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 4,
+        "mine": 1,
+        "hunt": 2,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 8450
+      },
+      {
         "name": "◆TiP5As2jNc",
         "trip": "◆TiP5As2jNc",
         "money": 8466,
@@ -9217,22 +9233,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 4748
-      },
-      {
-        "name": "◆iljnc.vXMA",
-        "trip": "◆iljnc.vXMA",
-        "money": 7950,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 4,
-        "mine": 1,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 7950
       },
       {
         "name": "◆ZRTU9MXmjQ",
@@ -10135,18 +10135,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "◆Sak5.3ljP.",
@@ -11609,18 +11609,18 @@
       {
         "name": "◆iljnc.vXMA",
         "trip": "◆iljnc.vXMA",
-        "money": 7950,
+        "money": 8450,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 4,
         "mine": 1,
-        "hunt": 1,
+        "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 7950
+        "totalAssets": 8450
       },
       {
         "name": "FXAjQUR5lq",
