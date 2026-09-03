@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 09:00:17",
+  "updated": "2026-09-03 09:00:52",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -46,7 +46,7 @@
       "title": "",
       "stockAssets": 0,
       "level": 0,
-      "jobLevel": 0,
+      "jobLevel": 1,
       "totalAssets": 8450
     },
     {
@@ -1441,7 +1441,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -2403,7 +2403,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -3429,7 +3429,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -4855,7 +4855,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -5833,7 +5833,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -7035,7 +7035,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -8173,7 +8173,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -9199,7 +9199,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -10145,7 +10145,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 8450
       },
       {
@@ -11287,6 +11287,22 @@
         "totalAssets": 212840079
       },
       {
+        "name": "◆iljnc.vXMA",
+        "trip": "◆iljnc.vXMA",
+        "money": 8450,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 4,
+        "mine": 1,
+        "hunt": 2,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 8450
+      },
+      {
         "name": "◆6q/aPFgUQE",
         "trip": "◆6q/aPFgUQE",
         "money": 540,
@@ -11605,22 +11621,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 40000
-      },
-      {
-        "name": "◆iljnc.vXMA",
-        "trip": "◆iljnc.vXMA",
-        "money": 8450,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 4,
-        "mine": 1,
-        "hunt": 2,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 8450
       },
       {
         "name": "FXAjQUR5lq",
