@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 18:11:41",
+  "updated": "2026-09-03 18:12:15",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -1172,18 +1172,18 @@
     {
       "name": "◆38W/RINNE/Ir",
       "trip": "◆38W/RINNE/Ir",
-      "money": 180,
+      "money": 480,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
       "fish": 1,
-      "mine": 0,
+      "mine": 1,
       "hunt": 1,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 180
+      "totalAssets": 480
     },
     {
       "name": "◆Salt/ZiKEE",
@@ -1893,6 +1893,22 @@
         "totalAssets": 91892
       },
       {
+        "name": "◆38W/RINNE/Ir",
+        "trip": "◆38W/RINNE/Ir",
+        "money": 480,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 1,
+        "mine": 1,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 480
+      },
+      {
         "name": "◆.RngS8LZGk",
         "trip": "◆.RngS8LZGk",
         "money": 452,
@@ -1987,22 +2003,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 230
-      },
-      {
-        "name": "◆38W/RINNE/Ir",
-        "trip": "◆38W/RINNE/Ir",
-        "money": 180,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 180
       },
       {
         "name": "◆6.........",
@@ -3609,18 +3609,18 @@
       {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
-        "money": 180,
+        "money": 480,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 1,
-        "mine": 0,
+        "mine": 1,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 180
+        "totalAssets": 480
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -4827,18 +4827,18 @@
       {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
-        "money": 180,
+        "money": 480,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 1,
-        "mine": 0,
+        "mine": 1,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 180
+        "totalAssets": 480
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -5579,6 +5579,22 @@
         "totalAssets": 750
       },
       {
+        "name": "◆38W/RINNE/Ir",
+        "trip": "◆38W/RINNE/Ir",
+        "money": 480,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 1,
+        "mine": 1,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 480
+      },
+      {
         "name": "◆.RngS8LZGk",
         "trip": "◆.RngS8LZGk",
         "money": 452,
@@ -5673,22 +5689,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 230
-      },
-      {
-        "name": "◆38W/RINNE/Ir",
-        "trip": "◆38W/RINNE/Ir",
-        "money": 180,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 180
       },
       {
         "name": "Hx5CmD3Rrs",
@@ -7263,18 +7263,18 @@
       {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
-        "money": 180,
+        "money": 480,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 1,
-        "mine": 0,
+        "mine": 1,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 180
+        "totalAssets": 480
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -8017,18 +8017,18 @@
       {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
-        "money": 180,
+        "money": 480,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 1,
-        "mine": 0,
+        "mine": 1,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 180
+        "totalAssets": 480
       },
       {
         "name": "◆BHgJXI7OC7wR",
@@ -9025,6 +9025,22 @@
         "totalAssets": 0
       },
       {
+        "name": "◆38W/RINNE/Ir",
+        "trip": "◆38W/RINNE/Ir",
+        "money": 480,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 1,
+        "mine": 1,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 480
+      },
+      {
         "name": "◆3jPjHIQKEN3D",
         "trip": "◆3jPjHIQKEN3D",
         "money": 1000,
@@ -9697,22 +9713,6 @@
         "totalAssets": 0
       },
       {
-        "name": "◆38W/RINNE/Ir",
-        "trip": "◆38W/RINNE/Ir",
-        "money": 180,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 180
-      },
-      {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
         "money": 0,
@@ -10053,18 +10053,18 @@
       {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
-        "money": 180,
+        "money": 480,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 1,
-        "mine": 0,
+        "mine": 1,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 180
+        "totalAssets": 480
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -12135,18 +12135,18 @@
       {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
-        "money": 180,
+        "money": 480,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 1,
-        "mine": 0,
+        "mine": 1,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 180
+        "totalAssets": 480
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -13369,18 +13369,18 @@
       {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
-        "money": 180,
+        "money": 480,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 1,
-        "mine": 0,
+        "mine": 1,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 180
+        "totalAssets": 480
       },
       {
         "name": "5Wh2GNkLn6",
