@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 12:22:42",
+  "updated": "2026-09-03 12:23:16",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -974,7 +974,7 @@
       "title": "",
       "stockAssets": 0,
       "level": 0,
-      "jobLevel": 0,
+      "jobLevel": 1,
       "totalAssets": 5300
     },
     {
@@ -1569,7 +1569,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -3315,7 +3315,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -4485,7 +4485,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -5127,7 +5127,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -6825,7 +6825,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -7211,7 +7211,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -9213,7 +9213,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -10351,7 +10351,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -11505,7 +11505,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 5300
       },
       {
@@ -12021,6 +12021,22 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 5435
+      },
+      {
+        "name": "◆b/Eiri/P.6",
+        "trip": "◆b/Eiri/P.6",
+        "money": 5300,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 13,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 5300
       },
       {
         "name": "rOwsNt274U",
@@ -12725,22 +12741,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 100
-      },
-      {
-        "name": "◆b/Eiri/P.6",
-        "trip": "◆b/Eiri/P.6",
-        "money": 5300,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 13,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 5300
       },
       {
         "name": "◆YJrpsBVNhY",
