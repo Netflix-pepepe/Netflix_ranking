@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 18:44:50",
+  "updated": "2026-09-03 18:45:25",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -596,7 +596,7 @@
     {
       "name": "◆YKY/oEb8ps",
       "trip": "◆YKY/oEb8ps",
-      "money": 17220,
+      "money": 22220,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
@@ -607,7 +607,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 17220
+      "totalAssets": 22220
     },
     {
       "name": "ウザいんボルト",
@@ -1445,6 +1445,22 @@
         "totalAssets": 23324
       },
       {
+        "name": "◆YKY/oEb8ps",
+        "trip": "◆YKY/oEb8ps",
+        "money": 22220,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 7,
+        "mine": 3,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 22220
+      },
+      {
         "name": "花葬",
         "trip": "◆flower.nXrpA",
         "money": 20381,
@@ -1459,22 +1475,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 20381
-      },
-      {
-        "name": "◆YKY/oEb8ps",
-        "trip": "◆YKY/oEb8ps",
-        "money": 17220,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 7,
-        "mine": 3,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 17220
       },
       {
         "name": "◆merolyviyQ",
@@ -3065,7 +3065,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 17220,
+        "money": 22220,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -3076,7 +3076,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 17220
+        "totalAssets": 22220
       },
       {
         "name": "◆cbygD1MO9s",
@@ -4267,7 +4267,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 17220,
+        "money": 22220,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -4278,7 +4278,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 17220
+        "totalAssets": 22220
       },
       {
         "name": "ウザいんボルト",
@@ -5163,6 +5163,22 @@
         "totalAssets": 23324
       },
       {
+        "name": "◆YKY/oEb8ps",
+        "trip": "◆YKY/oEb8ps",
+        "money": 22220,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 7,
+        "mine": 3,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 22220
+      },
+      {
         "name": "花葬",
         "trip": "◆flower.nXrpA",
         "money": 20381,
@@ -5177,22 +5193,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 20381
-      },
-      {
-        "name": "◆YKY/oEb8ps",
-        "trip": "◆YKY/oEb8ps",
-        "money": 17220,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 7,
-        "mine": 3,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 17220
       },
       {
         "name": "◆merolyviyQ",
@@ -6735,7 +6735,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 17220,
+        "money": 22220,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -6746,7 +6746,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 17220
+        "totalAssets": 22220
       },
       {
         "name": "◆cbygD1MO9s",
@@ -7617,7 +7617,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 17220,
+        "money": 22220,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -7628,7 +7628,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 17220
+        "totalAssets": 22220
       },
       {
         "name": "◆.PfiH.....",
@@ -8771,7 +8771,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 17220,
+        "money": 22220,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -8782,7 +8782,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 17220
+        "totalAssets": 22220
       },
       {
         "name": "◆APEX//....",
@@ -10037,7 +10037,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 17220,
+        "money": 22220,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -10048,7 +10048,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 17220
+        "totalAssets": 22220
       },
       {
         "name": "8BbOZU9xVo",
@@ -11559,7 +11559,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 17220,
+        "money": 22220,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -11570,7 +11570,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 17220
+        "totalAssets": 22220
       },
       {
         "name": "ウザいんボルト",
@@ -12473,7 +12473,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 17220,
+        "money": 22220,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -12484,7 +12484,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 17220
+        "totalAssets": 22220
       },
       {
         "name": "◆APEX//....",
