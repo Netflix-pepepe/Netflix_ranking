@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 12:01:10",
+  "updated": "2026-09-03 12:01:43",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -564,8 +564,8 @@
     {
       "name": "◆Haru//CGUg",
       "trip": "◆Haru//CGUg",
-      "money": 6832,
-      "bank": 1444100,
+      "money": 1450932,
+      "bank": 0,
       "loan": 0,
       "prestige": 97,
       "fish": 1,
@@ -1173,6 +1173,22 @@
         "totalAssets": 2243091
       },
       {
+        "name": "◆Haru//CGUg",
+        "trip": "◆Haru//CGUg",
+        "money": 1450932,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 97,
+        "fish": 1,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 3,
+        "totalAssets": 1450932
+      },
+      {
         "name": "eeOOmfjECG",
         "trip": "eeOOmfjECG",
         "money": 1350050,
@@ -1459,22 +1475,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 8466
-      },
-      {
-        "name": "◆Haru//CGUg",
-        "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
-        "loan": 0,
-        "prestige": 97,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 3,
-        "totalAssets": 1450932
       },
       {
         "name": "◆aaAaa/GSaJPt",
@@ -2343,22 +2343,6 @@
         "totalAssets": 212840079
       },
       {
-        "name": "◆Haru//CGUg",
-        "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
-        "loan": 0,
-        "prestige": 97,
-        "fish": 1,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 3,
-        "totalAssets": 1450932
-      },
-      {
         "name": "◆Clo.itDF.pn7",
         "trip": "◆Clo.itDF.pn7",
         "money": 122413,
@@ -2917,6 +2901,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 101596
+      },
+      {
+        "name": "◆Haru//CGUg",
+        "trip": "◆Haru//CGUg",
+        "money": 1450932,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 97,
+        "fish": 1,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 3,
+        "totalAssets": 1450932
       },
       {
         "name": "◆cbygD1MO9s",
@@ -4043,8 +4043,8 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
+        "money": 1450932,
+        "bank": 0,
         "loan": 0,
         "prestige": 97,
         "fish": 1,
@@ -4669,8 +4669,8 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
+        "money": 1450932,
+        "bank": 0,
         "loan": 0,
         "prestige": 97,
         "fish": 1,
@@ -5791,8 +5791,8 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
+        "money": 1450932,
+        "bank": 0,
         "loan": 0,
         "prestige": 97,
         "fish": 1,
@@ -7441,8 +7441,8 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
+        "money": 1450932,
+        "bank": 0,
         "loan": 0,
         "prestige": 97,
         "fish": 1,
@@ -8211,8 +8211,8 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
+        "money": 1450932,
+        "bank": 0,
         "loan": 0,
         "prestige": 97,
         "fish": 1,
@@ -9333,8 +9333,8 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
+        "money": 1450932,
+        "bank": 0,
         "loan": 0,
         "prestige": 97,
         "fish": 1,
@@ -10951,8 +10951,8 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
+        "money": 1450932,
+        "bank": 0,
         "loan": 0,
         "prestige": 97,
         "fish": 1,
@@ -11545,8 +11545,8 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 6832,
-        "bank": 1444100,
+        "money": 1450932,
+        "bank": 0,
         "loan": 0,
         "prestige": 97,
         "fish": 1,
