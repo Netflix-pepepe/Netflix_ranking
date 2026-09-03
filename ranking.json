@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 18:37:04",
+  "updated": "2026-09-03 18:37:38",
   "users": [
     {
       "name": "◆3jPjHIQKEN3D",
@@ -606,7 +606,7 @@
       "title": "",
       "stockAssets": 0,
       "level": 0,
-      "jobLevel": 0,
+      "jobLevel": 1,
       "totalAssets": 7070
     },
     {
@@ -1553,7 +1553,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -3075,7 +3075,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -4277,7 +4277,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -5255,7 +5255,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -6745,7 +6745,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -7627,7 +7627,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -8941,7 +8941,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -10431,7 +10431,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -11569,7 +11569,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 0,
+        "jobLevel": 1,
         "totalAssets": 7070
       },
       {
@@ -12471,6 +12471,22 @@
         "totalAssets": 999999999999999898920
       },
       {
+        "name": "◆YKY/oEb8ps",
+        "trip": "◆YKY/oEb8ps",
+        "money": 7070,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 7,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 7070
+      },
+      {
         "name": "◆APEX//....",
         "trip": "◆APEX//....",
         "money": 300,
@@ -12917,22 +12933,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 101596
-      },
-      {
-        "name": "◆YKY/oEb8ps",
-        "trip": "◆YKY/oEb8ps",
-        "money": 7070,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 7,
-        "mine": 1,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 7070
       },
       {
         "name": "◆cbygD1MO9s",
