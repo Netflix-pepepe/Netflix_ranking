@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 09:40:17",
+  "updated": "2026-09-04 09:40:51",
   "users": [
     {
       "name": "◆38W/RINNE/Ir",
@@ -660,7 +660,7 @@
     {
       "name": "◆CLg0DyMlvY",
       "trip": "◆CLg0DyMlvY",
-      "money": 36165,
+      "money": 6165,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
@@ -671,7 +671,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 36165
+      "totalAssets": 6165
     },
     {
       "name": "◆TiP5As2jNc",
@@ -1429,22 +1429,6 @@
         "totalAssets": 40000
       },
       {
-        "name": "◆CLg0DyMlvY",
-        "trip": "◆CLg0DyMlvY",
-        "money": 36165,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 5,
-        "mine": 4,
-        "hunt": 3,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 36165
-      },
-      {
         "name": "まよねず",
         "trip": "◆UXzFKq.d5o",
         "money": 29450,
@@ -1603,6 +1587,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 6560
+      },
+      {
+        "name": "◆CLg0DyMlvY",
+        "trip": "◆CLg0DyMlvY",
+        "money": 6165,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 5,
+        "mine": 4,
+        "hunt": 3,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6165
       },
       {
         "name": "◆...z...z..",
@@ -3193,7 +3193,7 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 36165,
+        "money": 6165,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -3204,7 +3204,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 36165
+        "totalAssets": 6165
       },
       {
         "name": "◆TiP5As2jNc",
@@ -4379,7 +4379,7 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 36165,
+        "money": 6165,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -4390,7 +4390,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 36165
+        "totalAssets": 6165
       },
       {
         "name": "◆TiP5As2jNc",
@@ -5195,22 +5195,6 @@
         "totalAssets": 40000
       },
       {
-        "name": "◆CLg0DyMlvY",
-        "trip": "◆CLg0DyMlvY",
-        "money": 36165,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 5,
-        "mine": 4,
-        "hunt": 3,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 36165
-      },
-      {
         "name": "まよねず",
         "trip": "◆UXzFKq.d5o",
         "money": 29450,
@@ -5353,6 +5337,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 6560
+      },
+      {
+        "name": "◆CLg0DyMlvY",
+        "trip": "◆CLg0DyMlvY",
+        "money": 6165,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 5,
+        "mine": 4,
+        "hunt": 3,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6165
       },
       {
         "name": "◆...z...z..",
@@ -6895,7 +6895,7 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 36165,
+        "money": 6165,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -6906,7 +6906,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 36165
+        "totalAssets": 6165
       },
       {
         "name": "◆TiP5As2jNc",
@@ -7729,7 +7729,7 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 36165,
+        "money": 6165,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -7740,7 +7740,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 36165
+        "totalAssets": 6165
       },
       {
         "name": "◆.PfiH.....",
@@ -8819,7 +8819,7 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 36165,
+        "money": 6165,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -8830,7 +8830,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 36165
+        "totalAssets": 6165
       },
       {
         "name": "◆TiP5As2jNc",
@@ -10085,7 +10085,7 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 36165,
+        "money": 6165,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -10096,7 +10096,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 36165
+        "totalAssets": 6165
       },
       {
         "name": "◆iljnc.vXMA",
@@ -11767,7 +11767,7 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 36165,
+        "money": 6165,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -11778,7 +11778,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 36165
+        "totalAssets": 6165
       },
       {
         "name": "◆TiP5As2jNc",
@@ -13193,7 +13193,7 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 36165,
+        "money": 6165,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -13204,7 +13204,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 36165
+        "totalAssets": 6165
       },
       {
         "name": "8BbOZU9xVo",
