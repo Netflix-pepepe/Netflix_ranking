@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 14:20:48",
+  "updated": "2026-09-04 14:21:22",
   "users": [
     {
       "name": "◆38W/RINNE/Ir",
@@ -500,8 +500,8 @@
     {
       "name": "◆b/Eiri/P.6",
       "trip": "◆b/Eiri/P.6",
-      "money": 44734,
-      "bank": 0,
+      "money": 24734,
+      "bank": 20000,
       "loan": 0,
       "prestige": 0,
       "fish": 39,
@@ -1429,22 +1429,6 @@
         "totalAssets": 50000
       },
       {
-        "name": "◆b/Eiri/P.6",
-        "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 39,
-        "mine": 4,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 44734
-      },
-      {
         "name": "◆BHgJXI7OC7wR",
         "trip": "◆BHgJXI7OC7wR",
         "money": 40000,
@@ -1475,6 +1459,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 29450
+      },
+      {
+        "name": "◆b/Eiri/P.6",
+        "trip": "◆b/Eiri/P.6",
+        "money": 24734,
+        "bank": 20000,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 39,
+        "mine": 4,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 44734
       },
       {
         "name": "花葬",
@@ -2615,6 +2615,22 @@
         "totalAssets": 91892
       },
       {
+        "name": "◆b/Eiri/P.6",
+        "trip": "◆b/Eiri/P.6",
+        "money": 24734,
+        "bank": 20000,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 39,
+        "mine": 4,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 44734
+      },
+      {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
         "money": 7720,
@@ -3061,22 +3077,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 2054
-      },
-      {
-        "name": "◆b/Eiri/P.6",
-        "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 39,
-        "mine": 4,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 44734
       },
       {
         "name": "◆iljnc.vXMA",
@@ -4267,8 +4267,8 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
+        "money": 24734,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 39,
@@ -5245,8 +5245,8 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
+        "money": 24734,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 39,
@@ -6831,8 +6831,8 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
+        "money": 24734,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 39,
@@ -7569,8 +7569,8 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
+        "money": 24734,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 39,
@@ -8931,8 +8931,8 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
+        "money": 24734,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 39,
@@ -10309,8 +10309,8 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
+        "money": 24734,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 39,
@@ -11751,8 +11751,8 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
+        "money": 24734,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 39,
@@ -12649,8 +12649,8 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 44734,
-        "bank": 0,
+        "money": 24734,
+        "bank": 20000,
         "loan": 0,
         "prestige": 0,
         "fish": 39,
