@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 09:35:46",
+  "updated": "2026-09-04 09:36:20",
   "users": [
     {
       "name": "◆38W/RINNE/Ir",
@@ -388,7 +388,7 @@
     {
       "name": "◆Haru//CGUg",
       "trip": "◆Haru//CGUg",
-      "money": 3038968,
+      "money": 3838968,
       "bank": 700000,
       "loan": 0,
       "prestige": 98,
@@ -399,7 +399,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 3,
-      "totalAssets": 3738968
+      "totalAssets": 4538968
     },
     {
       "name": "ねこねこGyi",
@@ -660,18 +660,18 @@
     {
       "name": "◆CLg0DyMlvY",
       "trip": "◆CLg0DyMlvY",
-      "money": 5190,
+      "money": 6790,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
-      "fish": 1,
-      "mine": 1,
+      "fish": 2,
+      "mine": 2,
       "hunt": 2,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 5190
+      "totalAssets": 6790
     },
     {
       "name": "◆TiP5As2jNc",
@@ -1239,7 +1239,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -1250,7 +1250,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "◆.mochida/.",
@@ -1573,6 +1573,22 @@
         "totalAssets": 27720
       },
       {
+        "name": "◆CLg0DyMlvY",
+        "trip": "◆CLg0DyMlvY",
+        "money": 6790,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 2,
+        "hunt": 2,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6790
+      },
+      {
         "name": "◆aaAaa/GSaJPt",
         "trip": "◆aaAaa/GSaJPt",
         "money": 6560,
@@ -1651,22 +1667,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5360
-      },
-      {
-        "name": "◆CLg0DyMlvY",
-        "trip": "◆CLg0DyMlvY",
-        "money": 5190,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 2,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 5190
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -2537,7 +2537,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -2548,7 +2548,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "◆.mochida/.",
@@ -3193,18 +3193,18 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 5190,
+        "money": 6790,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
-        "mine": 1,
+        "fish": 2,
+        "mine": 2,
         "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5190
+        "totalAssets": 6790
       },
       {
         "name": "◆TiP5As2jNc",
@@ -4107,7 +4107,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -4118,7 +4118,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "ねこねこGyi",
@@ -4379,18 +4379,18 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 5190,
+        "money": 6790,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
-        "mine": 1,
+        "fish": 2,
+        "mine": 2,
         "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5190
+        "totalAssets": 6790
       },
       {
         "name": "◆TiP5As2jNc",
@@ -4973,7 +4973,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -4984,7 +4984,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "◆.mochida/.",
@@ -5323,6 +5323,22 @@
         "totalAssets": 8466
       },
       {
+        "name": "◆CLg0DyMlvY",
+        "trip": "◆CLg0DyMlvY",
+        "money": 6790,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 2,
+        "hunt": 2,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6790
+      },
+      {
         "name": "◆aaAaa/GSaJPt",
         "trip": "◆aaAaa/GSaJPt",
         "money": 6560,
@@ -5401,22 +5417,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5360
-      },
-      {
-        "name": "◆CLg0DyMlvY",
-        "trip": "◆CLg0DyMlvY",
-        "money": 5190,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 2,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 5190
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -6191,7 +6191,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -6202,7 +6202,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "◆WBRXcNtpf.",
@@ -6895,18 +6895,18 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 5190,
+        "money": 6790,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
-        "mine": 1,
+        "fish": 2,
+        "mine": 2,
         "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5190
+        "totalAssets": 6790
       },
       {
         "name": "◆TiP5As2jNc",
@@ -7839,6 +7839,22 @@
         "totalAssets": 230
       },
       {
+        "name": "◆CLg0DyMlvY",
+        "trip": "◆CLg0DyMlvY",
+        "money": 6790,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 2,
+        "hunt": 2,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6790
+      },
+      {
         "name": "◆6.........",
         "trip": "◆6.........",
         "money": 120,
@@ -7937,7 +7953,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -7948,7 +7964,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "◆Yatto1Muqg",
@@ -8029,22 +8045,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 100000
-      },
-      {
-        "name": "◆CLg0DyMlvY",
-        "trip": "◆CLg0DyMlvY",
-        "money": 5190,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 2,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 5190
       },
       {
         "name": "8BbOZU9xVo",
@@ -8707,7 +8707,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -8718,7 +8718,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "花葬",
@@ -8961,6 +8961,22 @@
         "totalAssets": 1050
       },
       {
+        "name": "◆CLg0DyMlvY",
+        "trip": "◆CLg0DyMlvY",
+        "money": 6790,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 2,
+        "hunt": 2,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6790
+      },
+      {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
         "money": 480,
@@ -9055,22 +9071,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 100000
-      },
-      {
-        "name": "◆CLg0DyMlvY",
-        "trip": "◆CLg0DyMlvY",
-        "money": 5190,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 2,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 5190
       },
       {
         "name": "8BbOZU9xVo",
@@ -9941,7 +9941,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -9952,7 +9952,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -10101,18 +10101,18 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 5190,
+        "money": 6790,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
-        "mine": 1,
+        "fish": 2,
+        "mine": 2,
         "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5190
+        "totalAssets": 6790
       },
       {
         "name": "◆TiP5As2jNc",
@@ -11495,7 +11495,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -11506,7 +11506,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "ねこねこGyi",
@@ -11767,18 +11767,18 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 5190,
+        "money": 6790,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
-        "mine": 1,
+        "fish": 2,
+        "mine": 2,
         "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5190
+        "totalAssets": 6790
       },
       {
         "name": "◆TiP5As2jNc",
@@ -12345,7 +12345,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 3038968,
+        "money": 3838968,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -12356,7 +12356,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 3738968
+        "totalAssets": 4538968
       },
       {
         "name": "ウザいんボルト",
@@ -13193,18 +13193,18 @@
       {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
-        "money": 5190,
+        "money": 6790,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
-        "mine": 1,
+        "fish": 2,
+        "mine": 2,
         "hunt": 2,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5190
+        "totalAssets": 6790
       },
       {
         "name": "8BbOZU9xVo",
