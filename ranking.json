@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 14:41:03",
+  "updated": "2026-09-04 14:41:36",
   "users": [
     {
       "name": "◆38W/RINNE/Ir",
@@ -644,18 +644,18 @@
     {
       "name": "◆Salt/ZiKEE",
       "trip": "◆Salt/ZiKEE",
-      "money": 0,
-      "bank": 20000,
+      "money": 600,
+      "bank": 0,
       "loan": 100000,
-      "prestige": 8,
+      "prestige": 10,
       "fish": 50,
-      "mine": 0,
+      "mine": 1,
       "hunt": 0,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 20000
+      "totalAssets": 600
     },
     {
       "name": "◆JXdMWRWPis",
@@ -1925,6 +1925,22 @@
         "totalAssets": 750
       },
       {
+        "name": "◆Salt/ZiKEE",
+        "trip": "◆Salt/ZiKEE",
+        "money": 600,
+        "bank": 0,
+        "loan": 100000,
+        "prestige": 10,
+        "fish": 50,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 600
+      },
+      {
         "name": "◆6q/aPFgUQE",
         "trip": "◆6q/aPFgUQE",
         "money": 540,
@@ -2389,22 +2405,6 @@
         "totalAssets": 0
       },
       {
-        "name": "◆Salt/ZiKEE",
-        "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
-        "loan": 100000,
-        "prestige": 8,
-        "fish": 50,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 20000
-      },
-      {
         "name": "8BbOZU9xVo",
         "trip": "8BbOZU9xVo",
         "money": 0,
@@ -2629,22 +2629,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 24300
-      },
-      {
-        "name": "◆Salt/ZiKEE",
-        "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
-        "loan": 100000,
-        "prestige": 8,
-        "fish": 50,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 20000
       },
       {
         "name": "◆YKY/oEb8ps",
@@ -3221,6 +3205,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 40
+      },
+      {
+        "name": "◆Salt/ZiKEE",
+        "trip": "◆Salt/ZiKEE",
+        "money": 600,
+        "bank": 0,
+        "loan": 100000,
+        "prestige": 10,
+        "fish": 50,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 600
       },
       {
         "name": "◆JXdMWRWPis",
@@ -4411,18 +4411,18 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
+        "money": 600,
+        "bank": 0,
         "loan": 100000,
-        "prestige": 8,
+        "prestige": 10,
         "fish": 50,
-        "mine": 0,
+        "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 20000
+        "totalAssets": 600
       },
       {
         "name": "◆JXdMWRWPis",
@@ -5323,22 +5323,6 @@
         "totalAssets": 20381
       },
       {
-        "name": "◆Salt/ZiKEE",
-        "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
-        "loan": 100000,
-        "prestige": 8,
-        "fish": 50,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 20000
-      },
-      {
         "name": "◆merolyviyQ",
         "trip": "◆merolyviyQ",
         "money": 11950,
@@ -5737,6 +5721,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 750
+      },
+      {
+        "name": "◆Salt/ZiKEE",
+        "trip": "◆Salt/ZiKEE",
+        "money": 600,
+        "bank": 0,
+        "loan": 100000,
+        "prestige": 10,
+        "fish": 50,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 600
       },
       {
         "name": "◆38W/RINNE/Ir",
@@ -6287,18 +6287,18 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
+        "money": 600,
+        "bank": 0,
         "loan": 100000,
-        "prestige": 8,
+        "prestige": 10,
         "fish": 50,
-        "mine": 0,
+        "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 20000
+        "totalAssets": 600
       },
       {
         "name": "◆WBRXcNtpf.",
@@ -7521,18 +7521,18 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
+        "money": 600,
+        "bank": 0,
         "loan": 100000,
-        "prestige": 8,
+        "prestige": 10,
         "fish": 50,
-        "mine": 0,
+        "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 20000
+        "totalAssets": 600
       },
       {
         "name": "◆.mochida/.",
@@ -9185,6 +9185,22 @@
         "totalAssets": 8470
       },
       {
+        "name": "◆Salt/ZiKEE",
+        "trip": "◆Salt/ZiKEE",
+        "money": 600,
+        "bank": 0,
+        "loan": 100000,
+        "prestige": 10,
+        "fish": 50,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 600
+      },
+      {
         "name": "◆JXdMWRWPis",
         "trip": "◆JXdMWRWPis",
         "money": 100000,
@@ -9679,22 +9695,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 40
-      },
-      {
-        "name": "◆Salt/ZiKEE",
-        "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
-        "loan": 100000,
-        "prestige": 8,
-        "fish": 50,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 20000
       },
       {
         "name": "◆.PfiH.....",
@@ -10805,18 +10805,18 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
+        "money": 600,
+        "bank": 0,
         "loan": 100000,
-        "prestige": 8,
+        "prestige": 10,
         "fish": 50,
-        "mine": 0,
+        "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 20000
+        "totalAssets": 600
       },
       {
         "name": "◆.PfiH.....",
@@ -11895,18 +11895,18 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
+        "money": 600,
+        "bank": 0,
         "loan": 100000,
-        "prestige": 8,
+        "prestige": 10,
         "fish": 50,
-        "mine": 0,
+        "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 20000
+        "totalAssets": 600
       },
       {
         "name": "◆JXdMWRWPis",
@@ -12713,18 +12713,18 @@
       {
         "name": "◆Salt/ZiKEE",
         "trip": "◆Salt/ZiKEE",
-        "money": 0,
-        "bank": 20000,
+        "money": 600,
+        "bank": 0,
         "loan": 100000,
-        "prestige": 8,
+        "prestige": 10,
         "fish": 50,
-        "mine": 0,
+        "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 20000
+        "totalAssets": 600
       },
       {
         "name": "◆JXdMWRWPis",
