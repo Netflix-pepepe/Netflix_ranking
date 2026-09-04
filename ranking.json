@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 16:36:25",
+  "updated": "2026-09-04 16:36:59",
   "users": [
     {
       "name": "◆38W/RINNE/Ir",
@@ -436,18 +436,18 @@
     {
       "name": "◆Yatto1Muqg",
       "trip": "◆Yatto1Muqg",
-      "money": 380,
+      "money": 830,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
-      "fish": 1,
+      "fish": 2,
       "mine": 0,
       "hunt": 0,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 380
+      "totalAssets": 830
     },
     {
       "name": "aT8h0mfPXj",
@@ -1973,6 +1973,22 @@
         "totalAssets": 830
       },
       {
+        "name": "◆Yatto1Muqg",
+        "trip": "◆Yatto1Muqg",
+        "money": 830,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 830
+      },
+      {
         "name": "カスピアン",
         "trip": "◆JNeQdmAPvo",
         "money": 750,
@@ -2035,22 +2051,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 452
-      },
-      {
-        "name": "◆Yatto1Muqg",
-        "trip": "◆Yatto1Muqg",
-        "money": 380,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 380
       },
       {
         "name": "◆APEX//....",
@@ -3097,18 +3097,18 @@
       {
         "name": "◆Yatto1Muqg",
         "trip": "◆Yatto1Muqg",
-        "money": 380,
+        "money": 830,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 380
+        "totalAssets": 830
       },
       {
         "name": "aT8h0mfPXj",
@@ -4299,18 +4299,18 @@
       {
         "name": "◆Yatto1Muqg",
         "trip": "◆Yatto1Muqg",
-        "money": 380,
+        "money": 830,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 380
+        "totalAssets": 830
       },
       {
         "name": "aT8h0mfPXj",
@@ -5867,6 +5867,22 @@
         "totalAssets": 830
       },
       {
+        "name": "◆Yatto1Muqg",
+        "trip": "◆Yatto1Muqg",
+        "money": 830,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 830
+      },
+      {
         "name": "カスピアン",
         "trip": "◆JNeQdmAPvo",
         "money": 750,
@@ -5913,22 +5929,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 452
-      },
-      {
-        "name": "◆Yatto1Muqg",
-        "trip": "◆Yatto1Muqg",
-        "money": 380,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 380
       },
       {
         "name": "◆APEX//....",
@@ -6991,18 +6991,18 @@
       {
         "name": "◆Yatto1Muqg",
         "trip": "◆Yatto1Muqg",
-        "money": 380,
+        "money": 830,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 380
+        "totalAssets": 830
       },
       {
         "name": "aT8h0mfPXj",
@@ -8127,6 +8127,22 @@
         "totalAssets": 830
       },
       {
+        "name": "◆Yatto1Muqg",
+        "trip": "◆Yatto1Muqg",
+        "money": 830,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 830
+      },
+      {
         "name": "◆cbygD1MO9s",
         "trip": "◆cbygD1MO9s",
         "money": 230,
@@ -8253,22 +8269,6 @@
         "level": 0,
         "jobLevel": 3,
         "totalAssets": 4538968
-      },
-      {
-        "name": "◆Yatto1Muqg",
-        "trip": "◆Yatto1Muqg",
-        "money": 380,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 380
       },
       {
         "name": "◆3jPjHIQKEN3D",
@@ -9843,18 +9843,18 @@
       {
         "name": "◆Yatto1Muqg",
         "trip": "◆Yatto1Muqg",
-        "money": 380,
+        "money": 830,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 380
+        "totalAssets": 830
       },
       {
         "name": "aT8h0mfPXj",
@@ -10933,18 +10933,18 @@
       {
         "name": "◆Yatto1Muqg",
         "trip": "◆Yatto1Muqg",
-        "money": 380,
+        "money": 830,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 380
+        "totalAssets": 830
       },
       {
         "name": "aT8h0mfPXj",
@@ -11975,18 +11975,18 @@
       {
         "name": "◆Yatto1Muqg",
         "trip": "◆Yatto1Muqg",
-        "money": 380,
+        "money": 830,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 380
+        "totalAssets": 830
       },
       {
         "name": "aT8h0mfPXj",
@@ -13577,18 +13577,18 @@
       {
         "name": "◆Yatto1Muqg",
         "trip": "◆Yatto1Muqg",
-        "money": 380,
+        "money": 830,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 380
+        "totalAssets": 830
       },
       {
         "name": "aT8h0mfPXj",
