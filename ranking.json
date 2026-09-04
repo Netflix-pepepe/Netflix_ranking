@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 18:31:24",
+  "updated": "2026-09-04 18:31:58",
   "users": [
     {
       "name": "◆38W/RINNE/Ir",
@@ -516,7 +516,7 @@
     {
       "name": "◆b/Eiri/P.6",
       "trip": "◆b/Eiri/P.6",
-      "money": 19461,
+      "money": 20861,
       "bank": 22270,
       "loan": 0,
       "prestige": 4,
@@ -527,7 +527,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 41731
+      "totalAssets": 43131
     },
     {
       "name": "◆iljnc.vXMA",
@@ -1108,7 +1108,7 @@
     {
       "name": "obKt3js6yj",
       "trip": "obKt3js6yj",
-      "money": 240,
+      "money": 880,
       "bank": 0,
       "loan": 0,
       "prestige": 6,
@@ -1119,7 +1119,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 240
+      "totalAssets": 880
     },
     {
       "name": "FXAjQUR5lq",
@@ -1525,6 +1525,22 @@
         "totalAssets": 29450
       },
       {
+        "name": "◆b/Eiri/P.6",
+        "trip": "◆b/Eiri/P.6",
+        "money": 20861,
+        "bank": 22270,
+        "loan": 0,
+        "prestige": 4,
+        "fish": 39,
+        "mine": 5,
+        "hunt": 1,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 43131
+      },
+      {
         "name": "花葬",
         "trip": "◆flower.nXrpA",
         "money": 20381,
@@ -1539,22 +1555,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 20381
-      },
-      {
-        "name": "◆b/Eiri/P.6",
-        "trip": "◆b/Eiri/P.6",
-        "money": 19461,
-        "bank": 22270,
-        "loan": 0,
-        "prestige": 4,
-        "fish": 39,
-        "mine": 5,
-        "hunt": 1,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 41731
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -1973,6 +1973,22 @@
         "totalAssets": 923
       },
       {
+        "name": "obKt3js6yj",
+        "trip": "obKt3js6yj",
+        "money": 880,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 6,
+        "fish": 0,
+        "mine": 5,
+        "hunt": 0,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 880
+      },
+      {
         "name": "◆Deus/6vRqo",
         "trip": "◆Deus/6vRqo",
         "money": 830,
@@ -2131,22 +2147,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 265
-      },
-      {
-        "name": "obKt3js6yj",
-        "trip": "obKt3js6yj",
-        "money": 240,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 6,
-        "fish": 0,
-        "mine": 5,
-        "hunt": 0,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 240
       },
       {
         "name": "◆cbygD1MO9s",
@@ -2713,7 +2713,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -2724,7 +2724,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆YKY/oEb8ps",
@@ -3737,7 +3737,7 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 240,
+        "money": 880,
         "bank": 0,
         "loan": 0,
         "prestige": 6,
@@ -3748,7 +3748,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 240
+        "totalAssets": 880
       },
       {
         "name": "FXAjQUR5lq",
@@ -4427,7 +4427,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -4438,7 +4438,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆iljnc.vXMA",
@@ -5003,7 +5003,7 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 240,
+        "money": 880,
         "bank": 0,
         "loan": 0,
         "prestige": 6,
@@ -5014,7 +5014,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 240
+        "totalAssets": 880
       },
       {
         "name": "FXAjQUR5lq",
@@ -5453,7 +5453,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -5464,7 +5464,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆BHgJXI7OC7wR",
@@ -5915,6 +5915,22 @@
         "totalAssets": 923
       },
       {
+        "name": "obKt3js6yj",
+        "trip": "obKt3js6yj",
+        "money": 880,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 6,
+        "fish": 0,
+        "mine": 5,
+        "hunt": 0,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 880
+      },
+      {
         "name": "◆Deus/6vRqo",
         "trip": "◆Deus/6vRqo",
         "money": 830,
@@ -6057,22 +6073,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 265
-      },
-      {
-        "name": "obKt3js6yj",
-        "trip": "obKt3js6yj",
-        "money": 240,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 6,
-        "fish": 0,
-        "mine": 5,
-        "hunt": 0,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 240
       },
       {
         "name": "◆cbygD1MO9s",
@@ -6543,7 +6543,7 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 240,
+        "money": 880,
         "bank": 0,
         "loan": 0,
         "prestige": 6,
@@ -6554,7 +6554,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 240
+        "totalAssets": 880
       },
       {
         "name": "◆WBRXcNtpf.",
@@ -6575,7 +6575,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -6586,7 +6586,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆.wwwwwwww.",
@@ -7857,7 +7857,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -7868,7 +7868,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆Clo.itDF.pn7",
@@ -8993,7 +8993,7 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 240,
+        "money": 880,
         "bank": 0,
         "loan": 0,
         "prestige": 6,
@@ -9004,7 +9004,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 240
+        "totalAssets": 880
       },
       {
         "name": "FXAjQUR5lq",
@@ -9203,7 +9203,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -9214,7 +9214,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -9299,7 +9299,7 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 240,
+        "money": 880,
         "bank": 0,
         "loan": 0,
         "prestige": 6,
@@ -9310,7 +9310,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 240
+        "totalAssets": 880
       },
       {
         "name": "◆CLg0DyMlvY",
@@ -10693,7 +10693,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -10704,7 +10704,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆JXdMWRWPis",
@@ -11541,7 +11541,7 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 240,
+        "money": 880,
         "bank": 0,
         "loan": 0,
         "prestige": 6,
@@ -11552,7 +11552,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 240
+        "totalAssets": 880
       },
       {
         "name": "FXAjQUR5lq",
@@ -12199,7 +12199,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -12210,7 +12210,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆iljnc.vXMA",
@@ -12791,7 +12791,7 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 240,
+        "money": 880,
         "bank": 0,
         "loan": 0,
         "prestige": 6,
@@ -12802,7 +12802,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 240
+        "totalAssets": 880
       },
       {
         "name": "FXAjQUR5lq",
@@ -13129,7 +13129,7 @@
       {
         "name": "◆b/Eiri/P.6",
         "trip": "◆b/Eiri/P.6",
-        "money": 19461,
+        "money": 20861,
         "bank": 22270,
         "loan": 0,
         "prestige": 4,
@@ -13140,7 +13140,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 41731
+        "totalAssets": 43131
       },
       {
         "name": "◆iljnc.vXMA",
@@ -14153,7 +14153,7 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 240,
+        "money": 880,
         "bank": 0,
         "loan": 0,
         "prestige": 6,
@@ -14164,7 +14164,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 240
+        "totalAssets": 880
       },
       {
         "name": "FXAjQUR5lq",
