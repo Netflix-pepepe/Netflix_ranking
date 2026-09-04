@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 12:27:31",
+  "updated": "2026-09-04 12:28:08",
   "users": [
     {
       "name": "◆38W/RINNE/Ir",
@@ -510,7 +510,7 @@
       "title": "",
       "stockAssets": 0,
       "level": 0,
-      "jobLevel": 2,
+      "jobLevel": 1,
       "totalAssets": 25048
     },
     {
@@ -1473,7 +1473,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -3075,7 +3075,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -4277,7 +4277,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -5303,7 +5303,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -6841,7 +6841,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -7595,7 +7595,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -9597,7 +9597,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -10703,7 +10703,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -11761,7 +11761,7 @@
         "title": "",
         "stockAssets": 0,
         "level": 0,
-        "jobLevel": 2,
+        "jobLevel": 1,
         "totalAssets": 25048
       },
       {
@@ -12551,22 +12551,6 @@
         "totalAssets": 2243091
       },
       {
-        "name": "◆b/Eiri/P.6",
-        "trip": "◆b/Eiri/P.6",
-        "money": 25048,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 25,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 2,
-        "totalAssets": 25048
-      },
-      {
         "name": "◆Sak5.3ljP.",
         "trip": "◆Sak5.3ljP.",
         "money": 67951,
@@ -12661,6 +12645,22 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 91892
+      },
+      {
+        "name": "◆b/Eiri/P.6",
+        "trip": "◆b/Eiri/P.6",
+        "money": 25048,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 25,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 25048
       },
       {
         "name": "◆iljnc.vXMA",
