@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 08:47:15",
+  "updated": "2026-09-07 08:47:49",
   "users": [
     {
       "name": "はき",
@@ -468,7 +468,7 @@
     {
       "name": "◆23Efi/VAAQ",
       "trip": "◆23Efi/VAAQ",
-      "money": 4895,
+      "money": 6605,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
@@ -479,7 +479,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 4895
+      "totalAssets": 6605
     },
     {
       "name": "xusqFmBHbp",
@@ -1701,6 +1701,22 @@
         "totalAssets": 27720
       },
       {
+        "name": "◆23Efi/VAAQ",
+        "trip": "◆23Efi/VAAQ",
+        "money": 6605,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6605
+      },
+      {
         "name": "◆aaAaa/GSaJPt",
         "trip": "◆aaAaa/GSaJPt",
         "money": 6560,
@@ -1811,22 +1827,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5000
-      },
-      {
-        "name": "◆23Efi/VAAQ",
-        "trip": "◆23Efi/VAAQ",
-        "money": 4895,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 4895
       },
       {
         "name": "ねこねこGyi",
@@ -3209,7 +3209,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 4895,
+        "money": 6605,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -3220,7 +3220,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 4895
+        "totalAssets": 6605
       },
       {
         "name": "xusqFmBHbp",
@@ -4459,7 +4459,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 4895,
+        "money": 6605,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -4470,7 +4470,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 4895
+        "totalAssets": 6605
       },
       {
         "name": "xusqFmBHbp",
@@ -5739,6 +5739,22 @@
         "totalAssets": 8466
       },
       {
+        "name": "◆23Efi/VAAQ",
+        "trip": "◆23Efi/VAAQ",
+        "money": 6605,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6605
+      },
+      {
         "name": "◆aaAaa/GSaJPt",
         "trip": "◆aaAaa/GSaJPt",
         "money": 6560,
@@ -5849,22 +5865,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5000
-      },
-      {
-        "name": "◆23Efi/VAAQ",
-        "trip": "◆23Efi/VAAQ",
-        "money": 4895,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 4895
       },
       {
         "name": "Netflix",
@@ -7247,7 +7247,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 4895,
+        "money": 6605,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -7258,7 +7258,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 4895
+        "totalAssets": 6605
       },
       {
         "name": "xusqFmBHbp",
@@ -8897,7 +8897,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 4895,
+        "money": 6605,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -8908,7 +8908,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 4895
+        "totalAssets": 6605
       },
       {
         "name": "xusqFmBHbp",
@@ -10163,7 +10163,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 4895,
+        "money": 6605,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -10174,7 +10174,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 4895
+        "totalAssets": 6605
       },
       {
         "name": "xusqFmBHbp",
@@ -11381,7 +11381,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 4895,
+        "money": 6605,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -11392,7 +11392,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 4895
+        "totalAssets": 6605
       },
       {
         "name": "xusqFmBHbp",
@@ -12439,7 +12439,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 4895,
+        "money": 6605,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -12450,7 +12450,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 4895
+        "totalAssets": 6605
       },
       {
         "name": "xusqFmBHbp",
@@ -14025,7 +14025,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 4895,
+        "money": 6605,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -14036,7 +14036,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 4895
+        "totalAssets": 6605
       },
       {
         "name": "xusqFmBHbp",
