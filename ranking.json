@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 05:59:06",
+  "updated": "2026-09-07 05:59:42",
   "users": [
     {
       "name": "はき",
@@ -1220,10 +1220,10 @@
     {
       "name": "obKt3js6yj",
       "trip": "obKt3js6yj",
-      "money": 6825,
+      "money": 0,
       "bank": 0,
       "loan": 0,
-      "prestige": 11,
+      "prestige": 12,
       "fish": 0,
       "mine": 5,
       "hunt": 0,
@@ -1231,7 +1231,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 6825
+      "totalAssets": 0
     },
     {
       "name": "◆ZRTU9MXmjQ",
@@ -1683,22 +1683,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 27720
-      },
-      {
-        "name": "obKt3js6yj",
-        "trip": "obKt3js6yj",
-        "money": 6825,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 11,
-        "fish": 0,
-        "mine": 5,
-        "hunt": 0,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 6825
       },
       {
         "name": "◆aaAaa/GSaJPt",
@@ -2607,6 +2591,22 @@
         "mine": 0,
         "hunt": 0,
         "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 0
+      },
+      {
+        "name": "obKt3js6yj",
+        "trip": "obKt3js6yj",
+        "money": 0,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 12,
+        "fish": 0,
+        "mine": 5,
+        "hunt": 0,
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -3849,10 +3849,10 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 6825,
+        "money": 0,
         "bank": 0,
         "loan": 0,
-        "prestige": 11,
+        "prestige": 12,
         "fish": 0,
         "mine": 5,
         "hunt": 0,
@@ -3860,7 +3860,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 6825
+        "totalAssets": 0
       },
       {
         "name": "◆ZRTU9MXmjQ",
@@ -5163,10 +5163,10 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 6825,
+        "money": 0,
         "bank": 0,
         "loan": 0,
-        "prestige": 11,
+        "prestige": 12,
         "fish": 0,
         "mine": 5,
         "hunt": 0,
@@ -5174,7 +5174,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 6825
+        "totalAssets": 0
       },
       {
         "name": "◆ZRTU9MXmjQ",
@@ -5673,22 +5673,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 8466
-      },
-      {
-        "name": "obKt3js6yj",
-        "trip": "obKt3js6yj",
-        "money": 6825,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 11,
-        "fish": 0,
-        "mine": 5,
-        "hunt": 0,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 6825
       },
       {
         "name": "◆aaAaa/GSaJPt",
@@ -6555,6 +6539,22 @@
         "totalAssets": 0
       },
       {
+        "name": "obKt3js6yj",
+        "trip": "obKt3js6yj",
+        "money": 0,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 12,
+        "fish": 0,
+        "mine": 5,
+        "hunt": 0,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 0
+      },
+      {
         "name": "◆KM78/h7A5s",
         "trip": "◆KM78/h7A5s",
         "money": 0,
@@ -6607,10 +6607,10 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 6825,
+        "money": 0,
         "bank": 0,
         "loan": 0,
-        "prestige": 11,
+        "prestige": 12,
         "fish": 0,
         "mine": 5,
         "hunt": 0,
@@ -6618,7 +6618,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 6825
+        "totalAssets": 0
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -9137,10 +9137,10 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 6825,
+        "money": 0,
         "bank": 0,
         "loan": 0,
-        "prestige": 11,
+        "prestige": 12,
         "fish": 0,
         "mine": 5,
         "hunt": 0,
@@ -9148,7 +9148,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 6825
+        "totalAssets": 0
       },
       {
         "name": "◆KM78/h7A5s",
@@ -9411,10 +9411,10 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 6825,
+        "money": 0,
         "bank": 0,
         "loan": 0,
-        "prestige": 11,
+        "prestige": 12,
         "fish": 0,
         "mine": 5,
         "hunt": 0,
@@ -9422,7 +9422,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 6825
+        "totalAssets": 0
       },
       {
         "name": "◆YKY/oEb8ps",
@@ -11749,10 +11749,10 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 6825,
+        "money": 0,
         "bank": 0,
         "loan": 0,
-        "prestige": 11,
+        "prestige": 12,
         "fish": 0,
         "mine": 5,
         "hunt": 0,
@@ -11760,7 +11760,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 6825
+        "totalAssets": 0
       },
       {
         "name": "◆KM78/h7A5s",
@@ -13047,10 +13047,10 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 6825,
+        "money": 0,
         "bank": 0,
         "loan": 0,
-        "prestige": 11,
+        "prestige": 12,
         "fish": 0,
         "mine": 5,
         "hunt": 0,
@@ -13058,7 +13058,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 6825
+        "totalAssets": 0
       },
       {
         "name": "◆ZRTU9MXmjQ",
@@ -14377,10 +14377,10 @@
       {
         "name": "obKt3js6yj",
         "trip": "obKt3js6yj",
-        "money": 6825,
+        "money": 0,
         "bank": 0,
         "loan": 0,
-        "prestige": 11,
+        "prestige": 12,
         "fish": 0,
         "mine": 5,
         "hunt": 0,
@@ -14388,7 +14388,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 6825
+        "totalAssets": 0
       },
       {
         "name": "◆ZRTU9MXmjQ",
