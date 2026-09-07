@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 12:57:53",
+  "updated": "2026-09-07 12:58:27",
   "users": [
     {
       "name": "はき",
@@ -1028,8 +1028,8 @@
     {
       "name": "◆23Efi/VAAQ",
       "trip": "◆23Efi/VAAQ",
-      "money": 782150,
-      "bank": 0,
+      "money": 4373,
+      "bank": 777777,
       "loan": 0,
       "prestige": 0,
       "fish": 0,
@@ -1379,22 +1379,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 1350050
-      },
-      {
-        "name": "◆23Efi/VAAQ",
-        "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 782150
       },
       {
         "name": "◆Haru//CGUg",
@@ -1859,6 +1843,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5000
+      },
+      {
+        "name": "◆23Efi/VAAQ",
+        "trip": "◆23Efi/VAAQ",
+        "money": 4373,
+        "bank": 777777,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 782150
       },
       {
         "name": "ねこねこGyi",
@@ -2759,6 +2759,22 @@
         "totalAssets": 890120
       },
       {
+        "name": "◆23Efi/VAAQ",
+        "trip": "◆23Efi/VAAQ",
+        "money": 4373,
+        "bank": 777777,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 782150
+      },
+      {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
         "money": 633433,
@@ -3749,22 +3765,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 100000
-      },
-      {
-        "name": "◆23Efi/VAAQ",
-        "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 782150
       },
       {
         "name": "◆cbygD1MO9s",
@@ -5067,8 +5067,8 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
+        "money": 4373,
+        "bank": 777777,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -5501,8 +5501,8 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
+        "money": 4373,
+        "bank": 777777,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -7775,8 +7775,8 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
+        "money": 4373,
+        "bank": 777777,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -9281,8 +9281,8 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
+        "money": 4373,
+        "bank": 777777,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -10595,8 +10595,8 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
+        "money": 4373,
+        "bank": 777777,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -11861,8 +11861,8 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
+        "money": 4373,
+        "bank": 777777,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -13143,8 +13143,8 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
+        "money": 4373,
+        "bank": 777777,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -14553,8 +14553,8 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 782150,
-        "bank": 0,
+        "money": 4373,
+        "bank": 777777,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
