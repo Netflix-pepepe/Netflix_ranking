@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 11:02:30",
+  "updated": "2026-09-07 11:03:04",
   "users": [
     {
       "name": "はき",
@@ -468,7 +468,7 @@
     {
       "name": "◆23Efi/VAAQ",
       "trip": "◆23Efi/VAAQ",
-      "money": 465805,
+      "money": 467462,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
@@ -479,7 +479,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 465805
+      "totalAssets": 467462
     },
     {
       "name": "xusqFmBHbp",
@@ -836,7 +836,7 @@
     {
       "name": "◆Haru//CGUg",
       "trip": "◆Haru//CGUg",
-      "money": 232353,
+      "money": 233433,
       "bank": 700000,
       "loan": 0,
       "prestige": 98,
@@ -847,7 +847,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 3,
-      "totalAssets": 932353
+      "totalAssets": 933433
     },
     {
       "name": "WxM6vIpCbJ",
@@ -1044,18 +1044,18 @@
     {
       "name": "oJZDVbZqGj",
       "trip": "oJZDVbZqGj",
-      "money": 5300,
+      "money": 6300,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
       "fish": 0,
-      "mine": 1,
+      "mine": 2,
       "hunt": 1,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 5300
+      "totalAssets": 6300
     },
     {
       "name": "◆Fu6yaDENWA",
@@ -1383,7 +1383,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -1394,12 +1394,12 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -1410,7 +1410,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "◆Clo.itDF.pn7",
@@ -1749,6 +1749,22 @@
         "totalAssets": 6560
       },
       {
+        "name": "oJZDVbZqGj",
+        "trip": "oJZDVbZqGj",
+        "money": 6300,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 2,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6300
+      },
+      {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
         "money": 6165,
@@ -1827,22 +1843,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5360
-      },
-      {
-        "name": "oJZDVbZqGj",
-        "trip": "oJZDVbZqGj",
-        "money": 5300,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 1,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 5300
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -2761,7 +2761,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -2772,7 +2772,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "◆.mochida/.",
@@ -3241,7 +3241,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -3252,7 +3252,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "xusqFmBHbp",
@@ -3737,18 +3737,18 @@
       {
         "name": "oJZDVbZqGj",
         "trip": "oJZDVbZqGj",
-        "money": 5300,
+        "money": 6300,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
-        "mine": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5300
+        "totalAssets": 6300
       },
       {
         "name": "◆Fu6yaDENWA",
@@ -4507,7 +4507,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -4518,7 +4518,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "xusqFmBHbp",
@@ -4875,7 +4875,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -4886,7 +4886,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "WxM6vIpCbJ",
@@ -5083,18 +5083,18 @@
       {
         "name": "oJZDVbZqGj",
         "trip": "oJZDVbZqGj",
-        "money": 5300,
+        "money": 6300,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
-        "mine": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5300
+        "totalAssets": 6300
       },
       {
         "name": "◆Fu6yaDENWA",
@@ -5469,7 +5469,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -5480,7 +5480,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "◆6.........",
@@ -5501,7 +5501,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -5512,7 +5512,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "◆Udonz16KRzz.",
@@ -5835,6 +5835,22 @@
         "totalAssets": 6560
       },
       {
+        "name": "oJZDVbZqGj",
+        "trip": "oJZDVbZqGj",
+        "money": 6300,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 2,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6300
+      },
+      {
         "name": "◆CLg0DyMlvY",
         "trip": "◆CLg0DyMlvY",
         "money": 6165,
@@ -5913,22 +5929,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 5360
-      },
-      {
-        "name": "oJZDVbZqGj",
-        "trip": "oJZDVbZqGj",
-        "money": 5300,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 1,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 5300
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -6751,7 +6751,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -6762,7 +6762,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "obKt3js6yj",
@@ -7327,7 +7327,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -7338,7 +7338,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "xusqFmBHbp",
@@ -7791,18 +7791,18 @@
       {
         "name": "oJZDVbZqGj",
         "trip": "oJZDVbZqGj",
-        "money": 5300,
+        "money": 6300,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
-        "mine": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5300
+        "totalAssets": 6300
       },
       {
         "name": "◆Fu6yaDENWA",
@@ -8737,7 +8737,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -8748,7 +8748,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "◆5yxRP6vopI",
@@ -8993,7 +8993,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -9004,7 +9004,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "xusqFmBHbp",
@@ -9233,18 +9233,18 @@
       {
         "name": "oJZDVbZqGj",
         "trip": "oJZDVbZqGj",
-        "money": 5300,
+        "money": 6300,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
-        "mine": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5300
+        "totalAssets": 6300
       },
       {
         "name": "RS6ADCZiTj",
@@ -9555,7 +9555,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -9566,7 +9566,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "WxM6vIpCbJ",
@@ -9809,6 +9809,22 @@
         "totalAssets": 2027
       },
       {
+        "name": "oJZDVbZqGj",
+        "trip": "oJZDVbZqGj",
+        "money": 6300,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 2,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 6300
+      },
+      {
         "name": "w7OBibXCRy",
         "trip": "w7OBibXCRy",
         "money": 1050,
@@ -9983,22 +9999,6 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 8470
-      },
-      {
-        "name": "oJZDVbZqGj",
-        "trip": "oJZDVbZqGj",
-        "money": 5300,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 1,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 5300
       },
       {
         "name": "RS6ADCZiTj",
@@ -10291,7 +10291,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -10302,7 +10302,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "xusqFmBHbp",
@@ -10853,7 +10853,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -10864,7 +10864,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "WxM6vIpCbJ",
@@ -11125,18 +11125,18 @@
       {
         "name": "oJZDVbZqGj",
         "trip": "oJZDVbZqGj",
-        "money": 5300,
+        "money": 6300,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
-        "mine": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5300
+        "totalAssets": 6300
       },
       {
         "name": "◆Ad/aswuP1M",
@@ -11525,7 +11525,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -11536,7 +11536,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "xusqFmBHbp",
@@ -12583,7 +12583,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -12594,7 +12594,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "xusqFmBHbp",
@@ -12951,7 +12951,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -12962,7 +12962,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "WxM6vIpCbJ",
@@ -13159,18 +13159,18 @@
       {
         "name": "oJZDVbZqGj",
         "trip": "oJZDVbZqGj",
-        "money": 5300,
+        "money": 6300,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
-        "mine": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5300
+        "totalAssets": 6300
       },
       {
         "name": "◆Fu6yaDENWA",
@@ -13465,7 +13465,7 @@
       {
         "name": "◆Haru//CGUg",
         "trip": "◆Haru//CGUg",
-        "money": 232353,
+        "money": 233433,
         "bank": 700000,
         "loan": 0,
         "prestige": 98,
@@ -13476,7 +13476,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 3,
-        "totalAssets": 932353
+        "totalAssets": 933433
       },
       {
         "name": "◆.mochida/.",
@@ -14185,7 +14185,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 465805,
+        "money": 467462,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -14196,7 +14196,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 465805
+        "totalAssets": 467462
       },
       {
         "name": "xusqFmBHbp",
@@ -14569,18 +14569,18 @@
       {
         "name": "oJZDVbZqGj",
         "trip": "oJZDVbZqGj",
-        "money": 5300,
+        "money": 6300,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
-        "mine": 1,
+        "mine": 2,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 5300
+        "totalAssets": 6300
       },
       {
         "name": "◆Fu6yaDENWA",
