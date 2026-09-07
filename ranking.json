@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 13:02:59",
+  "updated": "2026-09-07 13:03:33",
   "users": [
     {
       "name": "はき",
@@ -1028,10 +1028,10 @@
     {
       "name": "◆23Efi/VAAQ",
       "trip": "◆23Efi/VAAQ",
-      "money": 0,
-      "bank": 547777,
+      "money": 10000,
+      "bank": 497777,
       "loan": 0,
-      "prestige": 21,
+      "prestige": 25,
       "fish": 0,
       "mine": 0,
       "hunt": 0,
@@ -1039,7 +1039,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 547777
+      "totalAssets": 507777
     },
     {
       "name": "◆cbygD1MO9s",
@@ -1683,6 +1683,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11550
+      },
+      {
+        "name": "◆23Efi/VAAQ",
+        "trip": "◆23Efi/VAAQ",
+        "money": 10000,
+        "bank": 497777,
+        "loan": 0,
+        "prestige": 25,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 507777
       },
       {
         "name": "◆iljnc.vXMA",
@@ -2613,22 +2629,6 @@
         "totalAssets": 0
       },
       {
-        "name": "◆23Efi/VAAQ",
-        "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
-        "loan": 0,
-        "prestige": 21,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 547777
-      },
-      {
         "name": "8BbOZU9xVo",
         "trip": "8BbOZU9xVo",
         "money": 0,
@@ -2777,10 +2777,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -2788,7 +2788,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "◆.mochida/.",
@@ -5067,10 +5067,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -5078,7 +5078,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "◆cbygD1MO9s",
@@ -5501,10 +5501,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -5512,7 +5512,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "◆Udonz16KRzz.",
@@ -6767,10 +6767,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -6778,7 +6778,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "obKt3js6yj",
@@ -9281,10 +9281,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -9292,7 +9292,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "eeOOmfjECG",
@@ -10595,10 +10595,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -10606,7 +10606,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "◆cbygD1MO9s",
@@ -11861,10 +11861,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -11872,7 +11872,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "◆cbygD1MO9s",
@@ -13143,10 +13143,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -13154,7 +13154,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "◆cbygD1MO9s",
@@ -14553,10 +14553,10 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 0,
-        "bank": 547777,
+        "money": 10000,
+        "bank": 497777,
         "loan": 0,
-        "prestige": 21,
+        "prestige": 25,
         "fish": 0,
         "mine": 0,
         "hunt": 0,
@@ -14564,7 +14564,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 547777
+        "totalAssets": 507777
       },
       {
         "name": "◆cbygD1MO9s",
