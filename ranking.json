@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 23:01:03",
+  "updated": "2026-09-21 23:01:44",
   "users": [
     {
       "name": "◆b/Eiri/P.6",
@@ -1444,18 +1444,18 @@
     {
       "name": "◆HaRi/wVRMgdx",
       "trip": "◆HaRi/wVRMgdx",
-      "money": 400,
+      "money": 5440,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
-      "fish": 1,
+      "fish": 2,
       "mine": 0,
-      "hunt": 0,
+      "hunt": 1,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 400
+      "totalAssets": 5440
     },
     {
       "name": "RS6ADCZiTj",
@@ -2021,6 +2021,22 @@
         "totalAssets": 5867
       },
       {
+        "name": "◆HaRi/wVRMgdx",
+        "trip": "◆HaRi/wVRMgdx",
+        "money": 5440,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 5440
+      },
+      {
         "name": "◆User/ow/G.",
         "trip": "◆User/ow/G.",
         "money": 5435,
@@ -2403,22 +2419,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 452
-      },
-      {
-        "name": "◆HaRi/wVRMgdx",
-        "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 400
       },
       {
         "name": "ケツ圧",
@@ -4457,18 +4457,18 @@
       {
         "name": "◆HaRi/wVRMgdx",
         "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
+        "money": 5440,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
-        "hunt": 0,
+        "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 400
+        "totalAssets": 5440
       },
       {
         "name": "RS6ADCZiTj",
@@ -5963,18 +5963,18 @@
       {
         "name": "◆HaRi/wVRMgdx",
         "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
+        "money": 5440,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
-        "hunt": 0,
+        "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 400
+        "totalAssets": 5440
       },
       {
         "name": "RS6ADCZiTj",
@@ -6587,6 +6587,22 @@
         "totalAssets": 5867
       },
       {
+        "name": "◆HaRi/wVRMgdx",
+        "trip": "◆HaRi/wVRMgdx",
+        "money": 5440,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 5440
+      },
+      {
         "name": "◆User/ow/G.",
         "trip": "◆User/ow/G.",
         "money": 5435,
@@ -6953,22 +6969,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 452
-      },
-      {
-        "name": "◆HaRi/wVRMgdx",
-        "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 400
       },
       {
         "name": "ケツ圧",
@@ -8975,18 +8975,18 @@
       {
         "name": "◆HaRi/wVRMgdx",
         "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
+        "money": 5440,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
-        "hunt": 0,
+        "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 400
+        "totalAssets": 5440
       },
       {
         "name": "RS6ADCZiTj",
@@ -9583,6 +9583,22 @@
         "totalAssets": 890120
       },
       {
+        "name": "◆HaRi/wVRMgdx",
+        "trip": "◆HaRi/wVRMgdx",
+        "money": 5440,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 5440
+      },
+      {
         "name": "Hx5CmD3Rrs",
         "trip": "Hx5CmD3Rrs",
         "money": 110,
@@ -9837,22 +9853,6 @@
         "level": 0,
         "jobLevel": 3,
         "totalAssets": 1333433
-      },
-      {
-        "name": "◆HaRi/wVRMgdx",
-        "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 400
       },
       {
         "name": "◆YJrpsBVNhY",
@@ -12003,18 +12003,18 @@
       {
         "name": "◆HaRi/wVRMgdx",
         "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
+        "money": 5440,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
-        "hunt": 0,
+        "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 400
+        "totalAssets": 5440
       },
       {
         "name": "TLelpbUTgz",
@@ -12481,6 +12481,22 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 300
+      },
+      {
+        "name": "◆HaRi/wVRMgdx",
+        "trip": "◆HaRi/wVRMgdx",
+        "money": 5440,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 5440
       },
       {
         "name": "Hx5CmD3Rrs",
@@ -13489,22 +13505,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 100000
-      },
-      {
-        "name": "◆HaRi/wVRMgdx",
-        "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 400
       },
       {
         "name": "RS6ADCZiTj",
@@ -14999,18 +14999,18 @@
       {
         "name": "◆HaRi/wVRMgdx",
         "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
+        "money": 5440,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
-        "hunt": 0,
+        "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 400
+        "totalAssets": 5440
       },
       {
         "name": "RS6ADCZiTj",
@@ -16505,18 +16505,18 @@
       {
         "name": "◆HaRi/wVRMgdx",
         "trip": "◆HaRi/wVRMgdx",
-        "money": 400,
+        "money": 5440,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
-        "hunt": 0,
+        "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 400
+        "totalAssets": 5440
       },
       {
         "name": "RS6ADCZiTj",
