@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 20:01:33",
+  "updated": "2026-10-02 20:02:16",
   "users": [
     {
       "name": "WxM6vIpCbJ",
@@ -656,6 +656,22 @@
       "level": 0,
       "jobLevel": 1,
       "totalAssets": 100000
+    },
+    {
+      "name": "◆kansen.Q4kGi",
+      "trip": "◆kansen.Q4kGi",
+      "money": 470,
+      "bank": 0,
+      "loan": 0,
+      "prestige": 0,
+      "fish": 6,
+      "mine": 0,
+      "hunt": 0,
+      "title": "",
+      "stockAssets": 0,
+      "level": 0,
+      "jobLevel": 0,
+      "totalAssets": 470
     },
     {
       "name": "◆6q/aPFgUQE",
@@ -1412,18 +1428,18 @@
     {
       "name": "◆Ad/aswuP1M",
       "trip": "◆Ad/aswuP1M",
-      "money": 340,
+      "money": 490,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
-      "fish": 1,
+      "fish": 2,
       "mine": 0,
       "hunt": 1,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 340
+      "totalAssets": 490
     },
     {
       "name": "◆cbygD1MO9s",
@@ -2389,6 +2405,22 @@
         "totalAssets": 91892
       },
       {
+        "name": "◆Ad/aswuP1M",
+        "trip": "◆Ad/aswuP1M",
+        "money": 490,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 490
+      },
+      {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
         "money": 480,
@@ -2405,6 +2437,22 @@
         "totalAssets": 480
       },
       {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
+      },
+      {
         "name": "◆.RngS8LZGk",
         "trip": "◆.RngS8LZGk",
         "money": 452,
@@ -2419,22 +2467,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 452
-      },
-      {
-        "name": "◆Ad/aswuP1M",
-        "trip": "◆Ad/aswuP1M",
-        "money": 340,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 340
       },
       {
         "name": "24jMftFMZE",
@@ -3767,6 +3799,22 @@
         "totalAssets": 100000
       },
       {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
+      },
+      {
         "name": "◆w2O75bhIM39G",
         "trip": "◆w2O75bhIM39G",
         "money": 13210,
@@ -4425,18 +4473,18 @@
       {
         "name": "◆Ad/aswuP1M",
         "trip": "◆Ad/aswuP1M",
-        "money": 340,
+        "money": 490,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 340
+        "totalAssets": 490
       },
       {
         "name": "◆cbygD1MO9s",
@@ -5175,6 +5223,22 @@
         "level": 0,
         "jobLevel": 1,
         "totalAssets": 100000
+      },
+      {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -5931,18 +5995,18 @@
       {
         "name": "◆Ad/aswuP1M",
         "trip": "◆Ad/aswuP1M",
-        "money": 340,
+        "money": 490,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 340
+        "totalAssets": 490
       },
       {
         "name": "◆cbygD1MO9s",
@@ -6939,6 +7003,22 @@
         "totalAssets": 750
       },
       {
+        "name": "◆Ad/aswuP1M",
+        "trip": "◆Ad/aswuP1M",
+        "money": 490,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 490
+      },
+      {
         "name": "◆38W/RINNE/Ir",
         "trip": "◆38W/RINNE/Ir",
         "money": 480,
@@ -6955,6 +7035,22 @@
         "totalAssets": 480
       },
       {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
+      },
+      {
         "name": "◆.RngS8LZGk",
         "trip": "◆.RngS8LZGk",
         "money": 452,
@@ -6969,22 +7065,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 452
-      },
-      {
-        "name": "◆Ad/aswuP1M",
-        "trip": "◆Ad/aswuP1M",
-        "money": 340,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 340
       },
       {
         "name": "24jMftFMZE",
@@ -8317,6 +8397,22 @@
         "totalAssets": 100000
       },
       {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
+      },
+      {
         "name": "◆w2O75bhIM39G",
         "trip": "◆w2O75bhIM39G",
         "money": 13210,
@@ -8943,18 +9039,18 @@
       {
         "name": "◆Ad/aswuP1M",
         "trip": "◆Ad/aswuP1M",
-        "money": 340,
+        "money": 490,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 340
+        "totalAssets": 490
       },
       {
         "name": "◆cbygD1MO9s",
@@ -9375,6 +9471,22 @@
         "totalAssets": 27720
       },
       {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
+      },
+      {
         "name": "◆.PfiH.....",
         "trip": "◆.PfiH.....",
         "money": 2331,
@@ -9581,6 +9693,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 890120
+      },
+      {
+        "name": "◆Ad/aswuP1M",
+        "trip": "◆Ad/aswuP1M",
+        "money": 490,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 0,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 490
       },
       {
         "name": "◆cbygD1MO9s",
@@ -9853,22 +9981,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 1000
-      },
-      {
-        "name": "◆Ad/aswuP1M",
-        "trip": "◆Ad/aswuP1M",
-        "money": 340,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 0,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 340
       },
       {
         "name": "◆xGgA7c3w5A",
@@ -11553,6 +11665,22 @@
         "totalAssets": 30
       },
       {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
+      },
+      {
         "name": "QSUXLxzPyD",
         "trip": "QSUXLxzPyD",
         "money": 5360,
@@ -11987,18 +12115,18 @@
       {
         "name": "◆Ad/aswuP1M",
         "trip": "◆Ad/aswuP1M",
-        "money": 340,
+        "money": 490,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 340
+        "totalAssets": 490
       },
       {
         "name": "◆cbygD1MO9s",
@@ -12485,18 +12613,18 @@
       {
         "name": "◆Ad/aswuP1M",
         "trip": "◆Ad/aswuP1M",
-        "money": 340,
+        "money": 490,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 340
+        "totalAssets": 490
       },
       {
         "name": "xusqFmBHbp",
@@ -12913,6 +13041,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 30
+      },
+      {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
       },
       {
         "name": "QSUXLxzPyD",
@@ -14213,6 +14357,22 @@
         "totalAssets": 100000
       },
       {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
+      },
+      {
         "name": "◆6q/aPFgUQE",
         "trip": "◆6q/aPFgUQE",
         "money": 540,
@@ -14967,18 +15127,18 @@
       {
         "name": "◆Ad/aswuP1M",
         "trip": "◆Ad/aswuP1M",
-        "money": 340,
+        "money": 490,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 340
+        "totalAssets": 490
       },
       {
         "name": "◆cbygD1MO9s",
@@ -15561,18 +15721,18 @@
       {
         "name": "◆Ad/aswuP1M",
         "trip": "◆Ad/aswuP1M",
-        "money": 340,
+        "money": 490,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 0,
         "hunt": 1,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 340
+        "totalAssets": 490
       },
       {
         "name": "◆38W/RINNE/Ir",
@@ -15973,6 +16133,22 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 30
+      },
+      {
+        "name": "◆kansen.Q4kGi",
+        "trip": "◆kansen.Q4kGi",
+        "money": 470,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 6,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 470
       },
       {
         "name": "◆ZRTU9MXmjQ",
