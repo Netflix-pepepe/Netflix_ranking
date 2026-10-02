@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 22:52:34",
+  "updated": "2026-10-02 22:53:09",
   "users": [
     {
       "name": "WxM6vIpCbJ",
@@ -1236,7 +1236,7 @@
     {
       "name": "◆YKY/oEb8ps",
       "trip": "◆YKY/oEb8ps",
-      "money": 10802,
+      "money": 12783,
       "bank": 20000,
       "loan": 0,
       "prestige": 0,
@@ -1247,7 +1247,7 @@
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
-      "totalAssets": 30802
+      "totalAssets": 32783
     },
     {
       "name": "rOwsNt274U",
@@ -1877,6 +1877,22 @@
         "totalAssets": 13200
       },
       {
+        "name": "◆YKY/oEb8ps",
+        "trip": "◆YKY/oEb8ps",
+        "money": 12783,
+        "bank": 20000,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 10,
+        "mine": 4,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "totalAssets": 32783
+      },
+      {
         "name": "◆merolyviyQ",
         "trip": "◆merolyviyQ",
         "money": 11950,
@@ -1907,22 +1923,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11550
-      },
-      {
-        "name": "◆YKY/oEb8ps",
-        "trip": "◆YKY/oEb8ps",
-        "money": 10802,
-        "bank": 20000,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 10,
-        "mine": 4,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "totalAssets": 30802
       },
       {
         "name": "◆iljnc.vXMA",
@@ -3193,7 +3193,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -3204,7 +3204,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "WxM6vIpCbJ",
@@ -5803,7 +5803,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -5814,7 +5814,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "rOwsNt274U",
@@ -6397,7 +6397,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -6408,7 +6408,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "まよねず",
@@ -8863,7 +8863,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -8874,7 +8874,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "rOwsNt274U",
@@ -9425,7 +9425,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -9436,7 +9436,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "Netflix",
@@ -10915,7 +10915,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -10926,7 +10926,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "◆.wwwwwwww.",
@@ -12597,7 +12597,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -12608,7 +12608,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "◆Ad/aswuP1M",
@@ -14935,7 +14935,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -14946,7 +14946,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "rOwsNt274U",
@@ -15657,7 +15657,7 @@
       {
         "name": "◆YKY/oEb8ps",
         "trip": "◆YKY/oEb8ps",
-        "money": 10802,
+        "money": 12783,
         "bank": 20000,
         "loan": 0,
         "prestige": 0,
@@ -15668,7 +15668,7 @@
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
-        "totalAssets": 30802
+        "totalAssets": 32783
       },
       {
         "name": "rOwsNt274U",
