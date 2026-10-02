@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03 02:30:49",
+  "updated": "2026-10-03 02:31:23",
   "users": [
     {
       "name": "WxM6vIpCbJ",
@@ -468,18 +468,18 @@
     {
       "name": "◆4Vsmexq/yg",
       "trip": "◆4Vsmexq/yg",
-      "money": 90,
+      "money": 390,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
-      "fish": 1,
+      "fish": 2,
       "mine": 1,
       "hunt": 0,
       "title": "",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
-      "totalAssets": 90
+      "totalAssets": 390
     },
     {
       "name": "◆KM78/h7A5s",
@@ -2501,6 +2501,22 @@
         "totalAssets": 452
       },
       {
+        "name": "◆4Vsmexq/yg",
+        "trip": "◆4Vsmexq/yg",
+        "money": 390,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 390
+      },
+      {
         "name": "24jMftFMZE",
         "trip": "24jMftFMZE",
         "money": 300,
@@ -2643,22 +2659,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 100
-      },
-      {
-        "name": "◆4Vsmexq/yg",
-        "trip": "◆4Vsmexq/yg",
-        "money": 90,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 90
       },
       {
         "name": "◆.wwwwwwww.",
@@ -3673,18 +3673,18 @@
       {
         "name": "◆4Vsmexq/yg",
         "trip": "◆4Vsmexq/yg",
-        "money": 90,
+        "money": 390,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 90
+        "totalAssets": 390
       },
       {
         "name": "◆KM78/h7A5s",
@@ -5131,18 +5131,18 @@
       {
         "name": "◆4Vsmexq/yg",
         "trip": "◆4Vsmexq/yg",
-        "money": 90,
+        "money": 390,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 90
+        "totalAssets": 390
       },
       {
         "name": "◆KM78/h7A5s",
@@ -7195,6 +7195,22 @@
         "totalAssets": 452
       },
       {
+        "name": "◆4Vsmexq/yg",
+        "trip": "◆4Vsmexq/yg",
+        "money": 390,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 390
+      },
+      {
         "name": "24jMftFMZE",
         "trip": "24jMftFMZE",
         "money": 300,
@@ -7321,22 +7337,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 100
-      },
-      {
-        "name": "◆4Vsmexq/yg",
-        "trip": "◆4Vsmexq/yg",
-        "money": 90,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 90
       },
       {
         "name": "9byyBhJjoQ",
@@ -8367,18 +8367,18 @@
       {
         "name": "◆4Vsmexq/yg",
         "trip": "◆4Vsmexq/yg",
-        "money": 90,
+        "money": 390,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 90
+        "totalAssets": 390
       },
       {
         "name": "◆KM78/h7A5s",
@@ -9887,6 +9887,22 @@
         "totalAssets": 830
       },
       {
+        "name": "◆4Vsmexq/yg",
+        "trip": "◆4Vsmexq/yg",
+        "money": 390,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 2,
+        "mine": 1,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "totalAssets": 390
+      },
+      {
         "name": "◆6.........",
         "trip": "◆6.........",
         "money": 120,
@@ -9997,22 +10013,6 @@
         "level": 0,
         "jobLevel": 0,
         "totalAssets": 11950
-      },
-      {
-        "name": "◆4Vsmexq/yg",
-        "trip": "◆4Vsmexq/yg",
-        "money": 90,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "totalAssets": 90
       },
       {
         "name": "◆iymwDKZsfgHC",
@@ -11411,18 +11411,18 @@
       {
         "name": "◆4Vsmexq/yg",
         "trip": "◆4Vsmexq/yg",
-        "money": 90,
+        "money": 390,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 90
+        "totalAssets": 390
       },
       {
         "name": "◆fumeiyo.t3cg",
@@ -13141,18 +13141,18 @@
       {
         "name": "◆4Vsmexq/yg",
         "trip": "◆4Vsmexq/yg",
-        "money": 90,
+        "money": 390,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 90
+        "totalAssets": 390
       },
       {
         "name": "◆KM78/h7A5s",
@@ -14455,18 +14455,18 @@
       {
         "name": "◆4Vsmexq/yg",
         "trip": "◆4Vsmexq/yg",
-        "money": 90,
+        "money": 390,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 90
+        "totalAssets": 390
       },
       {
         "name": "◆KM78/h7A5s",
@@ -16345,18 +16345,18 @@
       {
         "name": "◆4Vsmexq/yg",
         "trip": "◆4Vsmexq/yg",
-        "money": 90,
+        "money": 390,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
-        "fish": 1,
+        "fish": 2,
         "mine": 1,
         "hunt": 0,
         "title": "",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
-        "totalAssets": 90
+        "totalAssets": 390
       },
       {
         "name": "c4PcTtxnqi",
