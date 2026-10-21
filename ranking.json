@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 18:44:12",
+  "updated": "2026-10-21 18:44:49",
   "users": [
     {
       "name": "◆WBRXcNtpf.",
@@ -544,7 +544,7 @@
     {
       "name": "◆rxm22YXNZU",
       "trip": "◆rxm22YXNZU",
-      "money": 334058,
+      "money": 384058,
       "bank": 4464,
       "loan": 0,
       "prestige": 2,
@@ -584,7 +584,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 338522
+      "totalAssets": 388522
     },
     {
       "name": "◆Peach7G..k6f",
@@ -1219,7 +1219,7 @@
     {
       "name": "◆gg.bro0B2ly8",
       "trip": "◆gg.bro0B2ly8",
-      "money": 139637,
+      "money": 89637,
       "bank": 180000,
       "loan": 0,
       "prestige": 4,
@@ -1259,7 +1259,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 573397
+      "totalAssets": 523397
     },
     {
       "name": "◆wwwwwwtWWI",
@@ -4279,8 +4279,8 @@
   ],
   "stockRankingHistory": [
     {
-      "time": 1792575852,
-      "updated": "2026-10-21 18:44:12",
+      "time": 1792575889,
+      "updated": "2026-10-21 18:44:49",
       "rows": [
         {
           "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
@@ -5090,7 +5090,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -5130,7 +5130,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆zaservantQ",
@@ -5221,51 +5221,6 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 146289
-      },
-      {
-        "name": "◆gg.bro0B2ly8",
-        "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
-        "bank": 180000,
-        "loan": 0,
-        "prestige": 4,
-        "fish": 70,
-        "mine": 5,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 253760,
-        "level": 0,
-        "jobLevel": 3,
-        "stockCount": 130,
-        "shortAssets": 0,
-        "stockDividends": 536,
-        "stockRealizedProfit": 0,
-        "titleCount": 1,
-        "casinoGames": 19,
-        "casinoWins": 6,
-        "casinoLosses": 13,
-        "casinoWagered": 607000,
-        "casinoPayout": 488000,
-        "casinoProfit": -119000,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 19,
-        "blackjackWins": 6,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 573397
       },
       {
         "name": "◆b/Eiri/P.6",
@@ -5491,6 +5446,51 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 100000
+      },
+      {
+        "name": "◆gg.bro0B2ly8",
+        "trip": "◆gg.bro0B2ly8",
+        "money": 89637,
+        "bank": 180000,
+        "loan": 0,
+        "prestige": 4,
+        "fish": 70,
+        "mine": 5,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 253760,
+        "level": 0,
+        "jobLevel": 3,
+        "stockCount": 130,
+        "shortAssets": 0,
+        "stockDividends": 536,
+        "stockRealizedProfit": 0,
+        "titleCount": 1,
+        "casinoGames": 19,
+        "casinoWins": 6,
+        "casinoLosses": 13,
+        "casinoWagered": 607000,
+        "casinoPayout": 488000,
+        "casinoProfit": -119000,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 19,
+        "blackjackWins": 6,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 523397
       },
       {
         "name": "◆Sak5.3ljP.",
@@ -9457,7 +9457,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -9497,7 +9497,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆.mochida/.",
@@ -9817,7 +9817,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -9857,7 +9857,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆23Efi/VAAQ",
@@ -13509,7 +13509,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -13549,7 +13549,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆RionIHRwfA",
@@ -14274,7 +14274,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -14314,7 +14314,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -18056,7 +18056,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -18096,12 +18096,12 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -18141,7 +18141,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆zaservantQ",
@@ -22333,7 +22333,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -22373,7 +22373,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆b/Eiri/P.6",
@@ -22423,7 +22423,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -22463,7 +22463,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆6q/aPFgUQE",
@@ -26385,7 +26385,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -26425,12 +26425,12 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -26470,7 +26470,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -30617,7 +30617,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -30657,7 +30657,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -30932,7 +30932,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -30972,7 +30972,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆4Vsmexq/yg",
@@ -34939,7 +34939,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -34979,7 +34979,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Clo.itDF.pn7",
@@ -35209,7 +35209,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -35249,7 +35249,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆HaRi/wVRMgdx",
@@ -39711,7 +39711,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -39751,7 +39751,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -40386,7 +40386,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -40426,7 +40426,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -43448,7 +43448,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -43488,7 +43488,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆Haru//CGUg",
@@ -43898,7 +43898,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -43938,7 +43938,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -51505,7 +51505,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -51545,7 +51545,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆RionIHRwfA",
@@ -51955,7 +51955,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -51995,14 +51995,14 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       }
     ],
     "casinoGames": [
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -52042,7 +52042,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆Ad/aswuP1M",
@@ -52317,7 +52317,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -52357,7 +52357,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Q82a5WXyvs",
@@ -56279,7 +56279,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -56319,7 +56319,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆x7oTol796I",
@@ -56999,7 +56999,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -57039,7 +57039,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -60691,7 +60691,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -60731,7 +60731,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆WBRXcNtpf.",
@@ -61276,7 +61276,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -61316,7 +61316,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -64833,7 +64833,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -64873,7 +64873,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆XSMyp0GGuY",
@@ -65418,7 +65418,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -65458,7 +65458,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆WBRXcNtpf.",
@@ -69110,7 +69110,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -69150,7 +69150,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆x7oTol796I",
@@ -69830,7 +69830,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -69870,7 +69870,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -73927,7 +73927,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -73967,7 +73967,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -74602,7 +74602,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -74642,7 +74642,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -78204,7 +78204,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -78244,7 +78244,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -78879,7 +78879,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -78919,7 +78919,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -82481,7 +82481,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -82521,7 +82521,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -83156,7 +83156,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -83196,7 +83196,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -86758,7 +86758,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -86798,7 +86798,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -87433,7 +87433,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -87473,7 +87473,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -91035,7 +91035,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -91075,7 +91075,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -91710,7 +91710,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -91750,7 +91750,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -95312,7 +95312,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -95352,7 +95352,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -95987,7 +95987,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -96027,7 +96027,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -99049,7 +99049,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -99089,7 +99089,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆kansen.Q4kGi",
@@ -99814,7 +99814,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -99854,7 +99854,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -103866,7 +103866,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -103906,7 +103906,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -104541,7 +104541,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -104581,7 +104581,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -108143,7 +108143,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -108183,7 +108183,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -108818,7 +108818,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -108858,7 +108858,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
@@ -111970,7 +111970,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -112010,7 +112010,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆HT80rhXNk6",
@@ -112645,7 +112645,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -112685,7 +112685,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -116292,7 +116292,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -116332,7 +116332,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -116652,7 +116652,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -116692,7 +116692,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆HaRi/wVRMgdx",
@@ -120479,7 +120479,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -120519,12 +120519,12 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -120564,7 +120564,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆.mochida/.",
@@ -125836,7 +125836,7 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 334058,
+        "money": 384058,
         "bank": 4464,
         "loan": 0,
         "prestige": 2,
@@ -125876,7 +125876,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 338522
+        "totalAssets": 388522
       },
       {
         "name": "◆Peach7G..k6f",
@@ -126421,7 +126421,7 @@
       {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
-        "money": 139637,
+        "money": 89637,
         "bank": 180000,
         "loan": 0,
         "prestige": 4,
@@ -126461,7 +126461,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 573397
+        "totalAssets": 523397
       },
       {
         "name": "◆wwwwwwtWWI",
