@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 07:44:47",
+  "updated": "2026-10-23 07:45:19",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -1270,6 +1270,32 @@
     {
       "time": 1792709087,
       "updated": "2026-10-23 07:44:47",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792709119,
+      "updated": "2026-10-23 07:45:19",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792709119,
+      "updated": "2026-10-23 07:45:19",
       "rows": [
         {
           "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
