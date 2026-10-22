@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 08:38:01",
+  "updated": "2026-10-23 08:38:35",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -48,32 +48,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792709083,
-      "updated": "2026-10-23 07:44:43",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792709087,
-      "updated": "2026-10-23 07:44:47",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792709087,
       "updated": "2026-10-23 07:44:47",
@@ -2638,6 +2612,32 @@
     {
       "time": 1792712281,
       "updated": "2026-10-23 08:38:01",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792712315,
+      "updated": "2026-10-23 08:38:35",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792712315,
+      "updated": "2026-10-23 08:38:35",
       "rows": [
         {
           "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
