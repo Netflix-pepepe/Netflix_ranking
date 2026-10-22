@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 07:59:07",
+  "updated": "2026-10-23 07:59:40",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -48,16 +48,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1791002263,
-      "updated": "2026-10-03 13:37:43",
-      "rows": []
-    },
-    {
-      "time": 1791002263,
-      "updated": "2026-10-03 13:37:43",
-      "rows": []
-    },
     {
       "time": 1791002264,
       "updated": "2026-10-03 13:37:44",
@@ -1814,6 +1804,32 @@
     {
       "time": 1792709947,
       "updated": "2026-10-23 07:59:07",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792709980,
+      "updated": "2026-10-23 07:59:40",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792709980,
+      "updated": "2026-10-23 07:59:40",
       "rows": [
         {
           "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
