@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 09:00:18",
+  "updated": "2026-10-23 09:00:52",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -94,8 +94,8 @@
     {
       "name": "◆l.y.g.V...",
       "trip": "◆l.y.g.V...",
-      "money": 21370,
-      "bank": 0,
+      "money": 10000,
+      "bank": 11370,
       "loan": 0,
       "prestige": 0,
       "fish": 0,
@@ -183,71 +183,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792711145,
-      "updated": "2026-10-23 08:19:05",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711145,
-      "updated": "2026-10-23 08:19:05",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711178,
-      "updated": "2026-10-23 08:19:38",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711178,
-      "updated": "2026-10-23 08:19:38",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711212,
-      "updated": "2026-10-23 08:20:12",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792711212,
       "updated": "2026-10-23 08:20:12",
@@ -3881,6 +3816,176 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792713618,
+      "updated": "2026-10-23 09:00:18",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713625,
+      "updated": "2026-10-23 09:00:25",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713625,
+      "updated": "2026-10-23 09:00:25",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713652,
+      "updated": "2026-10-23 09:00:52",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713652,
+      "updated": "2026-10-23 09:00:52",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -3888,8 +3993,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -4068,6 +4173,51 @@
     ],
     "bank": [
       {
+        "name": "◆l.y.g.V...",
+        "trip": "◆l.y.g.V...",
+        "money": 10000,
+        "bank": 11370,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 3,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 1,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 21370
+      },
+      {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
         "money": 0,
@@ -4156,51 +4306,6 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 5000
-      },
-      {
-        "name": "◆l.y.g.V...",
-        "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 3,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 1,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 21370
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -4342,8 +4447,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -4434,8 +4539,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -4706,8 +4811,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -4933,8 +5038,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -4980,8 +5085,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -5162,8 +5267,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -5434,8 +5539,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -5571,8 +5676,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -5798,8 +5903,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -5980,8 +6085,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -6162,8 +6267,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -6344,8 +6449,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -6526,8 +6631,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -6708,8 +6813,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -6890,8 +6995,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -7072,8 +7177,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -7254,8 +7359,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -7436,8 +7541,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -7618,8 +7723,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -7800,8 +7905,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -7982,8 +8087,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -8164,8 +8269,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -8346,8 +8451,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -8528,8 +8633,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -8620,8 +8725,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -8802,8 +8907,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
@@ -9074,8 +9179,8 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 21370,
-        "bank": 0,
+        "money": 10000,
+        "bank": 11370,
         "loan": 0,
         "prestige": 0,
         "fish": 0,
