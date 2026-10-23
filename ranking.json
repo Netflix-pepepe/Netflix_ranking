@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 18:01:25",
+  "updated": "2026-10-23 18:02:02",
   "users": [
     {
       "name": "◆ALom.A/WoWoW",
@@ -139,7 +139,7 @@
     {
       "name": "◆l.y.g.V...",
       "trip": "◆l.y.g.V...",
-      "money": 47553,
+      "money": 67623,
       "bank": 6600,
       "loan": 0,
       "prestige": 4,
@@ -155,15 +155,15 @@
       "stockDividends": 0,
       "stockRealizedProfit": 0,
       "titleCount": 1,
-      "casinoGames": 2,
-      "casinoWins": 1,
+      "casinoGames": 3,
+      "casinoWins": 2,
       "casinoLosses": 1,
-      "casinoWagered": 30000,
-      "casinoPayout": 40000,
-      "casinoProfit": 10000,
+      "casinoWagered": 40000,
+      "casinoPayout": 60000,
+      "casinoProfit": 20000,
       "casinoBestMultiplier": 0.0,
-      "blackjackGames": 2,
-      "blackjackWins": 1,
+      "blackjackGames": 3,
+      "blackjackWins": 2,
       "rouletteGames": 0,
       "rouletteWins": 0,
       "slotGames": 0,
@@ -179,7 +179,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 54153
+      "totalAssets": 74223
     },
     {
       "name": "◆AGAi.SC9SxCn",
@@ -228,176 +228,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792743935,
-      "updated": "2026-10-23 17:25:35",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792743935,
-      "updated": "2026-10-23 17:25:35",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792743970,
-      "updated": "2026-10-23 17:26:10",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792743970,
-      "updated": "2026-10-23 17:26:10",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792744006,
-      "updated": "2026-10-23 17:26:46",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792744006,
       "updated": "2026-10-23 17:26:46",
@@ -7874,6 +7704,211 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792746094,
+      "updated": "2026-10-23 18:01:34",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792746097,
+      "updated": "2026-10-23 18:01:37",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792746122,
+      "updated": "2026-10-23 18:02:02",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792746122,
+      "updated": "2026-10-23 18:02:02",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792746122,
+      "updated": "2026-10-23 18:02:02",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -7881,7 +7916,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -7897,15 +7932,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -7921,7 +7956,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -8153,7 +8188,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -8169,15 +8204,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -8193,7 +8228,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -8470,7 +8505,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -8486,15 +8521,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -8510,7 +8545,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8562,7 +8597,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -8578,15 +8613,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -8602,7 +8637,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆Sigma.fbis",
@@ -8834,7 +8869,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -8850,15 +8885,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -8874,7 +8909,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -9061,7 +9096,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -9077,15 +9112,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -9101,7 +9136,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9288,7 +9323,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -9304,15 +9339,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -9328,7 +9363,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -9515,7 +9550,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -9531,15 +9566,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -9555,7 +9590,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -9832,7 +9867,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -9848,15 +9883,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -9872,7 +9907,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9969,7 +10004,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -9985,15 +10020,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -10009,7 +10044,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -10151,7 +10186,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -10167,15 +10202,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -10191,7 +10226,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -10378,7 +10413,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -10394,15 +10429,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -10418,7 +10453,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -10605,7 +10640,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -10621,15 +10656,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -10645,7 +10680,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -10832,7 +10867,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -10848,15 +10883,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -10872,7 +10907,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -11059,7 +11094,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -11075,15 +11110,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -11099,7 +11134,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -11286,7 +11321,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -11302,15 +11337,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -11326,7 +11361,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -11648,7 +11683,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -11664,15 +11699,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -11688,7 +11723,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -11875,7 +11910,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -11891,15 +11926,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -11915,7 +11950,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -12102,7 +12137,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -12118,15 +12153,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -12142,7 +12177,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -12329,7 +12364,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -12345,15 +12380,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -12369,7 +12404,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -12556,7 +12591,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -12572,15 +12607,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -12596,7 +12631,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -12783,7 +12818,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -12799,15 +12834,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -12823,7 +12858,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -13010,7 +13045,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -13026,15 +13061,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -13050,7 +13085,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -13237,7 +13272,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -13253,15 +13288,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -13277,7 +13312,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -13464,7 +13499,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -13480,15 +13515,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -13504,7 +13539,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -13691,7 +13726,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -13707,15 +13742,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -13731,7 +13766,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -13828,7 +13863,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -13844,15 +13879,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -13868,7 +13903,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -14055,7 +14090,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -14071,15 +14106,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -14095,7 +14130,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -14372,7 +14407,7 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 47553,
+        "money": 67623,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
@@ -14388,15 +14423,15 @@
         "stockDividends": 0,
         "stockRealizedProfit": 0,
         "titleCount": 1,
-        "casinoGames": 2,
-        "casinoWins": 1,
+        "casinoGames": 3,
+        "casinoWins": 2,
         "casinoLosses": 1,
-        "casinoWagered": 30000,
-        "casinoPayout": 40000,
-        "casinoProfit": 10000,
+        "casinoWagered": 40000,
+        "casinoPayout": 60000,
+        "casinoProfit": 20000,
         "casinoBestMultiplier": 0.0,
-        "blackjackGames": 2,
-        "blackjackWins": 1,
+        "blackjackGames": 3,
+        "blackjackWins": 2,
         "rouletteGames": 0,
         "rouletteWins": 0,
         "slotGames": 0,
@@ -14412,7 +14447,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 54153
+        "totalAssets": 74223
       },
       {
         "name": "◆AGAi.SC9SxCn",
