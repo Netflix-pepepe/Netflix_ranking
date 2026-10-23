@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 09:04:16",
+  "updated": "2026-10-23 09:04:50",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -94,14 +94,14 @@
     {
       "name": "◆l.y.g.V...",
       "trip": "◆l.y.g.V...",
-      "money": 0,
+      "money": 13620,
       "bank": 1370,
       "loan": 0,
       "prestige": 2,
       "fish": 0,
-      "mine": 3,
+      "mine": 5,
       "hunt": 5,
-      "title": "伝説のハンター",
+      "title": "鉱山王",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 1,
@@ -134,7 +134,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 1370
+      "totalAssets": 14990
     },
     {
       "name": "◆AGAi.SC9SxCn",
@@ -183,97 +183,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792711545,
-      "updated": "2026-10-23 08:25:45",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711545,
-      "updated": "2026-10-23 08:25:45",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711579,
-      "updated": "2026-10-23 08:26:19",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711579,
-      "updated": "2026-10-23 08:26:19",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711612,
-      "updated": "2026-10-23 08:26:52",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711612,
-      "updated": "2026-10-23 08:26:52",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711646,
-      "updated": "2026-10-23 08:27:26",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792711646,
       "updated": "2026-10-23 08:27:26",
@@ -4385,10 +4294,293 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792713860,
+      "updated": "2026-10-23 09:04:20",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713861,
+      "updated": "2026-10-23 09:04:21",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713864,
+      "updated": "2026-10-23 09:04:24",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713864,
+      "updated": "2026-10-23 09:04:24",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713870,
+      "updated": "2026-10-23 09:04:30",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713890,
+      "updated": "2026-10-23 09:04:50",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713890,
+      "updated": "2026-10-23 09:04:50",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
     "money": [
+      {
+        "name": "◆l.y.g.V...",
+        "trip": "◆l.y.g.V...",
+        "money": 13620,
+        "bank": 1370,
+        "loan": 0,
+        "prestige": 2,
+        "fish": 0,
+        "mine": 5,
+        "hunt": 5,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 1,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 14990
+      },
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
@@ -4523,65 +4715,20 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 0
-      },
-      {
-        "name": "◆l.y.g.V...",
-        "trip": "◆l.y.g.V...",
-        "money": 0,
-        "bank": 1370,
-        "loan": 0,
-        "prestige": 2,
-        "fish": 0,
-        "mine": 3,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 1,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 1370
       }
     ],
     "bank": [
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -4614,7 +4761,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -4846,14 +4993,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -4886,7 +5033,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -4936,6 +5083,51 @@
     ],
     "totalAssets": [
       {
+        "name": "◆l.y.g.V...",
+        "trip": "◆l.y.g.V...",
+        "money": 13620,
+        "bank": 1370,
+        "loan": 0,
+        "prestige": 2,
+        "fish": 0,
+        "mine": 5,
+        "hunt": 5,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 1,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 14990
+      },
+      {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
         "money": 5000,
@@ -4979,51 +5171,6 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 5000
-      },
-      {
-        "name": "◆l.y.g.V...",
-        "trip": "◆l.y.g.V...",
-        "money": 0,
-        "bank": 1370,
-        "loan": 0,
-        "prestige": 2,
-        "fish": 0,
-        "mine": 3,
-        "hunt": 5,
-        "title": "伝説のハンター",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 1,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 1370
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -5120,14 +5267,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -5160,7 +5307,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -5437,14 +5584,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -5477,21 +5624,21 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       }
     ],
     "mine": [
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -5524,7 +5671,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -5666,14 +5813,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -5706,7 +5853,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆Sigma.fbis",
@@ -5938,14 +6085,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -5978,7 +6125,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -6075,14 +6222,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -6115,7 +6262,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -6302,14 +6449,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -6342,7 +6489,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -6484,14 +6631,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -6524,7 +6671,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -6666,14 +6813,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -6706,7 +6853,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -6848,14 +6995,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -6888,7 +7035,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7030,14 +7177,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -7070,7 +7217,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7212,14 +7359,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -7252,7 +7399,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7394,14 +7541,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -7434,7 +7581,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7576,14 +7723,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -7616,7 +7763,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7758,14 +7905,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -7798,7 +7945,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7940,14 +8087,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -7980,7 +8127,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8122,14 +8269,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -8162,7 +8309,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8304,14 +8451,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -8344,7 +8491,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8486,14 +8633,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -8526,7 +8673,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8668,14 +8815,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -8708,7 +8855,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8850,14 +8997,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -8890,7 +9037,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9032,14 +9179,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -9072,7 +9219,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9124,14 +9271,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -9164,7 +9311,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -9306,14 +9453,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -9346,7 +9493,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆Sigma.fbis",
@@ -9578,14 +9725,14 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 0,
+        "money": 13620,
         "bank": 1370,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 5,
         "hunt": 5,
-        "title": "伝説のハンター",
+        "title": "鉱山王",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 1,
@@ -9618,7 +9765,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1370
+        "totalAssets": 14990
       },
       {
         "name": "◆AGAi.SC9SxCn",
