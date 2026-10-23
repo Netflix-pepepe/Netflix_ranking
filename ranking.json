@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 08:59:44",
+  "updated": "2026-10-23 09:00:18",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -183,71 +183,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792711045,
-      "updated": "2026-10-23 08:17:25",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711078,
-      "updated": "2026-10-23 08:17:58",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711078,
-      "updated": "2026-10-23 08:17:58",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711111,
-      "updated": "2026-10-23 08:18:31",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792711111,
-      "updated": "2026-10-23 08:18:31",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792711145,
       "updated": "2026-10-23 08:19:05",
@@ -3746,6 +3681,176 @@
     {
       "time": 1792713584,
       "updated": "2026-10-23 08:59:44",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713603,
+      "updated": "2026-10-23 09:00:03",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713615,
+      "updated": "2026-10-23 09:00:15",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713615,
+      "updated": "2026-10-23 09:00:15",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713618,
+      "updated": "2026-10-23 09:00:18",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792713618,
+      "updated": "2026-10-23 09:00:18",
       "rows": [
         {
           "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
