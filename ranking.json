@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 05:58:37",
+  "updated": "2026-10-24 05:59:12",
   "users": [
     {
       "name": "◆ALom.A/WoWoW",
@@ -229,11 +229,11 @@
     {
       "name": "◆rxm22YXNZU",
       "trip": "◆rxm22YXNZU",
-      "money": 69086,
+      "money": 75786,
       "bank": 100000,
       "loan": 0,
       "prestige": 0,
-      "fish": 34,
+      "fish": 35,
       "mine": 5,
       "hunt": 5,
       "title": "伝説のハンター",
@@ -269,7 +269,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 169086
+      "totalAssets": 175786
     },
     {
       "name": "◆l.y.g.V...",
@@ -408,489 +408,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792786613,
-      "updated": "2026-10-24 05:16:53",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
-          "name": "◆H1ep6nClF/Nb",
-          "trip": "◆H1ep6nClF/Nb",
-          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
-          "name": "◆IxIJDqESYg",
-          "trip": "◆IxIJDqESYg",
-          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792786613,
-      "updated": "2026-10-24 05:16:53",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
-          "name": "◆H1ep6nClF/Nb",
-          "trip": "◆H1ep6nClF/Nb",
-          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
-          "name": "◆IxIJDqESYg",
-          "trip": "◆IxIJDqESYg",
-          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792786647,
-      "updated": "2026-10-24 05:17:27",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
-          "name": "◆H1ep6nClF/Nb",
-          "trip": "◆H1ep6nClF/Nb",
-          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
-          "name": "◆IxIJDqESYg",
-          "trip": "◆IxIJDqESYg",
-          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792786647,
-      "updated": "2026-10-24 05:17:27",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
-          "name": "◆H1ep6nClF/Nb",
-          "trip": "◆H1ep6nClF/Nb",
-          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
-          "name": "◆IxIJDqESYg",
-          "trip": "◆IxIJDqESYg",
-          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792786683,
-      "updated": "2026-10-24 05:18:03",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
-          "name": "◆H1ep6nClF/Nb",
-          "trip": "◆H1ep6nClF/Nb",
-          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
-          "name": "◆IxIJDqESYg",
-          "trip": "◆IxIJDqESYg",
-          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792786683,
-      "updated": "2026-10-24 05:18:03",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
-          "name": "◆H1ep6nClF/Nb",
-          "trip": "◆H1ep6nClF/Nb",
-          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
-          "name": "◆IxIJDqESYg",
-          "trip": "◆IxIJDqESYg",
-          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792786718,
-      "updated": "2026-10-24 05:18:38",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
-          "name": "◆H1ep6nClF/Nb",
-          "trip": "◆H1ep6nClF/Nb",
-          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
-          "name": "◆IxIJDqESYg",
-          "trip": "◆IxIJDqESYg",
-          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792786718,
       "updated": "2026-10-24 05:18:38",
@@ -14207,6 +13724,489 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792789119,
+      "updated": "2026-10-24 05:58:39",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
+          "name": "◆H1ep6nClF/Nb",
+          "trip": "◆H1ep6nClF/Nb",
+          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
+          "name": "◆IxIJDqESYg",
+          "trip": "◆IxIJDqESYg",
+          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792789127,
+      "updated": "2026-10-24 05:58:47",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
+          "name": "◆H1ep6nClF/Nb",
+          "trip": "◆H1ep6nClF/Nb",
+          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
+          "name": "◆IxIJDqESYg",
+          "trip": "◆IxIJDqESYg",
+          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792789135,
+      "updated": "2026-10-24 05:58:55",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
+          "name": "◆H1ep6nClF/Nb",
+          "trip": "◆H1ep6nClF/Nb",
+          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
+          "name": "◆IxIJDqESYg",
+          "trip": "◆IxIJDqESYg",
+          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792789138,
+      "updated": "2026-10-24 05:58:58",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
+          "name": "◆H1ep6nClF/Nb",
+          "trip": "◆H1ep6nClF/Nb",
+          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
+          "name": "◆IxIJDqESYg",
+          "trip": "◆IxIJDqESYg",
+          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792789143,
+      "updated": "2026-10-24 05:59:03",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
+          "name": "◆H1ep6nClF/Nb",
+          "trip": "◆H1ep6nClF/Nb",
+          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
+          "name": "◆IxIJDqESYg",
+          "trip": "◆IxIJDqESYg",
+          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792789152,
+      "updated": "2026-10-24 05:59:12",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
+          "name": "◆H1ep6nClF/Nb",
+          "trip": "◆H1ep6nClF/Nb",
+          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
+          "name": "◆IxIJDqESYg",
+          "trip": "◆IxIJDqESYg",
+          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792789152,
+      "updated": "2026-10-24 05:59:12",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆H1ep6nClF/Nb|◆H1ep6nClF/Nb",
+          "name": "◆H1ep6nClF/Nb",
+          "trip": "◆H1ep6nClF/Nb",
+          "label": "◆H1ep6nClF/Nb：◆H1ep6nClF/Nb",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆IxIJDqESYg|◆IxIJDqESYg",
+          "name": "◆IxIJDqESYg",
+          "trip": "◆IxIJDqESYg",
+          "label": "◆IxIJDqESYg：◆IxIJDqESYg",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -14259,11 +14259,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -14299,7 +14299,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆ALom.A/WoWoW",
@@ -14621,11 +14621,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -14661,7 +14661,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -15253,11 +15253,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -15293,7 +15293,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -15435,11 +15435,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -15475,7 +15475,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -16112,11 +16112,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -16152,7 +16152,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -16249,11 +16249,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -16289,7 +16289,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -16701,11 +16701,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -16741,7 +16741,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -17108,11 +17108,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -17148,7 +17148,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -17695,11 +17695,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -17735,7 +17735,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -17877,11 +17877,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -17917,7 +17917,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -18554,11 +18554,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -18594,7 +18594,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -18961,11 +18961,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -19001,7 +19001,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -19368,11 +19368,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -19408,7 +19408,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -19775,11 +19775,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -19815,7 +19815,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -20182,11 +20182,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -20222,7 +20222,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -20589,11 +20589,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -20629,7 +20629,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -20951,11 +20951,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -20991,7 +20991,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -21358,11 +21358,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -21398,7 +21398,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -21765,11 +21765,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -21805,7 +21805,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -22172,11 +22172,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -22212,7 +22212,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -22579,11 +22579,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -22619,7 +22619,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -22986,11 +22986,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -23026,7 +23026,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -23393,11 +23393,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -23433,7 +23433,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -23800,11 +23800,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -23840,7 +23840,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -24207,11 +24207,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -24247,7 +24247,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -24614,11 +24614,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -24654,7 +24654,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -24841,11 +24841,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -24881,7 +24881,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -25203,11 +25203,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -25243,7 +25243,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
@@ -25835,11 +25835,11 @@
       {
         "name": "◆rxm22YXNZU",
         "trip": "◆rxm22YXNZU",
-        "money": 69086,
+        "money": 75786,
         "bank": 100000,
         "loan": 0,
         "prestige": 0,
-        "fish": 34,
+        "fish": 35,
         "mine": 5,
         "hunt": 5,
         "title": "伝説のハンター",
@@ -25875,7 +25875,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 169086
+        "totalAssets": 175786
       },
       {
         "name": "◆l.y.g.V...",
