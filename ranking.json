@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 09:31:38",
+  "updated": "2026-10-23 09:32:11",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -49,12 +49,12 @@
     {
       "name": "◆Sigma.fbis",
       "trip": "◆Sigma.fbis",
-      "money": 6240,
+      "money": 6360,
       "bank": 8260,
       "loan": 0,
       "prestige": 2,
       "fish": 0,
-      "mine": 3,
+      "mine": 4,
       "hunt": 4,
       "title": "",
       "stockAssets": 0,
@@ -89,7 +89,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 14500
+      "totalAssets": 14620
     },
     {
       "name": "◆l.y.g.V...",
@@ -183,142 +183,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792713625,
-      "updated": "2026-10-23 09:00:25",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792713625,
-      "updated": "2026-10-23 09:00:25",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792713652,
-      "updated": "2026-10-23 09:00:52",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792713652,
-      "updated": "2026-10-23 09:00:52",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792713679,
       "updated": "2026-10-23 09:01:19",
@@ -6982,6 +6846,142 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792715498,
+      "updated": "2026-10-23 09:31:38",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792715526,
+      "updated": "2026-10-23 09:32:06",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792715531,
+      "updated": "2026-10-23 09:32:11",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792715531,
+      "updated": "2026-10-23 09:32:11",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -6989,12 +6989,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -7029,7 +7029,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -7171,12 +7171,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -7211,7 +7211,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -7398,12 +7398,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -7438,7 +7438,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -7535,12 +7535,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -7575,7 +7575,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -7762,12 +7762,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -7802,7 +7802,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -8034,12 +8034,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -8074,7 +8074,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       }
     ],
     "mine": [
@@ -8126,12 +8126,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -8166,7 +8166,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -8308,12 +8308,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -8348,7 +8348,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -8490,12 +8490,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -8530,7 +8530,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -8762,12 +8762,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -8802,7 +8802,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       }
     ],
     "casinoProfit": [
@@ -8854,12 +8854,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -8894,7 +8894,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -9036,12 +9036,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -9076,7 +9076,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -9218,12 +9218,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -9258,7 +9258,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -9400,12 +9400,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -9440,7 +9440,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -9582,12 +9582,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -9622,7 +9622,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -9764,12 +9764,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -9804,7 +9804,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -9946,12 +9946,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -9986,7 +9986,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -10128,12 +10128,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -10168,7 +10168,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -10310,12 +10310,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -10350,7 +10350,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -10492,12 +10492,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -10532,7 +10532,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -10674,12 +10674,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -10714,7 +10714,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -10856,12 +10856,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -10896,7 +10896,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -11038,12 +11038,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -11078,7 +11078,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -11220,12 +11220,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -11260,7 +11260,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -11402,12 +11402,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -11442,7 +11442,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -11584,12 +11584,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -11624,7 +11624,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
@@ -11811,12 +11811,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -11851,7 +11851,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -11948,12 +11948,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -11988,7 +11988,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -12130,12 +12130,12 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 6240,
+        "money": 6360,
         "bank": 8260,
         "loan": 0,
         "prestige": 2,
         "fish": 0,
-        "mine": 3,
+        "mine": 4,
         "hunt": 4,
         "title": "",
         "stockAssets": 0,
@@ -12170,7 +12170,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 14500
+        "totalAssets": 14620
       },
       {
         "name": "◆l.y.g.V...",
