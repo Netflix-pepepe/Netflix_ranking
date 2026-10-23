@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 19:28:08",
+  "updated": "2026-10-23 19:28:51",
   "users": [
     {
       "name": "◆ALom.A/WoWoW",
@@ -139,7 +139,7 @@
     {
       "name": "◆KNM/k2O0OWgj",
       "trip": "◆KNM/k2O0OWgj",
-      "money": 1353,
+      "money": 253,
       "bank": 0,
       "loan": 0,
       "prestige": 0,
@@ -179,7 +179,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 1353
+      "totalAssets": 253
     },
     {
       "name": "◆rxm22YXNZU",
@@ -318,446 +318,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792750231,
-      "updated": "2026-10-23 19:10:31",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792750242,
-      "updated": "2026-10-23 19:10:42",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792750242,
-      "updated": "2026-10-23 19:10:42",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792750245,
-      "updated": "2026-10-23 19:10:45",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792750261,
-      "updated": "2026-10-23 19:11:01",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792750263,
-      "updated": "2026-10-23 19:11:03",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792750265,
-      "updated": "2026-10-23 19:11:05",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792750267,
-      "updated": "2026-10-23 19:11:07",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792750276,
       "updated": "2026-10-23 19:11:16",
@@ -11317,6 +10877,446 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792751293,
+      "updated": "2026-10-23 19:28:13",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792751301,
+      "updated": "2026-10-23 19:28:21",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792751312,
+      "updated": "2026-10-23 19:28:32",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792751313,
+      "updated": "2026-10-23 19:28:33",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792751315,
+      "updated": "2026-10-23 19:28:35",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792751328,
+      "updated": "2026-10-23 19:28:48",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792751331,
+      "updated": "2026-10-23 19:28:51",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792751331,
+      "updated": "2026-10-23 19:28:51",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -11502,51 +11502,6 @@
         "totalAssets": 8731
       },
       {
-        "name": "◆KNM/k2O0OWgj",
-        "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 1353
-      },
-      {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
         "money": 300,
@@ -11590,6 +11545,51 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 300
+      },
+      {
+        "name": "◆KNM/k2O0OWgj",
+        "trip": "◆KNM/k2O0OWgj",
+        "money": 253,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 0,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 253
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -11821,7 +11821,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -11861,7 +11861,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -12093,7 +12093,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -12133,7 +12133,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -12453,51 +12453,6 @@
         "totalAssets": 5000
       },
       {
-        "name": "◆KNM/k2O0OWgj",
-        "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
-        "bank": 0,
-        "loan": 0,
-        "prestige": 0,
-        "fish": 0,
-        "mine": 0,
-        "hunt": 0,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 1353
-      },
-      {
         "name": "◆gg.bro0B2ly8",
         "trip": "◆gg.bro0B2ly8",
         "money": 300,
@@ -12541,6 +12496,51 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 300
+      },
+      {
+        "name": "◆KNM/k2O0OWgj",
+        "trip": "◆KNM/k2O0OWgj",
+        "money": 253,
+        "bank": 0,
+        "loan": 0,
+        "prestige": 0,
+        "fish": 0,
+        "mine": 0,
+        "hunt": 0,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 0,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 253
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -12772,7 +12772,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -12812,7 +12812,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -13179,7 +13179,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -13219,7 +13219,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       }
     ],
     "mine": [
@@ -13451,7 +13451,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -13491,7 +13491,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -13768,7 +13768,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -13808,7 +13808,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -13995,7 +13995,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -14035,7 +14035,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -14222,7 +14222,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -14262,7 +14262,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -14674,7 +14674,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -14714,7 +14714,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -14991,7 +14991,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -15031,7 +15031,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -15308,7 +15308,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -15348,7 +15348,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -15625,7 +15625,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -15665,7 +15665,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -15942,7 +15942,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -15982,7 +15982,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -16259,7 +16259,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -16299,7 +16299,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -16531,7 +16531,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -16571,7 +16571,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -16848,7 +16848,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -16888,7 +16888,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -17165,7 +17165,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -17205,7 +17205,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -17482,7 +17482,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -17522,7 +17522,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -17799,7 +17799,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -17839,7 +17839,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -18116,7 +18116,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -18156,7 +18156,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -18433,7 +18433,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -18473,7 +18473,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -18750,7 +18750,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -18790,7 +18790,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -19067,7 +19067,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -19107,7 +19107,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -19384,7 +19384,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -19424,7 +19424,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
@@ -19791,7 +19791,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -19831,7 +19831,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -20153,7 +20153,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -20193,7 +20193,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       }
     ],
     "debt": [
@@ -20335,7 +20335,7 @@
       {
         "name": "◆KNM/k2O0OWgj",
         "trip": "◆KNM/k2O0OWgj",
-        "money": 1353,
+        "money": 253,
         "bank": 0,
         "loan": 0,
         "prestige": 0,
@@ -20375,7 +20375,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 1353
+        "totalAssets": 253
       },
       {
         "name": "◆rxm22YXNZU",
