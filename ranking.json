@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 09:50:25",
+  "updated": "2026-10-23 09:51:00",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -49,14 +49,14 @@
     {
       "name": "◆Sigma.fbis",
       "trip": "◆Sigma.fbis",
-      "money": 280,
+      "money": 700,
       "bank": 620,
       "loan": 0,
       "prestige": 4,
       "fish": 0,
       "mine": 4,
-      "hunt": 4,
-      "title": "",
+      "hunt": 5,
+      "title": "伝説のハンター",
       "stockAssets": 0,
       "level": 0,
       "jobLevel": 0,
@@ -64,7 +64,7 @@
       "shortAssets": 0,
       "stockDividends": 0,
       "stockRealizedProfit": 0,
-      "titleCount": 0,
+      "titleCount": 1,
       "casinoGames": 0,
       "casinoWins": 0,
       "casinoLosses": 0,
@@ -89,7 +89,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 900
+      "totalAssets": 1320
     },
     {
       "name": "◆l.y.g.V...",
@@ -183,108 +183,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792714364,
-      "updated": "2026-10-23 09:12:44",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792714364,
-      "updated": "2026-10-23 09:12:44",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792714367,
-      "updated": "2026-10-23 09:12:47",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792714369,
       "updated": "2026-10-23 09:12:49",
@@ -6982,6 +6880,108 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792716637,
+      "updated": "2026-10-23 09:50:37",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792716660,
+      "updated": "2026-10-23 09:51:00",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792716660,
+      "updated": "2026-10-23 09:51:00",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -7034,14 +7034,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -7049,7 +7049,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -7074,7 +7074,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7216,14 +7216,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -7231,7 +7231,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -7256,7 +7256,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -7398,14 +7398,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -7413,7 +7413,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -7438,7 +7438,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -7580,14 +7580,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -7595,7 +7595,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -7620,7 +7620,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7717,14 +7717,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -7732,7 +7732,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -7757,7 +7757,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -8034,14 +8034,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -8049,7 +8049,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -8074,7 +8074,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       }
     ],
     "mine": [
@@ -8126,14 +8126,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -8141,7 +8141,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -8166,7 +8166,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -8261,6 +8261,51 @@
     ],
     "hunt": [
       {
+        "name": "◆Sigma.fbis",
+        "trip": "◆Sigma.fbis",
+        "money": 700,
+        "bank": 620,
+        "loan": 0,
+        "prestige": 4,
+        "fish": 0,
+        "mine": 4,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 1,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 1320
+      },
+      {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
         "money": 19112,
@@ -8304,51 +8349,6 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 25712
-      },
-      {
-        "name": "◆Sigma.fbis",
-        "trip": "◆Sigma.fbis",
-        "money": 280,
-        "bank": 620,
-        "loan": 0,
-        "prestige": 4,
-        "fish": 0,
-        "mine": 4,
-        "hunt": 4,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 900
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -8490,14 +8490,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -8505,7 +8505,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -8530,7 +8530,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -8762,14 +8762,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -8777,7 +8777,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -8802,7 +8802,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       }
     ],
     "casinoProfit": [
@@ -8854,14 +8854,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -8869,7 +8869,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -8894,7 +8894,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -9036,14 +9036,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -9051,7 +9051,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -9076,7 +9076,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -9218,14 +9218,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -9233,7 +9233,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -9258,7 +9258,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -9400,14 +9400,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -9415,7 +9415,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -9440,7 +9440,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -9582,14 +9582,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -9597,7 +9597,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -9622,7 +9622,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -9764,14 +9764,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -9779,7 +9779,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -9804,7 +9804,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -9946,14 +9946,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -9961,7 +9961,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -9986,7 +9986,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -10128,14 +10128,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -10143,7 +10143,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -10168,7 +10168,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -10310,14 +10310,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -10325,7 +10325,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -10350,7 +10350,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -10492,14 +10492,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -10507,7 +10507,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -10532,7 +10532,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -10674,14 +10674,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -10689,7 +10689,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -10714,7 +10714,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -10856,14 +10856,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -10871,7 +10871,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -10896,7 +10896,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -11038,14 +11038,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -11053,7 +11053,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -11078,7 +11078,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -11220,14 +11220,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -11235,7 +11235,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -11260,7 +11260,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -11402,14 +11402,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -11417,7 +11417,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -11442,7 +11442,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -11584,14 +11584,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -11599,7 +11599,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -11624,7 +11624,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
@@ -11719,6 +11719,51 @@
     ],
     "titleCount": [
       {
+        "name": "◆Sigma.fbis",
+        "trip": "◆Sigma.fbis",
+        "money": 700,
+        "bank": 620,
+        "loan": 0,
+        "prestige": 4,
+        "fish": 0,
+        "mine": 4,
+        "hunt": 5,
+        "title": "伝説のハンター",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 1,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 1320
+      },
+      {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
         "money": 19112,
@@ -11807,51 +11852,6 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 0
-      },
-      {
-        "name": "◆Sigma.fbis",
-        "trip": "◆Sigma.fbis",
-        "money": 280,
-        "bank": 620,
-        "loan": 0,
-        "prestige": 4,
-        "fish": 0,
-        "mine": 4,
-        "hunt": 4,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 900
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -11948,14 +11948,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -11963,7 +11963,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -11988,7 +11988,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -12130,14 +12130,14 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 280,
+        "money": 700,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
         "fish": 0,
         "mine": 4,
-        "hunt": 4,
-        "title": "",
+        "hunt": 5,
+        "title": "伝説のハンター",
         "stockAssets": 0,
         "level": 0,
         "jobLevel": 0,
@@ -12145,7 +12145,7 @@
         "shortAssets": 0,
         "stockDividends": 0,
         "stockRealizedProfit": 0,
-        "titleCount": 0,
+        "titleCount": 1,
         "casinoGames": 0,
         "casinoWins": 0,
         "casinoLosses": 0,
@@ -12170,7 +12170,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 900
+        "totalAssets": 1320
       },
       {
         "name": "◆l.y.g.V...",
