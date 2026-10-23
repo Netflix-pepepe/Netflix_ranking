@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 09:17:55",
+  "updated": "2026-10-23 09:18:29",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -94,11 +94,11 @@
     {
       "name": "◆l.y.g.V...",
       "trip": "◆l.y.g.V...",
-      "money": 16310,
+      "money": 16492,
       "bank": 6600,
       "loan": 0,
       "prestige": 4,
-      "fish": 0,
+      "fish": 1,
       "mine": 5,
       "hunt": 5,
       "title": "鉱山王",
@@ -134,7 +134,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 22910
+      "totalAssets": 23092
     },
     {
       "name": "◆AGAi.SC9SxCn",
@@ -183,66 +183,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792713101,
-      "updated": "2026-10-23 08:51:41",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792713108,
-      "updated": "2026-10-23 08:51:48",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792713116,
-      "updated": "2026-10-23 08:51:56",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792713116,
       "updated": "2026-10-23 08:51:56",
@@ -6394,6 +6334,108 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792714678,
+      "updated": "2026-10-23 09:17:58",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792714709,
+      "updated": "2026-10-23 09:18:29",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792714709,
+      "updated": "2026-10-23 09:18:29",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -6446,11 +6488,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -6486,7 +6528,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -6583,11 +6625,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -6623,7 +6665,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -6855,11 +6897,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -6895,7 +6937,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -6947,11 +6989,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -6987,7 +7029,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆Sigma.fbis",
@@ -7129,11 +7171,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7169,7 +7211,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -7309,6 +7351,51 @@
     ],
     "fish": [
       {
+        "name": "◆l.y.g.V...",
+        "trip": "◆l.y.g.V...",
+        "money": 16492,
+        "bank": 6600,
+        "loan": 0,
+        "prestige": 4,
+        "fish": 1,
+        "mine": 5,
+        "hunt": 5,
+        "title": "鉱山王",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 1,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 1,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 23092
+      },
+      {
         "name": "◆AGAi.SC9SxCn",
         "trip": "◆AGAi.SC9SxCn",
         "money": 150,
@@ -7442,62 +7529,17 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 18500
-      },
-      {
-        "name": "◆l.y.g.V...",
-        "trip": "◆l.y.g.V...",
-        "money": 16310,
-        "bank": 6600,
-        "loan": 0,
-        "prestige": 4,
-        "fish": 0,
-        "mine": 5,
-        "hunt": 5,
-        "title": "鉱山王",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 1,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 1,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 22910
       }
     ],
     "mine": [
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7533,7 +7575,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆Sigma.fbis",
@@ -7675,11 +7717,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7715,7 +7757,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆Sigma.fbis",
@@ -7947,11 +7989,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7987,7 +8029,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8084,11 +8126,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8124,7 +8166,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8311,11 +8353,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8351,7 +8393,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8493,11 +8535,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8533,7 +8575,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8675,11 +8717,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8715,7 +8757,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -8857,11 +8899,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8897,7 +8939,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9039,11 +9081,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9079,7 +9121,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9221,11 +9263,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9261,7 +9303,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9403,11 +9445,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9443,7 +9485,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9585,11 +9627,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9625,7 +9667,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9767,11 +9809,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9807,7 +9849,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -9949,11 +9991,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9989,7 +10031,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -10131,11 +10173,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10171,7 +10213,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -10313,11 +10355,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10353,7 +10395,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -10495,11 +10537,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10535,7 +10577,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -10677,11 +10719,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10717,7 +10759,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -10859,11 +10901,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10899,7 +10941,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -11041,11 +11083,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11081,7 +11123,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -11133,11 +11175,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11173,7 +11215,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -11315,11 +11357,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11355,7 +11397,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆Sigma.fbis",
@@ -11587,11 +11629,11 @@
       {
         "name": "◆l.y.g.V...",
         "trip": "◆l.y.g.V...",
-        "money": 16310,
+        "money": 16492,
         "bank": 6600,
         "loan": 0,
         "prestige": 4,
-        "fish": 0,
+        "fish": 1,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11627,7 +11669,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 22910
+        "totalAssets": 23092
       },
       {
         "name": "◆AGAi.SC9SxCn",
