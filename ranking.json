@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 09:57:05",
+  "updated": "2026-10-23 09:57:39",
   "users": [
     {
       "name": "◆gg.bro0B2ly8",
@@ -49,11 +49,11 @@
     {
       "name": "◆Sigma.fbis",
       "trip": "◆Sigma.fbis",
-      "money": 3971,
+      "money": 4321,
       "bank": 620,
       "loan": 0,
       "prestige": 4,
-      "fish": 6,
+      "fish": 7,
       "mine": 5,
       "hunt": 5,
       "title": "鉱山王",
@@ -89,7 +89,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 4591
+      "totalAssets": 4941
     },
     {
       "name": "◆l.y.g.V...",
@@ -183,74 +183,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792714709,
-      "updated": "2026-10-23 09:18:29",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792714709,
-      "updated": "2026-10-23 09:18:29",
-      "rows": [
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792714717,
       "updated": "2026-10-23 09:18:37",
@@ -6982,6 +6914,74 @@
           "stockAssets": 0
         }
       ]
+    },
+    {
+      "time": 1792717059,
+      "updated": "2026-10-23 09:57:39",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792717059,
+      "updated": "2026-10-23 09:57:39",
+      "rows": [
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
     }
   ],
   "rankings": {
@@ -7034,11 +7034,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7074,7 +7074,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7216,11 +7216,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7256,7 +7256,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -7398,11 +7398,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7438,7 +7438,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -7580,11 +7580,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7620,7 +7620,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆AGAi.SC9SxCn",
@@ -7717,11 +7717,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7757,7 +7757,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -7899,11 +7899,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -7939,7 +7939,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -8081,11 +8081,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8121,7 +8121,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -8263,11 +8263,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8303,7 +8303,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -8490,11 +8490,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8530,7 +8530,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -8762,11 +8762,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8802,7 +8802,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       }
     ],
     "casinoProfit": [
@@ -8854,11 +8854,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -8894,7 +8894,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -9036,11 +9036,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9076,7 +9076,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -9218,11 +9218,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9258,7 +9258,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -9400,11 +9400,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9440,7 +9440,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -9582,11 +9582,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9622,7 +9622,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -9764,11 +9764,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9804,7 +9804,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -9946,11 +9946,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -9986,7 +9986,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -10128,11 +10128,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10168,7 +10168,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -10310,11 +10310,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10350,7 +10350,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -10492,11 +10492,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10532,7 +10532,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -10674,11 +10674,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10714,7 +10714,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -10856,11 +10856,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -10896,7 +10896,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -11038,11 +11038,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11078,7 +11078,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -11220,11 +11220,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11260,7 +11260,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -11402,11 +11402,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11442,7 +11442,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -11584,11 +11584,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11624,7 +11624,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -11721,11 +11721,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11761,7 +11761,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -11903,11 +11903,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -11943,7 +11943,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
@@ -12130,11 +12130,11 @@
       {
         "name": "◆Sigma.fbis",
         "trip": "◆Sigma.fbis",
-        "money": 3971,
+        "money": 4321,
         "bank": 620,
         "loan": 0,
         "prestige": 4,
-        "fish": 6,
+        "fish": 7,
         "mine": 5,
         "hunt": 5,
         "title": "鉱山王",
@@ -12170,7 +12170,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 4591
+        "totalAssets": 4941
       },
       {
         "name": "◆l.y.g.V...",
