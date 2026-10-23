@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 22:07:28",
+  "updated": "2026-10-23 22:08:08",
   "users": [
     {
       "name": "◆ALom.A/WoWoW",
@@ -318,501 +318,6 @@
     }
   ],
   "stockRankingHistory": [
-    {
-      "time": 1792759677,
-      "updated": "2026-10-23 21:47:57",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792759680,
-      "updated": "2026-10-23 21:48:00",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792759681,
-      "updated": "2026-10-23 21:48:01",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792759686,
-      "updated": "2026-10-23 21:48:06",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792759687,
-      "updated": "2026-10-23 21:48:07",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792759690,
-      "updated": "2026-10-23 21:48:10",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792759690,
-      "updated": "2026-10-23 21:48:10",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792759695,
-      "updated": "2026-10-23 21:48:15",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
-    {
-      "time": 1792759698,
-      "updated": "2026-10-23 21:48:18",
-      "rows": [
-        {
-          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
-          "name": "◆ALom.A/WoWoW",
-          "trip": "◆ALom.A/WoWoW",
-          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
-          "name": "◆gg.bro0B2ly8",
-          "trip": "◆gg.bro0B2ly8",
-          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆Sigma.fbis|◆Sigma.fbis",
-          "name": "◆Sigma.fbis",
-          "trip": "◆Sigma.fbis",
-          "label": "◆Sigma.fbis：◆Sigma.fbis",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
-          "name": "◆KNM/k2O0OWgj",
-          "trip": "◆KNM/k2O0OWgj",
-          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
-          "name": "◆rxm22YXNZU",
-          "trip": "◆rxm22YXNZU",
-          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆l.y.g.V...|◆l.y.g.V...",
-          "name": "◆l.y.g.V...",
-          "trip": "◆l.y.g.V...",
-          "label": "◆l.y.g.V...：◆l.y.g.V...",
-          "stockAssets": 0
-        },
-        {
-          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
-          "name": "◆AGAi.SC9SxCn",
-          "trip": "◆AGAi.SC9SxCn",
-          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
-          "stockAssets": 0
-        }
-      ]
-    },
     {
       "time": 1792759705,
       "updated": "2026-10-23 21:48:25",
@@ -11266,6 +10771,501 @@
     {
       "time": 1792760848,
       "updated": "2026-10-23 22:07:28",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760849,
+      "updated": "2026-10-23 22:07:29",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760854,
+      "updated": "2026-10-23 22:07:34",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760864,
+      "updated": "2026-10-23 22:07:44",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760866,
+      "updated": "2026-10-23 22:07:46",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760870,
+      "updated": "2026-10-23 22:07:50",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760874,
+      "updated": "2026-10-23 22:07:54",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760887,
+      "updated": "2026-10-23 22:08:07",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760888,
+      "updated": "2026-10-23 22:08:08",
+      "rows": [
+        {
+          "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
+          "name": "◆ALom.A/WoWoW",
+          "trip": "◆ALom.A/WoWoW",
+          "label": "◆ALom.A/WoWoW：◆ALom.A/WoWoW",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆gg.bro0B2ly8|◆gg.bro0B2ly8",
+          "name": "◆gg.bro0B2ly8",
+          "trip": "◆gg.bro0B2ly8",
+          "label": "◆gg.bro0B2ly8：◆gg.bro0B2ly8",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆Sigma.fbis|◆Sigma.fbis",
+          "name": "◆Sigma.fbis",
+          "trip": "◆Sigma.fbis",
+          "label": "◆Sigma.fbis：◆Sigma.fbis",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆KNM/k2O0OWgj|◆KNM/k2O0OWgj",
+          "name": "◆KNM/k2O0OWgj",
+          "trip": "◆KNM/k2O0OWgj",
+          "label": "◆KNM/k2O0OWgj：◆KNM/k2O0OWgj",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆rxm22YXNZU|◆rxm22YXNZU",
+          "name": "◆rxm22YXNZU",
+          "trip": "◆rxm22YXNZU",
+          "label": "◆rxm22YXNZU：◆rxm22YXNZU",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆l.y.g.V...|◆l.y.g.V...",
+          "name": "◆l.y.g.V...",
+          "trip": "◆l.y.g.V...",
+          "label": "◆l.y.g.V...：◆l.y.g.V...",
+          "stockAssets": 0
+        },
+        {
+          "uid": "◆AGAi.SC9SxCn|◆AGAi.SC9SxCn",
+          "name": "◆AGAi.SC9SxCn",
+          "trip": "◆AGAi.SC9SxCn",
+          "label": "◆AGAi.SC9SxCn：◆AGAi.SC9SxCn",
+          "stockAssets": 0
+        }
+      ]
+    },
+    {
+      "time": 1792760888,
+      "updated": "2026-10-23 22:08:08",
       "rows": [
         {
           "uid": "◆ALom.A/WoWoW|◆ALom.A/WoWoW",
