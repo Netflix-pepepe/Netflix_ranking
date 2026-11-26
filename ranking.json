@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 15:20:00",
+  "updated": "2026-11-26 15:20:37",
   "users": [
     {
       "name": "◆toroUthGMY",
@@ -1894,7 +1894,7 @@
     {
       "name": "◆23Efi/VAAQ",
       "trip": "◆23Efi/VAAQ",
-      "money": 18139,
+      "money": 20076,
       "bank": 1474,
       "loan": 0,
       "prestige": 77,
@@ -1934,7 +1934,7 @@
       "kenoWins": 0,
       "pokerGames": 0,
       "pokerWins": 0,
-      "totalAssets": 19613
+      "totalAssets": 21550
     },
     {
       "name": "ケツ圧",
@@ -4864,8 +4864,8 @@
   ],
   "stockRankingHistory": [
     {
-      "time": 1795674000,
-      "updated": "2026-11-26 15:20:00",
+      "time": 1795674037,
+      "updated": "2026-11-26 15:20:37",
       "rows": [
         {
           "uid": "◆REVENGE2oPR4|◆REVENGE2oPR4",
@@ -6709,6 +6709,51 @@
         "totalAssets": 20381
       },
       {
+        "name": "◆23Efi/VAAQ",
+        "trip": "◆23Efi/VAAQ",
+        "money": 20076,
+        "bank": 1474,
+        "loan": 0,
+        "prestige": 77,
+        "fish": 1,
+        "mine": 1,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 0,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 21550
+      },
+      {
         "name": "◆x7oTol796I",
         "trip": "◆x7oTol796I",
         "money": 20001,
@@ -6752,51 +6797,6 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 20001
-      },
-      {
-        "name": "◆23Efi/VAAQ",
-        "trip": "◆23Efi/VAAQ",
-        "money": 18139,
-        "bank": 1474,
-        "loan": 0,
-        "prestige": 77,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 19613
       },
       {
         "name": "◆YKY/oEb8ps",
@@ -11123,7 +11123,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -11163,7 +11163,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "◆toroUthGMY",
@@ -17425,7 +17425,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -17465,7 +17465,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -21475,6 +21475,51 @@
         "totalAssets": 23037
       },
       {
+        "name": "◆23Efi/VAAQ",
+        "trip": "◆23Efi/VAAQ",
+        "money": 20076,
+        "bank": 1474,
+        "loan": 0,
+        "prestige": 77,
+        "fish": 1,
+        "mine": 1,
+        "hunt": 1,
+        "title": "",
+        "stockAssets": 0,
+        "level": 0,
+        "jobLevel": 0,
+        "stockCount": 0,
+        "shortAssets": 0,
+        "stockDividends": 0,
+        "stockRealizedProfit": 0,
+        "titleCount": 0,
+        "casinoGames": 0,
+        "casinoWins": 0,
+        "casinoLosses": 0,
+        "casinoWagered": 0,
+        "casinoPayout": 0,
+        "casinoProfit": 0,
+        "casinoBestMultiplier": 0.0,
+        "blackjackGames": 0,
+        "blackjackWins": 0,
+        "rouletteGames": 0,
+        "rouletteWins": 0,
+        "slotGames": 0,
+        "slotWins": 0,
+        "crashGames": 0,
+        "crashWins": 0,
+        "crashBest": 0.0,
+        "highlowGames": 0,
+        "highlowWins": 0,
+        "baccaratGames": 0,
+        "baccaratWins": 0,
+        "kenoGames": 0,
+        "kenoWins": 0,
+        "pokerGames": 0,
+        "pokerWins": 0,
+        "totalAssets": 21550
+      },
+      {
         "name": "花葬",
         "trip": "◆flower.nXrpA",
         "money": 20381,
@@ -21563,51 +21608,6 @@
         "pokerGames": 0,
         "pokerWins": 0,
         "totalAssets": 20001
-      },
-      {
-        "name": "◆23Efi/VAAQ",
-        "trip": "◆23Efi/VAAQ",
-        "money": 18139,
-        "bank": 1474,
-        "loan": 0,
-        "prestige": 77,
-        "fish": 1,
-        "mine": 1,
-        "hunt": 1,
-        "title": "",
-        "stockAssets": 0,
-        "level": 0,
-        "jobLevel": 0,
-        "stockCount": 0,
-        "shortAssets": 0,
-        "stockDividends": 0,
-        "stockRealizedProfit": 0,
-        "titleCount": 0,
-        "casinoGames": 0,
-        "casinoWins": 0,
-        "casinoLosses": 0,
-        "casinoWagered": 0,
-        "casinoPayout": 0,
-        "casinoProfit": 0,
-        "casinoBestMultiplier": 0.0,
-        "blackjackGames": 0,
-        "blackjackWins": 0,
-        "rouletteGames": 0,
-        "rouletteWins": 0,
-        "slotGames": 0,
-        "slotWins": 0,
-        "crashGames": 0,
-        "crashWins": 0,
-        "crashBest": 0.0,
-        "highlowGames": 0,
-        "highlowWins": 0,
-        "baccaratGames": 0,
-        "baccaratWins": 0,
-        "kenoGames": 0,
-        "kenoWins": 0,
-        "pokerGames": 0,
-        "pokerWins": 0,
-        "totalAssets": 19613
       },
       {
         "name": "◆Salt/ZiKEE",
@@ -25169,7 +25169,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -25209,7 +25209,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "◆gg.bro0B2ly8",
@@ -32596,7 +32596,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -32636,7 +32636,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -36918,7 +36918,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -36958,7 +36958,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "◆l.y.g.V...",
@@ -41330,7 +41330,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -41370,7 +41370,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "◆l.y.g.V...",
@@ -46417,7 +46417,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -46457,7 +46457,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -52494,7 +52494,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -52534,7 +52534,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -56051,7 +56051,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -56091,7 +56091,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -61408,7 +61408,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -61448,7 +61448,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -66000,7 +66000,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -66040,7 +66040,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -70862,7 +70862,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -70902,7 +70902,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -75994,7 +75994,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -76034,7 +76034,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -80586,7 +80586,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -80626,7 +80626,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -85313,7 +85313,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -85353,7 +85353,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -90175,7 +90175,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -90215,7 +90215,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -95037,7 +95037,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -95077,7 +95077,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -99899,7 +99899,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -99939,7 +99939,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -104761,7 +104761,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -104801,7 +104801,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -109623,7 +109623,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -109663,7 +109663,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -114665,7 +114665,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -114705,7 +114705,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -119347,7 +119347,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -119387,7 +119387,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -124209,7 +124209,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -124249,7 +124249,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -129296,7 +129296,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -129336,7 +129336,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -134833,7 +134833,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -134873,7 +134873,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
@@ -139335,7 +139335,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -139375,7 +139375,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "◆JXdMWRWPis",
@@ -144197,7 +144197,7 @@
       {
         "name": "◆23Efi/VAAQ",
         "trip": "◆23Efi/VAAQ",
-        "money": 18139,
+        "money": 20076,
         "bank": 1474,
         "loan": 0,
         "prestige": 77,
@@ -144237,7 +144237,7 @@
         "kenoWins": 0,
         "pokerGames": 0,
         "pokerWins": 0,
-        "totalAssets": 19613
+        "totalAssets": 21550
       },
       {
         "name": "ケツ圧",
